@@ -1,6 +1,126 @@
 hash-format = "sha256"
 
 [[files]]
+file = "datapacks/PK_Attract_Villagers_V.3.0.0_MC_1.21.3.zip"
+hash = "806c4514f9239bc913200fb6cd3116901479d95e6f50b9b67e8d114f3bbf3bbc"
+
+[[files]]
+file = "datapacks/PK_Shulker_Boxes_Names_V.3.0.0_MC_1.21.zip"
+hash = "5918d7138417e1c5682b62c4ab7a5c189be8ca765562b5b5546389d9362dcdc0"
+
+[[files]]
+file = "datapacks/VanillaTweaks_Crafting_Tweaks_MC1.21-1.21.6.zip"
+hash = "6e012452d8277da33a68c902b006a9a12429c06284bde324f89b40906a164b74"
+
+[[files]]
+file = "datapacks/anti creeper grief v1.1.12 (MC 1.21-1.21.6).zip"
+hash = "3e465ab20e4621e71477ee1decce9747dcc60e99ce2575d3fd1a587454694908"
+
+[[files]]
+file = "datapacks/anti enderman grief v1.1.12 (MC 1.21-1.21.6).zip"
+hash = "95648486f18fa42d45d30428ca770128e68e94f849c7b8530c8ba6f0e645b045"
+
+[[files]]
+file = "datapacks/anti ghast grief v1.1.12 (MC 1.21-1.21.6).zip"
+hash = "6f5f1463e108b32983d17b796dea0273839b471a064ea6ef91ba94b32eb251b4"
+
+[[files]]
+file = "datapacks/armored elytra v2.0.6 (MC 1.21-1.21.6).zip"
+hash = "9aab3f4c4c3162e150fd5ffec286ae8e6173920a16a542e9e558f2c2cd2fe74e"
+
+[[files]]
+file = "datapacks/cauldron concrete v3.0.5 (MC 1.21-1.21.6).zip"
+hash = "bc2ce2249971d13ea26bca7cb77a129e98ceade00768a50ca048874ae1797bd7"
+
+[[files]]
+file = "datapacks/cauldron mud v1.0.5 (MC 1.21-1.21.6).zip"
+hash = "dcb41c9b03962df5f6edb1694683567078846f1a94347ee594e276cbfa186d15"
+
+[[files]]
+file = "datapacks/dragon drops v1.3.12 (MC 1.21-1.21.6).zip"
+hash = "3db250cfc2aa691bfb3f5d82281c460c6338c48ce7ffea9d6414ff3f2759dd22"
+
+[[files]]
+file = "datapacks/elevators v1.0.13 (MC 1.21-1.21.6).zip"
+hash = "48f63685b697eb114e65268d01cba40fcc500f13f014ab7e39459472d0bdcb30"
+
+[[files]]
+file = "datapacks/ender chest always drops v1.0.4 (MC 1.21-1.21.6).zip"
+hash = "54144e2fd8bbc0ce5b02bd7db9dc32820154c5322d2cc59f0a922dc9dd7ff5a8"
+
+[[files]]
+file = "datapacks/fast leaf decay v2.0.17 (MC 1.21-1.21.6).zip"
+hash = "041f5b0cf378b4cb55f3696a89b95d6f8fdb35fa8f2e92fe71aa9590c8cd3f43"
+
+[[files]]
+file = "datapacks/glass always drops v1.0.4 (MC 1.21-1.21.6).zip"
+hash = "9c6a5db51dcc8eb51f7fd4efde86a795828e8b23242107d1779a3b803ce09a36"
+
+[[files]]
+file = "datapacks/husks drop sand v1.0.5 (MC 1.21-1.21.6).zip"
+hash = "2a2088bd47249a8a061736f97cf911046703cef1cf6f8e1c6b7479c4b615c9ae"
+
+[[files]]
+file = "datapacks/mini blocks v1.1.2 (MC 1.21-1.21.6).zip"
+hash = "00f42d0c2a6479a880f6c09aa2fa1ba6ae5591a97a60558ffbfe09dd95daf487"
+
+[[files]]
+file = "datapacks/more effective tools v1.0.6 (MC 1.21-1.21.6).zip"
+hash = "5575569586ef0b4f18fd495eff76601d12db588cff9c50d34afc38641707b10d"
+
+[[files]]
+file = "datapacks/more mob heads v2.16.2 (MC 1.21-1.21.6).zip"
+hash = "a1c4168979c10171e65656f71bd7bc066bd338bdad5ec0a670f55b5a9a60986a"
+
+[[files]]
+file = "datapacks/nether portal coords v1.1.12 (MC 1.21-1.21.6).zip"
+hash = "d8bb3a6969b56f0c8ce89fad8e5a4f9d179105f24b0be0f576811d3226bd3215"
+
+[[files]]
+file = "datapacks/painting picker v1.0.2 (MC 1.21-1.21.6).zip"
+hash = "1d8e30895480a009d4664fea8480827c1ed7bc09b2fe95ffe576a66e13ee2634"
+
+[[files]]
+file = "datapacks/player head drops v1.1.12 (MC 1.21-1.21.6).zip"
+hash = "5c9ca6950f51bed2bee73725de5c0408e282cfa3c7edc8561465230356a38c70"
+
+[[files]]
+file = "datapacks/redstone rotation wrench v1.1.13 (MC 1.21-1.21.6).zip"
+hash = "97d2101ea7e2336c41a565c3f5c59249b415b23284a64ecedf9a24671e5fb6ca"
+
+[[files]]
+file = "datapacks/silence mobs v1.2.6 (MC 1.21-1.21.6).zip"
+hash = "153cbdd7f2d5c21892fa5ec6162f6b4349f2b8266ca955737cb510d2efcab8c8"
+
+[[files]]
+file = "datapacks/silk touch budding amethyst v1.0.4 (MC 1.21-1.21.6).zip"
+hash = "5e8608b02744af7b60ffd343db04db7912bdbb5c7ef898290c81e21ef9d993bd"
+
+[[files]]
+file = "datapacks/storm channeling v1.0.4 (MC 1.21-1.21.6).zip"
+hash = "b7672a96c636f3b1360ed490a821f2d33cc9d129b065a2b916e080b9cbd4cd1c"
+
+[[files]]
+file = "datapacks/timber v2.1.15 (MC 1.21-1.21.6).zip"
+hash = "ac91211afaecdacecc450e599daa4ceaad1129a5c040d64d1897d9cef10da472"
+
+[[files]]
+file = "datapacks/track raw statistics v1.7.8 (MC 1.21-1.21.6).zip"
+hash = "d54f0a406060efca7ca69e1956f2f2802aa0524cdb3174a560b04b5e392f4596"
+
+[[files]]
+file = "datapacks/track statistics v1.1.14 (MC 1.21-1.21.6).zip"
+hash = "3219b9c843aab6d9621763930067b496111fcdb47cc8ef52ff3fc658f522b1d3"
+
+[[files]]
+file = "datapacks/unlock all recipes v2.0.13 (MC 1.21-1.21.6).zip"
+hash = "5bd91f71dea453d3195176646ae157d0a6eb84f0819073825569a06686f0374d"
+
+[[files]]
+file = "datapacks/xp bottling v1.1.13 (MC 1.21-1.21.6).zip"
+hash = "6b55d97efb8b557564919f4cf19a17cc2f2fb5356daf64a876be74df9d7b2c5b"
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "73030bd60be4d6f1c58ef7f5ae3a3955537111192bad864b53f65eb387b48eaf"
 metafile = true
@@ -177,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/modflared.pw.toml"
-hash = "17a667e648c44cefc9e426291227b14665e9e1b0465acbe7f48734b56eb09106"
+hash = "bdafc35f810ae8fa3dff91a1b09d69fe55541bda530e0b94c04c68db084ac22d"
 metafile = true
 
 [[files]]
