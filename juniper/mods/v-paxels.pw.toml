@@ -1,0 +1,13 @@
+name = "V-Paxel's"
+filename = "v-paxels-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Xz13iKF/versions/JnwJIfsZ/v-paxels-2.0.0.jar"
+hash-format = "sha512"
+hash = "97af2399e22a5ff85652c75ae3f305fc94bb08fd1d8654e90093c638bcbbafb3a791b0bae127fe6787ad3d37d75dec50e9dec2d689ad223cc44e560d847b003c"
+
+[update]
+[update.modrinth]
+mod-id = "4Xz13iKF"
+version = "JnwJIfsZ"

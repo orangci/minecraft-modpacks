@@ -1,0 +1,13 @@
+name = "Better Craftables"
+filename = "BetterCraftables_v5.0.0+mod_mc1.21.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BLG002oq/versions/RwWo0WlN/BetterCraftables_v5.0.0%2Bmod_mc1.21.6.jar"
+hash-format = "sha512"
+hash = "057c88a202607d2776c019df97efae5e6a0773ac7c814b52aaa9b93a672cdf87c72f00eb203bc9d788127ecbe0772e363f399118bd2ac91731f3010943102111"
+
+[update]
+[update.modrinth]
+mod-id = "BLG002oq"
+version = "RwWo0WlN"

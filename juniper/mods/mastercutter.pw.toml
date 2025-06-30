@@ -1,0 +1,13 @@
+name = "MasterCutter"
+filename = "mastercutter-1.5.2-mc1.21.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DuUMFIfX/versions/aBJPWDfY/mastercutter-1.5.2-mc1.21.6.jar"
+hash-format = "sha512"
+hash = "5c71dd10eae99ea8c39f77ecc040072114c17d46fff3753730bf01d78ae75c1d2c453bbca33c882b06e2eed26a5a4b654f91d952f54d61404f9ccaa99f64fa8d"
+
+[update]
+[update.modrinth]
+mod-id = "DuUMFIfX"
+version = "aBJPWDfY"

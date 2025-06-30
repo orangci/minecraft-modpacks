@@ -11,8 +11,23 @@ hash = "bc0fc7ccf2970ecb88998d801ccec7856e29202d70c19d3802bee08034b0dfc1"
 metafile = true
 
 [[files]]
+file = "mods/armorstandeditor.pw.toml"
+hash = "4ad8f6ac3ce3273720734b5d0041727ea34f6fcf3323676817b39c79f596befd"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7bc565a4a7de36989eb1e1c852c469b726f89aab2a292e0d954a217877c33b61"
+metafile = true
+
+[[files]]
+file = "mods/better-craftables.pw.toml"
+hash = "d85e7e93aebb6458031a811544cf44a87b5a104b1617aef95df7345f70f8ff42"
+metafile = true
+
+[[files]]
+file = "mods/better-unpackables.pw.toml"
+hash = "4ccaa3744afb1d41bd6f1ba70d4bc6047c76975e042132dea9dbc2da649c932a"
 metafile = true
 
 [[files]]
@@ -56,6 +71,16 @@ hash = "a05329fe60a8ed4563729848946285d3d6be94d715c710a984bbfbe2dfee8b94"
 metafile = true
 
 [[files]]
+file = "mods/datapack-injector.pw.toml"
+hash = "23af6e376c43c9cb3ecf8977c9e011df2694ed2b29379d99b7242b2af0ed3b12"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "3f792def51ea9ab711fef5547b3848bd2488801dedcd950204c844771d4a4fd7"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "3eaeb9f0bd3ce711cf42f9edc1397bb7ce4e2974d7fc54d2356e01f2e0a4504d"
 metafile = true
@@ -88,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "84e4e5d7adfa7d4a18bd1fb026d190824de8556fcc02036fea8f1a41563e1ef5"
+metafile = true
+
+[[files]]
+file = "mods/htay-(how-tall-are-you).pw.toml"
+hash = "492ebe5f83670c606b8c75a3bec594942af69761ea01e800526a49d32e1cc866"
 metafile = true
 
 [[files]]
@@ -141,6 +171,11 @@ hash = "642bcd43ad3582fdc2e70f9e3836d3468a9c20fc33632a365ed259ac596c1f5f"
 metafile = true
 
 [[files]]
+file = "mods/mastercutter.pw.toml"
+hash = "e437aa8011fc166956d6b1d1920ff33afa32b8a560beee95156872f4fa465f6e"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "de11648956fde5c16e81ce9e5b6e80448f76c0bfbb39fe9fd45383cebc98b2e2"
 metafile = true
@@ -176,8 +211,18 @@ hash = "49f78e94b98d39edcc8fb12e78273f99d3a6ef81f5acbdef4d59d2b453cb1d0d"
 metafile = true
 
 [[files]]
+file = "mods/smelting-enchantment.pw.toml"
+hash = "b954c8b3cdefa55abef48d0a1e9324f5fd83c764be6be9c0551ad94035f7c379"
+metafile = true
+
+[[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "c60b70d0f6b0c6795cea5fd40d9d6ce1960e2d31c86e543f7811b76106dbfe38"
+metafile = true
+
+[[files]]
+file = "mods/v-paxels.pw.toml"
+hash = "e4f5e384212aed943e3b4ec76b60ac09f1b4332b4dc9f07c5fa1cfc2dfe1af7a"
 metafile = true
 
 [[files]]
@@ -194,3 +239,7 @@ metafile = true
 file = "mods/vmp-fabric.pw.toml"
 hash = "05900efb4cdaf32033674639fc83525f47b33afdfb8e693930883cf4842fdc84"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "d37e34c254eba12326894d36cefebe8f69b0f22ca1d7ba083d5b8abaa4774c6c"
