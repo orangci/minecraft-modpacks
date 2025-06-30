@@ -1,0 +1,13 @@
+name = "Juniper"
+author = "orangc"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4a290e670a39610b4b133ac13c0d87e2b566d1d4fd15975a9d1b04e12311eddc"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.6"

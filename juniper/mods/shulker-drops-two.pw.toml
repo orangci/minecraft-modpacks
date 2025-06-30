@@ -1,0 +1,13 @@
+name = "Shulker Drops Two"
+filename = "shulkerdropstwo-1.21.6-3.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/UjXIyw47/versions/ZB5OTBTy/shulkerdropstwo-1.21.6-3.6.jar"
+hash-format = "sha512"
+hash = "1f7c61fa553e24cc60d8af45029743b0830c63b4848d1a3fd13e75a455ea865c2b22b246e1c3409c225dfd91caed5171dafef0b580bd7a98087f1cd875c08681"
+
+[update]
+[update.modrinth]
+mod-id = "UjXIyw47"
+version = "ZB5OTBTy"

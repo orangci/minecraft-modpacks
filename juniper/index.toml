@@ -1,0 +1,196 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "73030bd60be4d6f1c58ef7f5ae3a3955537111192bad864b53f65eb387b48eaf"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bc0fc7ccf2970ecb88998d801ccec7856e29202d70c19d3802bee08034b0dfc1"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "7bc565a4a7de36989eb1e1c852c469b726f89aab2a292e0d954a217877c33b61"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "23390454f494dbb66977daa53d9fd524c063be3763198976625fb301707160e4"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "f98e6314ff6993192eb4aad44a98b6d790568ee371ea42ec4da24b1124cb853e"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "3c9217ddc7e6a63c70406927f6a5a3bcff4501e1b2e2e4d07888534b7ad56d1d"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b1da0afe23273616b36e2c6d815819ea43ff3847db20639067cfa8e13e930753"
+metafile = true
+
+[[files]]
+file = "mods/click-opener-continued.pw.toml"
+hash = "2d965b02d4fd2a2ff540439527db9048287d94984f77e6ae2e0fd76b71ebc7be"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "dee4bd18ad41656bd5fe57fe6b89dbcf1a42f5bf5eb628b0e210a478cc7641e1"
+metafile = true
+
+[[files]]
+file = "mods/crying-portals.pw.toml"
+hash = "a05329fe60a8ed4563729848946285d3d6be94d715c710a984bbfbe2dfee8b94"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3eaeb9f0bd3ce711cf42f9edc1397bb7ce4e2974d7fc54d2356e01f2e0a4504d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/fixed-anvil-repair-cost.pw.toml"
+hash = "f6b7e805c7ebc8548707914719a1eeeb0bd8fb952020dd1f11ece13091867d45"
+metafile = true
+
+[[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "00422fea490ebb99e8b440dffb3ac2b265b5ee2fad8914fd7fa6c5517d10adf6"
+metafile = true
+
+[[files]]
+file = "mods/furnace-recycle.pw.toml"
+hash = "06f5246752dae17bf3a3cfa92e2154b8a818de1bec00085d2dd6613a364666b8"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "84e4e5d7adfa7d4a18bd1fb026d190824de8556fcc02036fea8f1a41563e1ef5"
+metafile = true
+
+[[files]]
+file = "mods/infinite-trading.pw.toml"
+hash = "b774010707fb2b8a8efc7652be6632856ab0e89babe090fdfb1c360d54860cc4"
+metafile = true
+
+[[files]]
+file = "mods/inventory-mending.pw.toml"
+hash = "1270b8075978e6e1a36dcd729ddeca51b5cc6a522e105c8993694bcd9b2e84bf"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "d2d78a04058d834727228934ac4ad1f11cecc589eb45dd176633754d91c8cd65"
+metafile = true
+
+[[files]]
+file = "mods/jline4mcdsrv.pw.toml"
+hash = "e83779f8756fbcc004ec9813a821cf4cd5b1d58f6567d29e830f7a1b31e94fb9"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "b9a64588fa701a6707e2ab9877debcde319c331cf549841def516351d21c4b12"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "11b5a9241c028f5e3cf9befd6975ec80cff1497a7dd23dde17c0f74e9a7b7a52"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "ebc0a6c9f39a73686aea16c4ea2a82fee370de3a6ed901a4348c05af40c3a5bd"
+metafile = true
+
+[[files]]
+file = "mods/ly-clumps.pw.toml"
+hash = "642bcd43ad3582fdc2e70f9e3836d3468a9c20fc33632a365ed259ac596c1f5f"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "de11648956fde5c16e81ce9e5b6e80448f76c0bfbb39fe9fd45383cebc98b2e2"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "bc196e02ff6f1f01924f732f9635c26c8a9a9dc144d98dbe6da9ed3859b2ddf5"
+metafile = true
+
+[[files]]
+file = "mods/random-shulker-colours.pw.toml"
+hash = "d2f33097ff178751d99f2a303b3e21e3670b413b0b57e7a7b1f5b287720e7a34"
+metafile = true
+
+[[files]]
+file = "mods/server-sided-vein-mine.pw.toml"
+hash = "435b341d2b1f5a3df34f4ff1f7558425cb522605f6efae6d1328b7bd6f67464b"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "d9c2fb9e1bf67625d24cd6b6131962059b488384d0defdd256fd9bd06a7d36b4"
+metafile = true
+
+[[files]]
+file = "mods/shulker-drops-two.pw.toml"
+hash = "c2c51a85f6a2f49e708f8ad859e90dd5c959392d6584b5a6b8830d7d3c5e3df7"
+metafile = true
+
+[[files]]
+file = "mods/smaller-nether-portals.pw.toml"
+hash = "49f78e94b98d39edcc8fb12e78273f99d3a6ef81f5acbdef4d59d2b453cb1d0d"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "c60b70d0f6b0c6795cea5fd40d9d6ce1960e2d31c86e543f7811b76106dbfe38"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-structure-update.pw.toml"
+hash = "b8ccb5c03751be07f960186186b674d9c93e181b3bfb234f53a1f65de0c3de75"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "2e7ef586329e4e6b2b3b6df8b168314b7e7e4612199d3b4b23e0920b9a5e6454"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "05900efb4cdaf32033674639fc83525f47b33afdfb8e693930883cf4842fdc84"
+metafile = true

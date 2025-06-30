@@ -1,0 +1,13 @@
+name = "Server Sided Vein Mine"
+filename = "serversideveinmine-1.2.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fl69jDHD/versions/lrSdscnp/serversideveinmine-1.2.7.jar"
+hash-format = "sha512"
+hash = "806c4228c75ff9bee991e4289a2fdda82702ce65fc2c3314d399c095961b674c258350fc3ec69775c95272ba4859094c397d5d41d4eade6c3d45a64825d3b797"
+
+[update]
+[update.modrinth]
+mod-id = "Fl69jDHD"
+version = "lrSdscnp"
