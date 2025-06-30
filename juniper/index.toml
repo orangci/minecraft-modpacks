@@ -176,6 +176,11 @@ hash = "e437aa8011fc166956d6b1d1920ff33afa32b8a560beee95156872f4fa465f6e"
 metafile = true
 
 [[files]]
+file = "mods/modflared.pw.toml"
+hash = "17a667e648c44cefc9e426291227b14665e9e1b0465acbe7f48734b56eb09106"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "de11648956fde5c16e81ce9e5b6e80448f76c0bfbb39fe9fd45383cebc98b2e2"
 metafile = true
