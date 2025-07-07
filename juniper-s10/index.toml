@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/EssentialCommands.properties"
+hash = "9bcbfadd28120a85bbbe933114d0569eb1a198cfeff2105a9127df1644e05e90"
+
+[[files]]
+file = "config/fixedanvilrepaircost.json5"
+hash = "51f55efa413576c079f805668b31566a4771a971fdba2f511b6d42588786aeaa"
+
+[[files]]
+file = "config/ledger.toml"
+hash = "d9dd0cbab84ce0a19c1e9032e6edbc09694643b94b43c342ec8e4b5cc771b93d"
+
+[[files]]
+file = "config/shulkerdropstwo.json5"
+hash = "39e73808f3dc67ae55a5d046fcef8ed54d3f7be961e76e8f2703bbd1c192b656"
+
+[[files]]
+file = "config/treeharvester/harvestable_axe_blacklist.txt"
+hash = "6385bf03f887a4d86e438c5e3b9b5c80f79508be37a0a1d8add9c35b426a9639"
+
+[[files]]
 file = "datapacks/PK_Attract_Villagers_V.3.0.0_MC_1.21.3.zip"
 hash = "806c4514f9239bc913200fb6cd3116901479d95e6f50b9b67e8d114f3bbf3bbc"
 
