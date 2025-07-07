@@ -336,6 +336,11 @@ hash = "b954c8b3cdefa55abef48d0a1e9324f5fd83c764be6be9c0551ad94035f7c379"
 metafile = true
 
 [[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "b998daf69da30f0eef5780b511606ff75b5b36e2d6502ed1db2282136b00e63f"
 metafile = true
