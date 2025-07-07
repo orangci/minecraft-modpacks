@@ -271,6 +271,11 @@ hash = "b9a64588fa701a6707e2ab9877debcde319c331cf549841def516351d21c4b12"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "78d3414d086eeffc1e271cc189ea7a33d1dc2ed6f570f39e4abe4b33fc0acc58"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "ebc0a6c9f39a73686aea16c4ea2a82fee370de3a6ed901a4348c05af40c3a5bd"
 metafile = true
@@ -348,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-structure-update.pw.toml"
 hash = "8a90e5976d63666b1d1e3bde5bfca8bcacb17ff68f8fde3b8e9650c47fb2632c"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "ae52eabfdbb218bf684ceaba9edaa9c55d8001d2e01984f07bf9fa6a30e871a0"
 metafile = true
 
 [[files]]
