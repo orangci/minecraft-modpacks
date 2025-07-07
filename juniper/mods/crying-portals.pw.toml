@@ -1,13 +1,13 @@
 name = "Crying Portals"
-filename = "cryingportals-1.21.6-2.9.jar"
+filename = "cryingportals-1.21.7-2.9.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/3RkVNglH/versions/5OV5eweq/cryingportals-1.21.6-2.9.jar"
+url = "https://cdn.modrinth.com/data/3RkVNglH/versions/5TWQtUtJ/cryingportals-1.21.7-2.9.jar"
 hash-format = "sha512"
-hash = "83a6ff79f831358ca9bf1537f12852500ff18ee57ee2cb5a5850601ac59ca23d8147304fb09427b087e3e6958321c53d85d941497b19bd52ee24c2915a98575f"
+hash = "fb207ded89f35d876f19a1d0e92f6a9498d4e8ad83d0028aaf280d5953b65603c0b38edcb6262b618238840d32a098c1931948cde6b5d48a7739212c154d3765"
 
 [update]
 [update.modrinth]
 mod-id = "3RkVNglH"
-version = "5OV5eweq"
+version = "5TWQtUtJ"

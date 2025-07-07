@@ -1,13 +1,13 @@
 name = "Better Unpackables"
-filename = "BetterUnpackables_v2.1.0+mod_mc1.21.5-1.21.6.jar"
+filename = "BetterUnpackables_v2.3.0+mod_mc1.21.5-1.21.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bUmlsA7b/versions/NYGo7ZlJ/BetterUnpackables_v2.1.0%2Bmod_mc1.21.5-1.21.6.jar"
+url = "https://cdn.modrinth.com/data/bUmlsA7b/versions/Jqp2zGNs/BetterUnpackables_v2.3.0%2Bmod_mc1.21.5-1.21.7.jar"
 hash-format = "sha512"
-hash = "7a5bc19a35c8112181ef00d173053c5b070a154cf4f480fd946c79cdbd6cc2afd16b63c8c19b1899af40b6bdee82a10e623fd075f21e9df3d1e12503541e9ede"
+hash = "b4a2e8a378aaf1ccbb5cd7fa73e39c29c330a6b1c0a348a3518e353cda161854a70fafde6eb775a1beee27b3213ddb1817b700eadf8329171ef3c565615e2e6e"
 
 [update]
 [update.modrinth]
 mod-id = "bUmlsA7b"
-version = "NYGo7ZlJ"
+version = "Jqp2zGNs"

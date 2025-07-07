@@ -1,13 +1,13 @@
 name = "Random Shulker Colours"
-filename = "randomshulkercolours-1.21.6-3.4.jar"
+filename = "randomshulkercolours-1.21.7-3.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/mT4tJQIo/versions/Hl1M5oKF/randomshulkercolours-1.21.6-3.4.jar"
+url = "https://cdn.modrinth.com/data/mT4tJQIo/versions/gS7SRPIn/randomshulkercolours-1.21.7-3.4.jar"
 hash-format = "sha512"
-hash = "aa2a55f3216ec6cb55331969891b536812e3bd433c183518fb097625d68e501729b5e222ba44b7420329a73453a9c13b329ef20845877c84429a20f7f36f96d3"
+hash = "c653556e2746de0cb38745751af1073361d3c69e62a470f070805c4f91dc74f412e624584d191bd3b3f51b0ff6d82f6765ded632bd3fcfc97f3f25910f3749b5"
 
 [update]
 [update.modrinth]
 mod-id = "mT4tJQIo"
-version = "Hl1M5oKF"
+version = "gS7SRPIn"

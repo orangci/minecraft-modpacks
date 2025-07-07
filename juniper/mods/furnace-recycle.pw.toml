@@ -1,13 +1,13 @@
 name = "Furnace Recycle"
-filename = "furnacerecycle-1.21.6-2.6.jar"
+filename = "furnacerecycle-1.21.7-2.6.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/HyKmtI3L/versions/ycU3551t/furnacerecycle-1.21.6-2.6.jar"
+url = "https://cdn.modrinth.com/data/HyKmtI3L/versions/HDZSnvt7/furnacerecycle-1.21.7-2.6.jar"
 hash-format = "sha512"
-hash = "bdd9992443eb52ff2900c43afabd2d524a5c24a442b09d25f1e00a35a183bffd34a37602c31797603a5c897d0295f0a122368082a0aa68249aa1a2a051cb6014"
+hash = "9be28cfe35feba0990ea4ad7a70d8532ddd6558ef015f3b1a26f5fddb9c7b3fbd129712e9b424c0e87bc236eecc2413d0a71951c29883de315c5576bf958b2c2"
 
 [update]
 [update.modrinth]
 mod-id = "HyKmtI3L"
-version = "ycU3551t"
+version = "HDZSnvt7"

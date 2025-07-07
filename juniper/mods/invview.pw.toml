@@ -1,13 +1,13 @@
 name = "Inv View"
-filename = "InvView-1.4.17-1.21.6+.jar"
+filename = "InvView-1.4.16-1.21.5+.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/jrDKjZP7/versions/dOWMOPHz/InvView-1.4.17-1.21.6%2B.jar"
+url = "https://cdn.modrinth.com/data/jrDKjZP7/versions/VD8wa5Wp/InvView-1.4.16-1.21.5%2B.jar"
 hash-format = "sha512"
-hash = "48cc0beb73b8cf3c375b91e43dc7df5e3a071d21d9a043c30dcd486cac6094a5fe2868d01dd53d1db117f7cfba3d0a10f3af242bca3ff1202789596c4cef4e46"
+hash = "5d4b9f7625839f5648a25264cf137f3776a8e875124a31a95a3663c1fbd37fb5c627e8b3280ade44d86bf86145f6ce317222d52bdae91321136f4faa921b9516"
 
 [update]
 [update.modrinth]
 mod-id = "jrDKjZP7"
-version = "dOWMOPHz"
+version = "VD8wa5Wp"

@@ -1,13 +1,13 @@
 name = "Vanilla Structure Update"
-filename = "vanilla-structure-update-v2.4.jar"
+filename = "vanilla-structure-update-v2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/q3gDW66d/versions/dSSkqMl4/vanilla-structure-update-v2.4.jar"
+url = "https://cdn.modrinth.com/data/q3gDW66d/versions/rDch2W7h/vanilla-structure-update-v2.3.jar"
 hash-format = "sha512"
-hash = "8ce37187286d422543980fdd7e01b5527927ff228cd6942c4347e3b1cacd548612b2835ab78250112c0241ca4c5a6526b80b26ca83086c0d737618e71c3be54e"
+hash = "fe6c1151f1078d875a7b85afd5b90ae2d1305d8e972879f90302f44ce943b03c08c66a324d1755ff689312f336a7de8cf4ee4f764919c0d15fb72f66d228602c"
 
 [update]
 [update.modrinth]
 mod-id = "q3gDW66d"
-version = "dSSkqMl4"
+version = "rDch2W7h"
