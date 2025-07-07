@@ -1,13 +1,13 @@
 name = "Click Opener Continued!"
-filename = "clickopener-1.0.3+1.21.5.jar"
+filename = "clickopener-1.0.3+1.21.6.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/APLGIOku/versions/tOKgL47L/clickopener-1.0.3%2B1.21.5.jar"
+url = "https://cdn.modrinth.com/data/APLGIOku/versions/yiUDvVPn/clickopener-1.0.3%2B1.21.6.jar"
 hash-format = "sha512"
-hash = "4d0b988dcfc9ba0753094365e5992246886b5d5cf0760fffbafcb257ced5205462b136aa29cc2e01762e9b32d9fb9dffc5eca9f1bff3fbe2403b070953f51b14"
+hash = "4674961d8b8641348fcf5c435a4754fc753f1badf9c5e652592a4f54e7960c92b89626ba23d01f92217e2f6cc32a35a0bf93e6849e840ac93978fd6842e7e474"
 
 [update]
 [update.modrinth]
 mod-id = "APLGIOku"
-version = "tOKgL47L"
+version = "yiUDvVPn"

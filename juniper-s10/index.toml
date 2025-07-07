@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/click-opener-continued.pw.toml"
-hash = "904b6fbcb55f56598fe6db23065c3f396b6bf7272b9cb41cbade7a0dfd2d7bc0"
+hash = "2d965b02d4fd2a2ff540439527db9048287d94984f77e6ae2e0fd76b71ebc7be"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "b8c10d89cbf7f84dd3d746e69516869762938188519972844f9c2cc24dedd140"
+hash = "3f792def51ea9ab711fef5547b3848bd2488801dedcd950204c844771d4a4fd7"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/invview.pw.toml"
-hash = "094fdfe2f052ead43f22f6537ee242885614806ee0dd6f6deccf4d84c260a3ac"
+hash = "d2d78a04058d834727228934ac4ad1f11cecc589eb45dd176633754d91c8cd65"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-structure-update.pw.toml"
-hash = "8a90e5976d63666b1d1e3bde5bfca8bcacb17ff68f8fde3b8e9650c47fb2632c"
+hash = "b8ccb5c03751be07f960186186b674d9c93e181b3bfb234f53a1f65de0c3de75"
 metafile = true
 
 [[files]]
