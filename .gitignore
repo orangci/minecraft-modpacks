@@ -1,2 +1,5 @@
 *.zip
 *.mrpack
+
+# allow datapacks
+!juniper-s10/datapacks/*.zip
