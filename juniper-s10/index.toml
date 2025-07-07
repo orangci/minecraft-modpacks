@@ -181,6 +181,11 @@ hash = "5036beee8b9088cdd6e42699eb9fff76658eda6b6f83b46c531624ae87ccd80b"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "10d0fedaab6a4f7ef05e06882e61864599f5dddafe55902b25ed475f81b6b5ce"
+metafile = true
+
+[[files]]
 file = "mods/crying-portals.pw.toml"
 hash = "8ed7eb46384b2e8b3fc01e6e781bd4fa334b284fbf1895c4f6f447082e628f12"
 metafile = true
@@ -303,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/random-shulker-colours.pw.toml"
 hash = "e3e71155fe4b11e696ae7169e1e63a3fd79aad8d713ab712af3967c5c6f91ce9"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "da3c275edf123317fcec057cb04a67a0ddb7cf90dc4b95f81a1f4334fe5cb007"
 metafile = true
 
 [[files]]
