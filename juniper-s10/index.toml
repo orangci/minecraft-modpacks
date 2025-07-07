@@ -191,18 +191,8 @@ hash = "8ed7eb46384b2e8b3fc01e6e781bd4fa334b284fbf1895c4f6f447082e628f12"
 metafile = true
 
 [[files]]
-file = "mods/datapack-injector.pw.toml"
-hash = "a2d2e7f0ec8a5a958c9a7b73b93b4855b616ae06fcfcf9ddb4cfd778b3781b00"
-metafile = true
-
-[[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "b8c10d89cbf7f84dd3d746e69516869762938188519972844f9c2cc24dedd140"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "3ab863279b0298b5782884d871201457f2dc8b6d28ef112621a2a91cdb4b1226"
 metafile = true
 
 [[files]]
@@ -273,11 +263,6 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "b9a64588fa701a6707e2ab9877debcde319c331cf549841def516351d21c4b12"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "78d3414d086eeffc1e271cc189ea7a33d1dc2ed6f570f39e4abe4b33fc0acc58"
 metafile = true
 
 [[files]]
@@ -353,11 +338,6 @@ metafile = true
 [[files]]
 file = "mods/vanilla-structure-update.pw.toml"
 hash = "8a90e5976d63666b1d1e3bde5bfca8bcacb17ff68f8fde3b8e9650c47fb2632c"
-metafile = true
-
-[[files]]
-file = "mods/view-distance-fix.pw.toml"
-hash = "ae52eabfdbb218bf684ceaba9edaa9c55d8001d2e01984f07bf9fa6a30e871a0"
 metafile = true
 
 [[files]]
