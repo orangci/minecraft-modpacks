@@ -321,6 +321,11 @@ hash = "2a2642294e423a98a79069a99200fdb8c482ff7b224c5cea5c0616e55a7d3daf"
 metafile = true
 
 [[files]]
+file = "mods/simple-resource-loader.pw.toml"
+hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
+metafile = true
+
+[[files]]
 file = "mods/smaller-nether-portals.pw.toml"
 hash = "9d4d65ad5528f4113876e8a91ae7128f116a45f04732b8e7d9b83c621813971a"
 metafile = true
