@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Pl3xMap/config.yaml"
+hash = "03e07f1839049292c05a55a78076ac93a77c9deedf3442da44b5863cd3ff4c5c"
+
+[[files]]
+file = "config/EasyAuth/main.conf"
+hash = "e41cc67961e9e465bbf13158abd8cf2ecd48e055a611123d5bd036e6a06fd74b"
+
+[[files]]
 file = "config/EssentialCommands.properties"
 hash = "5a50796683166e1c5363efb170e826997492c22f14b9f07e458e289bcc576ff4"
 
@@ -238,6 +246,11 @@ hash = "10d0fedaab6a4f7ef05e06882e61864599f5dddafe55902b25ed475f81b6b5ce"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "59626c6dfef531532ad31f63e901f5ae464145c5783a5bb66fdb11777eade16a"
+metafile = true
+
+[[files]]
 file = "mods/crying-portals.pw.toml"
 hash = "8ed7eb46384b2e8b3fc01e6e781bd4fa334b284fbf1895c4f6f447082e628f12"
 metafile = true
@@ -408,6 +421,11 @@ hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "ee6c4e137c80788127f09f5faa7165a034318dcc23db6beb23959b0eafd58b27"
+metafile = true
+
+[[files]]
 file = "mods/smaller-nether-portals.pw.toml"
 hash = "9d4d65ad5528f4113876e8a91ae7128f116a45f04732b8e7d9b83c621813971a"
 metafile = true
@@ -418,6 +436,11 @@ hash = "b954c8b3cdefa55abef48d0a1e9324f5fd83c764be6be9c0551ad94035f7c379"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "618e5a322ce8133e22c58972e1bd0f57d52862d7f5d4d6051e5d2fdb9a9fd8ca"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
@@ -425,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "58acee06548125293942440e807f3ed506b5b4b4b27ae248142fae3575c9b3aa"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "03779db3c7cbf7d5853647c3e800880468f8aeffb4bc7be174bbb0e243b0ea1a"
 metafile = true
 
 [[files]]
