@@ -1,5 +1,3 @@
-
-#General Mod Config
 [general]
 	#Should the mod be enabled or not
 	enabled = true
@@ -10,10 +8,9 @@
 	#Internal version control. DO NOT TOUCH!
 	configVersion = 33
 
-#Config specific to the discord bot
 [botConfig]
 	#The token of the Discord Bot to use. This will be encrypted on first load. See https://sdlink.fdd-docs.com/installation/bot-creation/ to find this
-	botToken = "sSLE9eQzttSqRUCXsBf6ClOcpkbut9MXLGTzc80wnwdMeYm3ThKDWIWuaR+76wo1cPkNGWuEDUGRkU9ghjZ76slGgia/HitQTrG5kpvaSVHIkjru0lQQqQ=="
+	botToken = ""
 	#Print the bot invite link to the console on startup
 	printInviteLink = true
 	#Use silent replies when Slash Commands are used
@@ -46,7 +43,6 @@
 		#The URL that will be used when the "botStatusType" is set to "STREAMING", required to display as "streaming".
 		botStatusStreamingURL = "https://twitch.tv/twitch"
 
-#Config relating to the discord channels and webhooks to use with the mod
 [channelsAndWebhooks]
 	#A DIRECT link to an image to use as the avatar for server messages. Also used for embeds
 	serverAvatar = "https://cdn.discordapp.com/icons/1117490191314210847/c51030a1d0c3d2d78672d8af7705daab.webp"
@@ -71,13 +67,12 @@
 		#Use Server Author for chat messages, instead of the real author information
 		useServerForChat = false
 		#The URL of the channel webhook to use for Chat Messages. Will be encrypted on first run
-		chatWebhook = "MLDeUtmY7JSq32w6Ge94WUQnzjTcznovTmCAiM+cgHbrWUfYiuWk8CVXpptz+kWDMVfbggg1vNChy6xOFh4AKCevLdIA8PiKR3PzzJ7SesCZpEoBs6GzUNGtJiSabzjUwn8+RcNUPr6m2g54huHYlxyOJi3KALn8wr590+LyguXhPl2CG5PDMw=="
+		chatWebhook = ""
 		#The URL of the channel webhook to use for Server Messages. Will be encrypted on first run
-		eventsWebhook = "gYHW+7VC+007F/03Yc059qsPSxYUwB7dMe2cf8zZ1blmCllvJeR5tq7fSds1OSrQaTvqv9hcdRp1d5TxXiMJORNkKoYpYMmbTb2ljOKpSJUyVvmR/IkMEOpR8AwB/jp1hSA+5yyAhMzrQ023+SqXHoiW4bFFXfJgc/Z/za20t6weh/PWjxlBnw=="
+		eventsWebhook = ""
 		#The URL of the channel webhook to use for Console Messages. DOES NOT WORK FOR CONSOLE RELAY! Will be encrypted on first run
 		consoleWebhook = ""
 
-#Configure which types of messages are delivered to Minecraft/Discord
 [chat]
 	#Use linked account names in Discord/Minecraft messages, instead of the default ones
 	useLinkedNames = false
@@ -128,16 +123,15 @@
 	#Allow mentioning discord roles and users from Minecraft Chat
 	allowMentionsFromChat = true
 
-#Change the format in which messages are displayed
 [messageFormatting]
 	#Prefix to add to Minecraft when a message is relayed from Discord. Supports MiniMessage formatting. Use %user% for the Discord Username
 	mcPrefix = "<color:#cc00cc>(Discord)</color><reset> %user%: "
 	#How messages relayed from discord that are replies to other messages are formatted. Supports MiniMessage formatting
 	mcReplyFormatting = "    <b>┌────<reset> %color%@%replier_name%%end_color% %message_summary%<newline><reset>"
-	serverStarting = "*Server is starting...*"
-	serverStarted = "*Server has started. Enjoy!*"
-	serverStopping = "*Server is stopping...*"
-	serverStopped = "*Server has stopped...*"
+	serverStarting = "*The Server is awakening...*"
+	serverStarted = "*The Server has awakened.*"
+	serverStopping = "*The Server is preparing for slumber...*"
+	serverStopped = "*The Server has fallen into a deep slumber.*"
 	#Player Joined Message. Use %player% to display the player name
 	playerJoined = "`%player%` has entered the bounds of the Server."
 	#Player Left Message. Use %player% to display the player name
@@ -148,14 +142,11 @@
 	chat = "%player%: %message%"
 	#Death Messages. Available variables: %player%, %message%
 	death = "%player% %message%"
-	#Message to be sent when a player is added to the whitelist
-	whitelistAdded = "`%player%` has been added to the whitelist."
-	#Message to be sent when a player is removed from the whitelist
-	whitelistRemoved = "`%player%` has been removed from the whitelist."
+	whitelistAdded = "`%player%` has been granted the right to enter the Server."
+	whitelistRemoved = "`%player%` has been stripped of the right to enter the Server."
 	#Command Messages. Available variables: %player%, %command%
 	commands = "%player% **executed command**: *%command%*"
 
-#Change in which channel messages appear
 [messageDestinations]
 
 	#Control where CHAT messages are delivered
@@ -251,7 +242,7 @@
 		#The Channel the message will be delivered to. Valid entries are CHAT, EVENT, CONSOLE, OVERRIDE
 		channel = "CONSOLE"
 		#Should the message be sent using EMBED style messages
-		useEmbed = false
+		useEmbed = true
 		#Embed Layout to use
 		embedLayout = "default"
 		#Override the destination with a custom channel/webhook url. Make sure to change `channel` above to OVERRIDE

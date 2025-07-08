@@ -30,7 +30,19 @@ hash = "994eeb748a9dd4140b949539f8d45e5f7e654385c9e5d149445bde0fa5cde38b"
 
 [[files]]
 file = "config/simple-discord-link/simple-discord-link.toml"
-hash = "e58072ee996ccc158264ddae9d8391e02481a205677845d30548db91e4d95b11"
+hash = "086a66da3a0bafe8bee1988011abb3e8ee5208c5d90aa630ca7e6a53bd389cf4"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "a50d1c340c6e42433e725fe7a3b97e9920bc493b47ca618ecad4998bb6af16e8"
+
+[[files]]
+file = "config/styledplayerlist/styles/animated.json"
+hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "007daceab2af4e73560fa51bd5114535fbfdc0f39186e58c2bf4e371b8afde23"
 
 [[files]]
 file = "config/treeharvester/harvestable_axe_blacklist.txt"
@@ -389,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "58acee06548125293942440e807f3ed506b5b4b4b27ae248142fae3575c9b3aa"
 metafile = true
 
 [[files]]
