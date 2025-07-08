@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/EssentialCommands.properties"
-hash = "9bcbfadd28120a85bbbe933114d0569eb1a198cfeff2105a9127df1644e05e90"
+hash = "f5a20316d0ee178ad719fd07a5924ced9ce7fdaab091e2897be0a2818f2018a6"
 
 [[files]]
 file = "config/fixedanvilrepaircost.json5"
@@ -10,7 +10,7 @@ hash = "51f55efa413576c079f805668b31566a4771a971fdba2f511b6d42588786aeaa"
 
 [[files]]
 file = "config/ledger.toml"
-hash = "d9dd0cbab84ce0a19c1e9032e6edbc09694643b94b43c342ec8e4b5cc771b93d"
+hash = "9853f7a4850bae9bc582cd37a49c22eb0a3eca3a1f38de690c72459bfbfc5d4f"
 
 [[files]]
 file = "config/shulkerdropstwo.json5"
