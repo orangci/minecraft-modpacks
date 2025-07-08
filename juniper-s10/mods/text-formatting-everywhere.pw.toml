@@ -1,0 +1,13 @@
+name = "Text Formatting Everywhere"
+filename = "TextFormattingEverywhere-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1ury0R3s/versions/Y72TbV8z/TextFormattingEverywhere-2.0.2.jar"
+hash-format = "sha512"
+hash = "16473f98bf99fbf7fab3f3e34b825a02a3249fa87c6d30d31dc644db7485a396e2cf72594a7746d01e74894f97dc242489bf4f6d52ef5b7fbbe769c03936f9e5"
+
+[update]
+[update.modrinth]
+mod-id = "1ury0R3s"
+version = "Y72TbV8z"
