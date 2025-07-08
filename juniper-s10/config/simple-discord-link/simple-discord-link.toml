@@ -10,7 +10,7 @@
 
 [botConfig]
 	#The token of the Discord Bot to use. This will be encrypted on first load. See https://sdlink.fdd-docs.com/installation/bot-creation/ to find this
-	botToken = ""
+	botToken = "REPLACE_BOT_TOKEN"
 	#Print the bot invite link to the console on startup
 	printInviteLink = true
 	#Use silent replies when Slash Commands are used
@@ -67,9 +67,9 @@
 		#Use Server Author for chat messages, instead of the real author information
 		useServerForChat = false
 		#The URL of the channel webhook to use for Chat Messages. Will be encrypted on first run
-		chatWebhook = ""
+		chatWebhook = "REPLACE_WEBHOOK_URL"
 		#The URL of the channel webhook to use for Server Messages. Will be encrypted on first run
-		eventsWebhook = ""
+		eventsWebhook = "REPLACE_WEBHOOK_URL"
 		#The URL of the channel webhook to use for Console Messages. DOES NOT WORK FOR CONSOLE RELAY! Will be encrypted on first run
 		consoleWebhook = ""
 

@@ -34,7 +34,7 @@ hash = "994eeb748a9dd4140b949539f8d45e5f7e654385c9e5d149445bde0fa5cde38b"
 
 [[files]]
 file = "config/simple-discord-link/simple-discord-link.toml"
-hash = "086a66da3a0bafe8bee1988011abb3e8ee5208c5d90aa630ca7e6a53bd389cf4"
+hash = "4c8a1f9ef253e374668edc8bccb7291964ee61bf267692327878cb9de3e9e255"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
