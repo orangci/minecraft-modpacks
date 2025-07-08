@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/EssentialCommands.properties"
-hash = "f5a20316d0ee178ad719fd07a5924ced9ce7fdaab091e2897be0a2818f2018a6"
+hash = "5a50796683166e1c5363efb170e826997492c22f14b9f07e458e289bcc576ff4"
 
 [[files]]
 file = "config/fixedanvilrepaircost.json5"
@@ -15,6 +15,22 @@ hash = "9853f7a4850bae9bc582cd37a49c22eb0a3eca3a1f38de690c72459bfbfc5d4f"
 [[files]]
 file = "config/shulkerdropstwo.json5"
 hash = "39e73808f3dc67ae55a5d046fcef8ed54d3f7be961e76e8f2703bbd1c192b656"
+
+[[files]]
+file = "config/simple-discord-link/embeds/default.json"
+hash = "312f26ae8006f33cc543f7b407582ee3b4c722e0d2036dd2ba1c08f487bdfb36"
+
+[[files]]
+file = "config/simple-discord-link/language/en_us.json"
+hash = "4a315a37f22ad3e814aa79b29316cb8eb774633e65ae1d25172f5776cf90938e"
+
+[[files]]
+file = "config/simple-discord-link/simple-discord-compat.toml"
+hash = "994eeb748a9dd4140b949539f8d45e5f7e654385c9e5d149445bde0fa5cde38b"
+
+[[files]]
+file = "config/simple-discord-link/simple-discord-link.toml"
+hash = "e58072ee996ccc158264ddae9d8391e02481a205677845d30548db91e4d95b11"
 
 [[files]]
 file = "config/treeharvester/harvestable_axe_blacklist.txt"
@@ -306,6 +322,11 @@ hash = "642bcd43ad3582fdc2e70f9e3836d3468a9c20fc33632a365ed259ac596c1f5f"
 metafile = true
 
 [[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "be97476a17c343a9e5c2b5ba2616ed77b134777ceb23fa40940abd42acc128c2"
+metafile = true
+
+[[files]]
 file = "mods/mastercutter.pw.toml"
 hash = "e437aa8011fc166956d6b1d1920ff33afa32b8a560beee95156872f4fa465f6e"
 metafile = true
@@ -383,6 +404,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-structure-update.pw.toml"
 hash = "b8ccb5c03751be07f960186186b674d9c93e181b3bfb234f53a1f65de0c3de75"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "820c5de47f900b8df2161f0b0185d4ca1308ce39c863c99f180a09e0754c91a6"
 metafile = true
 
 [[files]]
