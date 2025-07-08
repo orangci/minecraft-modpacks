@@ -243,6 +243,16 @@ hash = "8ed7eb46384b2e8b3fc01e6e781bd4fa334b284fbf1895c4f6f447082e628f12"
 metafile = true
 
 [[files]]
+file = "mods/easyauth.pw.toml"
+hash = "c517129177837ec4233f97e5fecc3bb6c3a2549a3b2a0f935a2798aa58d328ab"
+metafile = true
+
+[[files]]
+file = "mods/easywhitelist.pw.toml"
+hash = "73676c3479246a54890fc2f4518470593f97cbc57525839626738a5efce06b4f"
+metafile = true
+
+[[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "3f792def51ea9ab711fef5547b3848bd2488801dedcd950204c844771d4a4fd7"
 metafile = true
@@ -360,6 +370,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "ba3170d8723c0a1dd748c6c226e0a665e3e3494a95e444db44755d2544086037"
 metafile = true
 
 [[files]]

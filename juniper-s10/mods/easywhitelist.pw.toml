@@ -1,0 +1,13 @@
+name = "EasyWhitelist"
+filename = "easywhitelist-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LODybUe5/versions/9OoxSFQz/easywhitelist-1.1.0.jar"
+hash-format = "sha512"
+hash = "633b36c61c825be998e6c7d30b91638e86c8663839c07de739e1b35ad54a97bc8cdbce556d1974e8b2bc80853e9c818f16f2a0acda3b4df9a0f8b28a083c2ed4"
+
+[update]
+[update.modrinth]
+mod-id = "LODybUe5"
+version = "9OoxSFQz"
