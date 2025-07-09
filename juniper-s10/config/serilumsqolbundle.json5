@@ -1,0 +1,88 @@
+{
+	// If the bundled Always a Wither Skull mod should be enabled.
+	"enableAlwaysaWitherSkull": false,
+	// If the bundled Automatic Doors mod should be enabled.
+	"enableAutomaticDoors": true,
+	// If the bundled Better Beacon Placement mod should be enabled.
+	"enableBetterBeaconPlacement": true,
+	// If the bundled Better Conduit Placement mod should be enabled.
+	"enableBetterConduitPlacement": true,
+	// If the bundled Better Spawner Control mod should be enabled.
+	"enableBetterSpawnerControl": true,
+	// If the bundled Bottled Air mod should be enabled.
+	"enableBottledAir": false,
+	// If the bundled Compact Help Command mod should be enabled.
+	"enableCompactHelpCommand": true,
+	// If the bundled Conduits Prevent Drowned mod should be enabled.
+	"enableConduitsPreventDrowned": true,
+	// If the bundled Cycle Paintings mod should be enabled.
+	"enableCyclePaintings": true,
+	// If the bundled Dismount Entity mod should be enabled.
+	"enableDismountEntity": true,
+	// If the bundled Easy Elytra Takeoff mod should be enabled.
+	"enableEasyElytraTakeoff": true,
+	// If the bundled Enchanting Commands mod should be enabled.
+	"enableEnchantingCommands": true,
+	// If the bundled Extended Bone Meal mod should be enabled.
+	"enableExtendedBoneMeal": true,
+	// If the bundled Furnace Recycle mod should be enabled.
+	"enableFurnaceRecycle": true,
+	// If the bundled Hoe Tweaks mod should be enabled.
+	"enableHoeTweaks": true,
+	// If the bundled Inventory Totem mod should be enabled.
+	"enableInventoryTotem": true,
+	// If the bundled Keep My Soil Tilled mod should be enabled.
+	"enableKeepMySoilTilled": true,
+	// If the bundled Kelp Fertilizer mod should be enabled.
+	"enableKelpFertilizer": true,
+	// If the bundled Move Boats mod should be enabled.
+	"enableMoveBoats": false,
+	// If the bundled Move Minecarts mod should be enabled.
+	"enableMoveMinecarts": false,
+	// If the bundled No Animal Tempt Delay mod should be enabled.
+	"enableNoAnimalTemptDelay": false,
+	// If the bundled No Feather Trample mod should be enabled.
+	"enableNoFeatherTrample": true,
+	// If the bundled Nutritious Milk mod should be enabled.
+	"enableNutritiousMilk": false,
+	// If the bundled Ore Harvester mod should be enabled.
+	"enableOreHarvester": true,
+	// If the bundled Quick Paths mod should be enabled.
+	"enableQuickPaths": false,
+	// If the bundled Quick Right-Click mod should be enabled.
+	"enableQuickRightClick": false,
+	// If the bundled Recast mod should be enabled.
+	"enableRecast": false,
+	// If the bundled Replanting Crops mod should be enabled.
+	"enableReplantingCrops": true,
+	// If the bundled Respawning Shulkers mod should be enabled.
+	"enableRespawningShulkers": true,
+	// If the bundled Scaffolding Drops Nearby mod should be enabled.
+	"enableScaffoldingDropsNearby": true,
+	// If the bundled Sleep Sooner mod should be enabled.
+	"enableSleepSooner": true,
+	// If the bundled Softer Hay Bales mod should be enabled.
+	"enableSofterHayBales": true,
+	// If the bundled Stack Refill mod should be enabled.
+	"enableStackRefill": false,
+	// If the bundled Sticky Enchanting Lapis mod should be enabled.
+	"enableStickyEnchantingLapis": true,
+	// If the bundled Superflat World No Slimes mod should be enabled.
+	"enableSuperflatWorldNoSlimes": false,
+	// If the bundled Surface Mushrooms mod should be enabled.
+	"enableSurfaceMushrooms": true,
+	// If the bundled Thorny Bush Protection mod should be enabled.
+	"enableThornyBushProtection": true,
+	// If the bundled Tree Harvester mod should be enabled.
+	"enableTreeHarvester": true,
+	// If the bundled Underwater Enchanting mod should be enabled.
+	"enableUnderwaterEnchanting": false,
+	// If the bundled Village Bell Recipe mod should be enabled.
+	"enableVillageBellRecipe": true,
+	// If the bundled Wool Tweaks mod should be enabled.
+	"enableWoolTweaks": true,
+	// If the bundled Your Items Are Safe mod should be enabled.
+	"enableYourItemsAreSafe": false,
+	// If the bundled Zombie Proof Doors mod should be enabled.
+	"enableZombieProofDoors": true
+}

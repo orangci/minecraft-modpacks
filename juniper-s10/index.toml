@@ -9,6 +9,14 @@ file = "config/EssentialCommands.properties"
 hash = "5a50796683166e1c5363efb170e826997492c22f14b9f07e458e289bcc576ff4"
 
 [[files]]
+file = "config/areas.json5"
+hash = "2abd284ce8fac9a1eb2e1cf431699b0b96c0cd8bce2ac34a8b37ece0de6078e4"
+
+[[files]]
+file = "config/collective/linger_messages.json"
+hash = "ad718ab2dd2058d8eada634fd403da276e8df265b8fb25696f12a9f9ed59c609"
+
+[[files]]
 file = "config/fixedanvilrepaircost.json5"
 hash = "51f55efa413576c079f805668b31566a4771a971fdba2f511b6d42588786aeaa"
 
@@ -17,12 +25,36 @@ file = "config/ledger.toml"
 hash = "9853f7a4850bae9bc582cd37a49c22eb0a3eca3a1f38de690c72459bfbfc5d4f"
 
 [[files]]
+file = "config/lithostitched.json"
+hash = "311210e6c817a344b885352da5d2d5e976d33bc2d1ddabd0492105083e6fce70"
+
+[[files]]
+file = "config/mineralchance.json5"
+hash = "a967a45ff242eacc62627d751ba4a39e3a504bb47246ea70ffab41342ffe8187"
+
+[[files]]
 file = "config/mmode.json"
 hash = "ae9e435869951a10ef621fa291ebe8e3cc93e81d5043e7dc3892a8ab744896dd"
 
 [[files]]
+file = "config/oreharvester/harvestable_pickaxe_blacklist.txt"
+hash = "d079f93782885d414d4bb296b666f75381e7e88e83dc65f23949561418a5ea46"
+
+[[files]]
 file = "config/pl3xmap/config.yml"
 hash = "03e07f1839049292c05a55a78076ac93a77c9deedf3442da44b5863cd3ff4c5c"
+
+[[files]]
+file = "config/serilumsextrabundle.json5"
+hash = "98caedc5ef86eef5720d4b62b95314190a9478d429e6301bb9ac183f061619c0"
+
+[[files]]
+file = "config/serilumsqolbundle.json5"
+hash = "879c753ef60272d7f3a1320fb29700cde76a27fbaa668419b353203bf80f9e7f"
+
+[[files]]
+file = "config/serilumsrpgbundle.json5"
+hash = "2a0efc5a46b05bbd09ed66129c3008ceb58c1cefb4298b6804dee9583c2dc1bc"
 
 [[files]]
 file = "config/shulkerdropstwo.json5"
@@ -141,10 +173,6 @@ file = "datapacks/painting picker v1.0.2 (MC 1.21-1.21.6).zip"
 hash = "1d8e30895480a009d4664fea8480827c1ed7bc09b2fe95ffe576a66e13ee2634"
 
 [[files]]
-file = "datapacks/player head drops v1.1.12 (MC 1.21-1.21.6).zip"
-hash = "5c9ca6950f51bed2bee73725de5c0408e282cfa3c7edc8561465230356a38c70"
-
-[[files]]
 file = "datapacks/redstone rotation wrench v1.1.13 (MC 1.21-1.21.6).zip"
 hash = "97d2101ea7e2336c41a565c3f5c59249b415b23284a64ecedf9a24671e5fb6ca"
 
@@ -159,10 +187,6 @@ hash = "5e8608b02744af7b60ffd343db04db7912bdbb5c7ef898290c81e21ef9d993bd"
 [[files]]
 file = "datapacks/storm channeling v1.0.4 (MC 1.21-1.21.6).zip"
 hash = "b7672a96c636f3b1360ed490a821f2d33cc9d129b065a2b916e080b9cbd4cd1c"
-
-[[files]]
-file = "datapacks/timber v2.1.15 (MC 1.21-1.21.6).zip"
-hash = "ac91211afaecdacecc450e599daa4ceaad1129a5c040d64d1897d9cef10da472"
 
 [[files]]
 file = "datapacks/track raw statistics v1.7.8 (MC 1.21-1.21.6).zip"
@@ -311,11 +335,6 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
-file = "mods/fixed-anvil-repair-cost.pw.toml"
-hash = "6893621ce787806991772f0da92d3b5ddbc1c94b7223c3ce06b2b9b9cd36bd1f"
-metafile = true
-
-[[files]]
 file = "mods/forgiving-void.pw.toml"
 hash = "7d727a4fe30a2f2c42f2a9df0a55be73ff0ffdf1a9a3741d9c63f670715d840e"
 metafile = true
@@ -338,11 +357,6 @@ metafile = true
 [[files]]
 file = "mods/htay-(how-tall-are-you).pw.toml"
 hash = "492ebe5f83670c606b8c75a3bec594942af69761ea01e800526a49d32e1cc866"
-metafile = true
-
-[[files]]
-file = "mods/infinite-trading.pw.toml"
-hash = "c0d223d3a6998a19e9413da95e4abb98baeff304b05c37296bb1f9b872132c51"
 metafile = true
 
 [[files]]
@@ -441,11 +455,6 @@ hash = "ba3170d8723c0a1dd748c6c226e0a665e3e3494a95e444db44755d2544086037"
 metafile = true
 
 [[files]]
-file = "mods/random-shulker-colours.pw.toml"
-hash = "e3e71155fe4b11e696ae7169e1e63a3fd79aad8d713ab712af3967c5c6f91ce9"
-metafile = true
-
-[[files]]
 file = "mods/sdlink.pw.toml"
 hash = "da3c275edf123317fcec057cb04a67a0ddb7cf90dc4b95f81a1f4334fe5cb007"
 metafile = true
@@ -481,11 +490,6 @@ hash = "3749f83c1baf130cbe52bd87d333f73f2004c8434b0239da735cfec09b756919"
 metafile = true
 
 [[files]]
-file = "mods/shulker-drops-two.pw.toml"
-hash = "2a2642294e423a98a79069a99200fdb8c482ff7b224c5cea5c0616e55a7d3daf"
-metafile = true
-
-[[files]]
 file = "mods/simple-resource-loader.pw.toml"
 hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
 metafile = true
@@ -493,11 +497,6 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "ee6c4e137c80788127f09f5faa7165a034318dcc23db6beb23959b0eafd58b27"
-metafile = true
-
-[[files]]
-file = "mods/smaller-nether-portals.pw.toml"
-hash = "9d4d65ad5528f4113876e8a91ae7128f116a45f04732b8e7d9b83c621813971a"
 metafile = true
 
 [[files]]
@@ -528,11 +527,6 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "03779db3c7cbf7d5853647c3e800880468f8aeffb4bc7be174bbb0e243b0ea1a"
-metafile = true
-
-[[files]]
-file = "mods/tree-harvester.pw.toml"
-hash = "b998daf69da30f0eef5780b511606ff75b5b36e2d6502ed1db2282136b00e63f"
 metafile = true
 
 [[files]]

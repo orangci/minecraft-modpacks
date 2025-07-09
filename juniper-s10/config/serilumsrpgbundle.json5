@@ -1,0 +1,72 @@
+{
+	// If the bundled Anvil Restoration mod should be enabled.
+	"enableAnvilRestoration": true,
+	// If the bundled Areas mod should be enabled.
+	"enableAreas": true,
+	// If the bundled Bareback Horse Riding mod should be enabled.
+	"enableBarebackHorseRiding": false,
+	// If the bundled Bottle Your Xp mod should be enabled.
+	"enableBottleYourXp": false,
+	// If the bundled Campfire Spawn and Tweaks mod should be enabled.
+	"enableCampfireSpawnandTweaks": true,
+	// If the bundled Despawning Eggs Hatch mod should be enabled.
+	"enableDespawningEggsHatch": false,
+	// If the bundled Double Doors mod should be enabled.
+	"enableDoubleDoors": false,
+	// If the bundled Dragon Drops Elytra mod should be enabled.
+	"enableDragonDropsElytra": true,
+	// If the bundled End Portal Recipe mod should be enabled.
+	"enableEndPortalRecipe": false,
+	// If the bundled Eroding Stone Entities mod should be enabled.
+	"enableErodingStoneEntities": false,
+	// If the bundled Fish On The Line mod should be enabled.
+	"enableFishOnTheLine": false,
+	// If the bundled Flower Mimics mod should be enabled.
+	"enableFlowerMimics": false,
+	// If the bundled Grabby Mobs mod should be enabled.
+	"enableGrabbyMobs": false,
+	// If the bundled Grindstone Sharper Tools mod should be enabled.
+	"enableGrindstoneSharperTools": false,
+	// If the bundled Healing Campfire mod should be enabled.
+	"enableHealingCampfire": true,
+	// If the bundled Ice Prevents Crop Growth mod should be enabled.
+	"enableIcePreventsCropGrowth": false,
+	// If the bundled Just Mob Heads mod should be enabled.
+	"enableJustMobHeads": false,
+	// If the bundled Just Player Heads mod should be enabled.
+	"enableJustPlayerHeads": true,
+	// If the bundled Mineral Chance mod should be enabled.
+	"enableMineralChance": true,
+	// If the bundled Naturally Charged Creepers mod should be enabled.
+	"enableNaturallyChargedCreepers": false,
+	// If the bundled Nether Portal Spread mod should be enabled.
+	"enableNetherPortalSpread": false,
+	// If the bundled No Hostiles Around Campfire mod should be enabled.
+	"enableNoHostilesAroundCampfire": true,
+	// If the bundled Overworld Piglins mod should be enabled.
+	"enableOverworldPiglins": false,
+	// If the bundled Pet Names mod should be enabled.
+	"enablePetNames": false,
+	// If the bundled Piglin Names mod should be enabled.
+	"enablePiglinNames": true,
+	// If the bundled Pumpkillager's Quest mod should be enabled.
+	"enablePumpkillagersQuest": false,
+	// If the bundled Rain Be Gone Ritual mod should be enabled.
+	"enableRainBeGoneRitual": true,
+	// If the bundled Random Village Names mod should be enabled.
+	"enableRandomVillageNames": true,
+	// If the bundled Realistic Bees mod should be enabled.
+	"enableRealisticBees": false,
+	// If the bundled Smaller Nether Portals mod should be enabled.
+	"enableSmallerNetherPortals": true,
+	// If the bundled Snowballs Freeze Mobs mod should be enabled.
+	"enableSnowballsFreezeMobs": true,
+	// If the bundled Spiders Produce Webs mod should be enabled.
+	"enableSpidersProduceWebs": false,
+	// If the bundled Village Spawn Point mod should be enabled.
+	"enableVillageSpawnPoint": false,
+	// If the bundled Villager Names mod should be enabled.
+	"enableVillagerNames": true,
+	// If the bundled Weaker Spiderwebs mod should be enabled.
+	"enableWeakerSpiderwebs": false
+}

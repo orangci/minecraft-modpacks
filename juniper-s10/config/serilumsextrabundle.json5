@@ -1,0 +1,60 @@
+{
+	// If the bundled All Loot Drops mod should be enabled.
+	"enableAllLootDrops": false,
+	// If the bundled April Fools mod should be enabled.
+	"enableAprilFools": false,
+	// If the bundled Bamboo Spreads mod should be enabled.
+	"enableBambooSpreads": false,
+	// If the bundled Bigger Sponge Absorption Radius mod should be enabled.
+	"enableBiggerSpongeAbsorptionRadius": true,
+	// If the bundled Bouncier Beds mod should be enabled.
+	"enableBouncierBeds": true,
+	// If the bundled Crying Ghasts mod should be enabled.
+	"enableCryingGhasts": true,
+	// If the bundled Crying Portals mod should be enabled.
+	"enableCryingPortals": true,
+	// If the bundled Death Backup mod should be enabled.
+	"enableDeathBackup": false,
+	// If the bundled Easy Elevators mod should be enabled.
+	"enableEasyElevators": false,
+	// If the bundled Edibles mod should be enabled.
+	"enableEdibles": false,
+	// If the bundled Extract Poison mod should be enabled.
+	"enableExtractPoison": true,
+	// If the bundled Fall Through Slime mod should be enabled.
+	"enableFallThroughSlime": false,
+	// If the bundled Faster Crouching mod should be enabled.
+	"enableFasterCrouching": true,
+	// If the bundled Fixed Anvil Repair Cost mod should be enabled.
+	"enableFixedAnvilRepairCost": true,
+	// If the bundled Grass Seeds mod should be enabled.
+	"enableGrassSeeds": false,
+	// If the bundled Hand Over Your Items mod should be enabled.
+	"enableHandOverYourItems": false,
+	// If the bundled Infinite Trading mod should be enabled.
+	"enableInfiniteTrading": true,
+	// If the bundled Milk All The Mobs mod should be enabled.
+	"enableMilkAllTheMobs": false,
+	// If the bundled Name Tag Tweaks mod should be enabled.
+	"enableNameTagTweaks": true,
+	// If the bundled Paper Books mod should be enabled.
+	"enablePaperBooks": true,
+	// If the bundled Passive Endermen mod should be enabled.
+	"enablePassiveEndermen": false,
+	// If the bundled Placeable Blaze Rods mod should be enabled.
+	"enablePlaceableBlazeRods": false,
+	// If the bundled Random Bone Meal Flowers mod should be enabled.
+	"enableRandomBoneMealFlowers": true,
+	// If the bundled Random Sheep Colours mod should be enabled.
+	"enableRandomSheepColours": true,
+	// If the bundled Random Shulker Colours mod should be enabled.
+	"enableRandomShulkerColours": true,
+	// If the bundled Shulker Drops Two mod should be enabled.
+	"enableShulkerDropsTwo": true,
+	// If the bundled TNT Breaks Bedrock mod should be enabled.
+	"enableTNTBreaksBedrock": true,
+	// If the bundled Transcending Trident mod should be enabled.
+	"enableTranscendingTrident": true,
+	// If the bundled Villager Death Messages mod should be enabled.
+	"enableVillagerDeathMessages": false
+}
