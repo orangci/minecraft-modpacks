@@ -21,7 +21,7 @@ file = "config/mmode.json"
 hash = "ae9e435869951a10ef621fa291ebe8e3cc93e81d5043e7dc3892a8ab744896dd"
 
 [[files]]
-file = "config/pl3xmap/config.yaml"
+file = "config/pl3xmap/config.yml"
 hash = "03e07f1839049292c05a55a78076ac93a77c9deedf3442da44b5863cd3ff4c5c"
 
 [[files]]
@@ -181,6 +181,11 @@ file = "datapacks/xp bottling v1.1.13 (MC 1.21-1.21.6).zip"
 hash = "6b55d97efb8b557564919f4cf19a17cc2f2fb5356daf64a876be74df9d7b2c5b"
 
 [[files]]
+file = "mods/abridged.pw.toml"
+hash = "6a774ad05431d6f2133fb78ea000d2380ca2b6d4357f6c3b973c95fc9b6ce6ae"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "73030bd60be4d6f1c58ef7f5ae3a3955537111192bad864b53f65eb387b48eaf"
 metafile = true
@@ -286,6 +291,11 @@ hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "672faa6155dbe50c789c3a2f8e571b3cc2800e2f52cfc3fc6e1139b610066d47"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
@@ -381,6 +391,11 @@ hash = "eda9ad67fea6d1a77beb4710488c5e62de984a579e861ab495587cf97ff51ffd"
 metafile = true
 
 [[files]]
+file = "mods/mooshroom-spawn.pw.toml"
+hash = "c63fa143c11fb5372d5e1be8f6d5c862e2c3072b67128df1af4ed95e52688ff2"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "98fc73ebbf673bcc8eb4ad0c3ef8b3510ffd0a6d106cbde43d6bc8a58f31a415"
 metafile = true
@@ -403,6 +418,21 @@ metafile = true
 [[files]]
 file = "mods/sdlink.pw.toml"
 hash = "da3c275edf123317fcec057cb04a67a0ddb7cf90dc4b95f81a1f4334fe5cb007"
+metafile = true
+
+[[files]]
+file = "mods/serilums-extra-bundle.pw.toml"
+hash = "0d974d85be91a3ac79ba8333d852e5c3141f199e92825f16c5bb52c38205aa13"
+metafile = true
+
+[[files]]
+file = "mods/serilums-qol-bundle.pw.toml"
+hash = "f4925f814fa16e090db1d9b3f360d6b4fb2aff805bf2701c6d0ad26ff8886ebe"
+metafile = true
+
+[[files]]
+file = "mods/serilums-rpg-bundle.pw.toml"
+hash = "227ac84145a5bbb1617ed8f063b0a037aab0cb4bd4dc23879057a18387226c68"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Serilum's Extra Bundle"
+filename = "serilumsextrabundle-1.21.7-2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UyhC4jkw/versions/ZRc1eDcx/serilumsextrabundle-1.21.7-2.5.jar"
+hash-format = "sha512"
+hash = "f2e3ac09d1b3d13295117191edf3357e6a8634d8eb587e0982e9f53cb417b43a333d939b46e3c2a135dd6c5f962a641d6bb576494fb4a6f9db4fec02b48b80bb"
+
+[update]
+[update.modrinth]
+mod-id = "UyhC4jkw"
+version = "ZRc1eDcx"

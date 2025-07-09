@@ -1,0 +1,13 @@
+name = "Mooshroom Spawn"
+filename = "mooshroomspawn-1.21.7-3.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gx3OPAlS/versions/aqcWIDv2/mooshroomspawn-1.21.7-3.6.jar"
+hash-format = "sha512"
+hash = "4aecde913747a5aa80847d472df71105447a9162a81799665c3b262228e57538fda3775ac037586338fefa059b9455792449c828eca0a2badf00871f3d1eb99e"
+
+[update]
+[update.modrinth]
+mod-id = "Gx3OPAlS"
+version = "aqcWIDv2"

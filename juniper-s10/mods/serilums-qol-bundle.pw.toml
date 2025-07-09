@@ -1,0 +1,13 @@
+name = "Serilum's QoL Bundle"
+filename = "serilumsqolbundle-1.21.7-2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QC7wpUjM/versions/cblqH6kL/serilumsqolbundle-1.21.7-2.4.jar"
+hash-format = "sha512"
+hash = "552ebc6d801415185abc56d35f9c6592962952da07bce959510d3ac18a1ad8cf08b1af8d346743da13c2208b05f65921e8b4dfb3794dc2a03a84c9decb372ab8"
+
+[update]
+[update.modrinth]
+mod-id = "QC7wpUjM"
+version = "cblqH6kL"

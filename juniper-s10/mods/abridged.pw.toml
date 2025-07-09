@@ -1,0 +1,13 @@
+name = "Abridged"
+filename = "abridged-2.0.0-fabric-1.21.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/tb5O1ssC/versions/JlGS4Dyz/abridged-2.0.0-fabric-1.21.7.jar"
+hash-format = "sha512"
+hash = "d21caca86be3ca3f1b1e183a19d3eb65829a57fc48db92dc4e72443f4c7fda32f9965b4bb0c0ea053769d401dc6b3fb6157d22ecc84ea21c16c693f758d343e6"
+
+[update]
+[update.modrinth]
+mod-id = "tb5O1ssC"
+version = "JlGS4Dyz"
