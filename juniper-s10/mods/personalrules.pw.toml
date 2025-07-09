@@ -1,0 +1,13 @@
+name = "Personal Rules"
+filename = "personalrules-1.1.0-dirty+mc1.21.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bule2cVR/versions/kivgWaLd/personalrules-1.1.0-dirty%2Bmc1.21.6.jar"
+hash-format = "sha512"
+hash = "a55f7bcd470e044c1b3c264b0dcafa8f0f5f2fa4fe66a3873fac8d91938c24decab1d2d752ce3610d201420cbcd281487a9e59166715572b55f0cb716504f9ea"
+
+[update]
+[update.modrinth]
+mod-id = "Bule2cVR"
+version = "kivgWaLd"
