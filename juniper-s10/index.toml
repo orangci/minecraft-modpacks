@@ -335,6 +335,11 @@ hash = "7d727a4fe30a2f2c42f2a9df0a55be73ff0ffdf1a9a3741d9c63f670715d840e"
 metafile = true
 
 [[files]]
+file = "mods/fsit.pw.toml"
+hash = "80426d1cd97df1374cce52fe89928aa7971a72923a745df13f5e9b924e2574b8"
+metafile = true
+
+[[files]]
 file = "mods/furnace-recycle.pw.toml"
 hash = "4e733f1d0864f618f6be93183479701fb839385db94e9dd8dc719b6c27273d7a"
 metafile = true
