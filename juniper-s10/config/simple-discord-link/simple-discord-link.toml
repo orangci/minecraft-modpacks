@@ -262,11 +262,11 @@
 #Manage access to your server, similar to whitelisting
 [accessControl]
 	#Enable Access Control
-	enabled = false
+	enabled = true
 	#Allow users to verify their accounts without access control. This setting is ignored if the above setting is set to true
 	optionalVerification = false
 	#Does the player need to be a member of your discord to join
-	requireDiscordMembership = false
+	requireDiscordMembership = true
 	#Can players verify multiple Minecraft Accounts
 	allowMultipleAccounts = false
 	#Change the discord user nickname to their Minecraft name when their accounts are linked
@@ -278,18 +278,18 @@
 	#Optional: Role name or ID to assign to verified player accounts
 	verifiedRole = []
 	#Should players with verified accounts, be banned from Minecraft if they get banned on discord
-	banPlayerOnDiscordBan = false
+	banPlayerOnDiscordBan = true
 	#Should members with verified accounts, be banned from discord when they are banned on Minecraft
 	banMemberOnMinecraftBan = false
 
 	#Configure messages shown to players when they don't meet verification requirements
 	[accessControl.verificationMessages]
 		#This message is shown to users when they use the in-game verification command
-		optionalVerificationMessage = "Your verification code is: {code}. Please DM our bot, or use the /verify command in our discord to verify your account"
+		optionalVerificationMessage = "Your verification code is: {code}. Please DM the Juniper bot on Discord with the code, or use the /verify command in our Discord server (#commands) to verify your account."
 		#The message shown to players that are not verified
-		accountVerification = "This server requires account verification. Your verification code is: {code}. Please visit our discord server for instructions on how to verify your account."
+		accountVerification = "In order to gain the right to enter the bounds of the Server, use /verify {code} in our Discord server's #commands channel."
 		#Message to show to players that are not a member of your discord
-		nonMember = "Sorry, you need to be a member of our discord server to join this server"
+		nonMember = "Only members of our Discord server are allowed the right to enter the bounds of the Server..."
 		#Message to show when player doesn't have one of the required roles. Use {roles} to display the names of configured roles
 		requireRoles = "Sorry, but you require any of the following roles: {roles}"
 		#Message to show when player has a role from the deniedRoles list
