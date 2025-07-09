@@ -38,7 +38,7 @@ hash = "ae9e435869951a10ef621fa291ebe8e3cc93e81d5043e7dc3892a8ab744896dd"
 
 [[files]]
 file = "config/oreharvester/harvestable_pickaxe_blacklist.txt"
-hash = "d079f93782885d414d4bb296b666f75381e7e88e83dc65f23949561418a5ea46"
+hash = "9a3b93aa58f99fa14ae90b31f9346748ecf71d7ea3d8af1ef9a635c4ea9c2c98"
 
 [[files]]
 file = "config/pl3xmap/config.yml"
@@ -90,7 +90,7 @@ hash = "007daceab2af4e73560fa51bd5114535fbfdc0f39186e58c2bf4e371b8afde23"
 
 [[files]]
 file = "config/treeharvester/harvestable_axe_blacklist.txt"
-hash = "6385bf03f887a4d86e438c5e3b9b5c80f79508be37a0a1d8add9c35b426a9639"
+hash = "50d6c049c767b1625f82fd5a726f3aadc21638b99cf796f27c8e5a9b14511221"
 
 [[files]]
 file = "datapacks/PK_Attract_Villagers_V.3.0.0_MC_1.21.3.zip"
