@@ -386,6 +386,11 @@ hash = "78d3414d086eeffc1e271cc189ea7a33d1dc2ed6f570f39e4abe4b33fc0acc58"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "da55bd0f49bc6c15e23cd7449ffef7946dbf216821c6eff6bce96cd80c4597ef"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "ebc0a6c9f39a73686aea16c4ea2a82fee370de3a6ed901a4348c05af40c3a5bd"
 metafile = true
@@ -493,11 +498,6 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "ee6c4e137c80788127f09f5faa7165a034318dcc23db6beb23959b0eafd58b27"
-metafile = true
-
-[[files]]
-file = "mods/slumber.pw.toml"
-hash = "8e62d437a7d5a4852254ff210928992e08377148e047455f67a6e1f959e1732f"
 metafile = true
 
 [[files]]
