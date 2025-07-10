@@ -225,6 +225,11 @@ hash = "4ad8f6ac3ce3273720734b5d0041727ea34f6fcf3323676817b39c79f596befd"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "ab608dc348e5a47bc1005c04925140942feeb2519f5ed6a9b01be74da790835b"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "5ffa06466b468a41c96d53c2ec8e53d5ff0e00da10428db079156375eec6586d"
 metafile = true
@@ -572,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "1b2dee1ebac6f5ca706650c43284503273fdde8056683d6734308542ff272e6e"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "a3814c912ea010a099724b04339c16f2912da575869ca336eb861473009b022a"
 metafile = true
 
 [[files]]
