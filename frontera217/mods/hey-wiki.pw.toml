@@ -1,0 +1,13 @@
+name = "Hey Wiki"
+filename = "heywiki-fabric-1.8.0+1.21.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6DnswkCZ/versions/mutfs5ym/heywiki-fabric-1.8.0%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "b7fb4fda23f1bf30a058c2f0a47d480a19f10207e40d07848be0481b060453261db9bfbc3a7412ecd252be935a690e8ae516b3588b42df1ce6823d26c0addf26"
+
+[update]
+[update.modrinth]
+mod-id = "6DnswkCZ"
+version = "mutfs5ym"

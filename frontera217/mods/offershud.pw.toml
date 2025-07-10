@@ -1,0 +1,13 @@
+name = "OffersHUD"
+filename = "offers-hud-1.8.2+1.21.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z35dS3OT/versions/q3ghHIvV/offers-hud-1.8.2%2B1.21.7.jar"
+hash-format = "sha512"
+hash = "43d8742c5495b8834ef6e1e08c01efa50ddd13fcb2eecbd54edfccd76d56425df492f972d54c3f417fc62525eca8cec673979c935ad5b23ddf58dca58fb2ec12"
+
+[update]
+[update.modrinth]
+mod-id = "Z35dS3OT"
+version = "q3ghHIvV"

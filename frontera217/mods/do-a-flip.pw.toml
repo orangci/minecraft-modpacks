@@ -1,0 +1,13 @@
+name = "Do A Flip"
+filename = "DoAFlip-fabric-1.21.7-9.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S23ik8wV/versions/I1mJvG9Z/DoAFlip-fabric-1.21.7-9.0.0.jar"
+hash-format = "sha512"
+hash = "9c185ca7846e3512f6d82824198dfe889efc1227ba2739989e5468b223b9a40287f4396bab65d3cbd397961732574ecd4ff29066a65932eac09cf8c2586f060c"
+
+[update]
+[update.modrinth]
+mod-id = "S23ik8wV"
+version = "I1mJvG9Z"

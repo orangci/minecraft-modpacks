@@ -1,0 +1,17 @@
+name = "Xaero's Map Server Utils"
+filename = "xaeros-map-server-utils-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YJgkgKMm/versions/SjSSCVdR/xaeros-map-server-utils-1.0.1.jar"
+hash-format = "sha512"
+hash = "bc69acb2fa3e476c2f5efa21d66c8b0b4195c1ce9bb69d95669f1538dbe069eb1033a4cfd6500c26727f9b7bffec1dabe3d278b76fb7ef1b8f0191b5e9f636b9"
+
+[update]
+[update.modrinth]
+mod-id = "YJgkgKMm"
+version = "SjSSCVdR"
+
+[option]
+option = true
+default = false

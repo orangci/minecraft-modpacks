@@ -1,0 +1,13 @@
+name = "More Cursors"
+filename = "morecursors-1.1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dMSwti7t/versions/bPlcip8C/morecursors-1.1.4.jar"
+hash-format = "sha512"
+hash = "25e480e0029a7da014cf46f1f9223acc9f030489bd8312453d03b6c7ec483b57a13f32e1e2e77a55460ca9de0916837e2a4cdd82cdc1deb45655c5463bb337d3"
+
+[update]
+[update.modrinth]
+mod-id = "dMSwti7t"
+version = "bPlcip8C"
