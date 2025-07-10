@@ -1,0 +1,13 @@
+name = "More Mouse Tweaks"
+filename = "moremousetweaks-fabric-1.0.2+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S8drsznD/versions/1qxn6Lh0/moremousetweaks-fabric-1.0.2%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "babead45b7a9b7a0fe02be8571070ef8de514ca30e9af7fa5c4963894a80447140aade3b9fac01ff6e814ebd8fffa69ae8660cb0088d59036106b3d7d3f4fb3c"
+
+[update]
+[update.modrinth]
+mod-id = "S8drsznD"
+version = "1qxn6Lh0"

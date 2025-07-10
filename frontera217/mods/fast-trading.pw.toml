@@ -1,0 +1,13 @@
+name = "Fast Trading"
+filename = "fasttrading-0.2.3+1.21.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ht0RRAt0/versions/DpQOLtpy/fasttrading-0.2.3%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "fcd05cc45f9172d7639408421ebf6dba0d061e6dd983c2b423cbf01ab3a5c0d3612277cedf853456a624fc22ac73ced4e4ec7e3da6d1e98fdf567c8aa40f166f"
+
+[update]
+[update.modrinth]
+mod-id = "Ht0RRAt0"
+version = "DpQOLtpy"
