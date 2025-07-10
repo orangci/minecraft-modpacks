@@ -385,6 +385,11 @@ hash = "27a69ca8af2da2ce10055cea57cdea958b7ad892991d96d26d4c22be33432a06"
 metafile = true
 
 [[files]]
+file = "mods/betterhurtcam.pw.toml"
+hash = "9436085bae308ace17b565639c51bd7e865c282cd2440b85fd74484b4ccaa57d"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "65ba148bc2832d78b433e76eccfbdbb1456066a9d14dac621a3b730b109b16cb"
 metafile = true
