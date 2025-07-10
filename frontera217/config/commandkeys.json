@@ -1,0 +1,278 @@
+{
+  "version": 6,
+  "profiles": [
+    {
+      "version": 4,
+      "name": "Juniper",
+      "links": [],
+      "addToHistory": "OFF",
+      "showHudMessage": "OFF",
+      "resumeRepeating": "OFF",
+      "useRatelimit": "ON",
+      "macros": [
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.7",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/workbench",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.8",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/anvil",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.9",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/enderchest",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.4",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/top",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.5",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/home tp home",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.6",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/wastebin",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.1",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/spawn",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.2",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/back",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.3",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/bed",
+              "delayTicks": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spDefault": 0,
+  "mpDefault": 0,
+  "defaultConflictStrategy": "SUBMIT",
+  "defaultSendMode": "SEND",
+  "defaultActivationType": "HOLD",
+  "ratelimitCount": 4,
+  "ratelimitTicks": 20,
+  "ratelimitStrict": false,
+  "ratelimitSp": false,
+  "lengthLimitLength": 256
+}

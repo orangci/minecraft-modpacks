@@ -1,0 +1,11 @@
+{
+  "removeFeedbackButtons": true,
+  "removeModMenuButton": false,
+  "feedbackRemovalMode": 1,
+  "modMenuRemovalMode": 0,
+  "gameMenuButtonStyle": "INSERT",
+  "modsButtonStyle": "REPLACE_REALMS",
+  "disableTargetModButtons": false,
+  "disableModMenuStyleOptions": false,
+  "hideModMenuOptionsButton": true
+}

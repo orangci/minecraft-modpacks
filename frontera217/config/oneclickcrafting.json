@@ -1,0 +1,8 @@
+{
+  "enable_left_click": false,
+  "enable_right_click": true,
+  "always_on": true,
+  "alt_hold": true,
+  "ctrl_hold": true,
+  "drop_enable": true
+}

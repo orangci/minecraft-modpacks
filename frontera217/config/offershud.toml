@@ -1,0 +1,6 @@
+enabled = true
+ignoreNoProfession = true
+suppressVillagerHeadRolling = false
+offsetX = 5
+offsetY = 5
+scale = 1.0

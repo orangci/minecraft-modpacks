@@ -1,0 +1,8 @@
+{
+  "display_above": true,
+  "functions": [],
+  "constants": [],
+  "decimal_format": "#,##0.##",
+  "radians": true,
+  "copy_type": "chat_history"
+}

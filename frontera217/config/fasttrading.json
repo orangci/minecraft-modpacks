@@ -1,0 +1,5 @@
+{
+  "ticksBetweenActions": 1.0,
+  "autofillBehavior": "DEFAULT",
+  "tradeBlockBehavior": "DAMAGEABLE"
+}
