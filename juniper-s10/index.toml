@@ -455,11 +455,6 @@ hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "54dd8b88e92786d96c2487b7d6a473fbb7cd4576cec3a543788cfab327ffd623"
-metafile = true
-
-[[files]]
 file = "mods/offlinecommands.pw.toml"
 hash = "b02fd1e4bb514827ce3d4a8dcbcb656aa9a268d55dde72bacd004f99c5bb7d5f"
 metafile = true
