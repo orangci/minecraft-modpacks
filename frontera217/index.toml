@@ -65,10 +65,6 @@ file = "config/clientcommands/config.json"
 hash = "84f0b2411517585a3f9e8fe8567d4cad44276e2173b869f04aed8772707ab885"
 
 [[files]]
-file = "config/clientcommands/mappings/1.21.7.txt"
-hash = "328f2c5849c7c5fc4f2b1eae4f74a7cfe6bb337c7938242ac5c4f9eac89b1e50"
-
-[[files]]
 file = "config/commandkeys.json"
 hash = "ea916e2c4786f1fcec85578f77b7b7074daba0fd2e00896a7c1dd8864c252504"
 
@@ -274,7 +270,7 @@ hash = "51d9baa5dec678a02dfc208ca7848caaf9da35cc7720f0750abc0d70ed5604f7"
 
 [[files]]
 file = "config/tweakeroo.json"
-hash = "242aa2a98f3e2860f25307ea1a85f33157ffd1e421474b4d00c7f0d5c2968cb6"
+hash = "827326f6d732269a1652eda3c7ee1c52ccdb22649abd12fab29e2cb7c69e7170"
 
 [[files]]
 file = "config/ui-control.json"
@@ -342,7 +338,7 @@ hash = "f02ba192ecbb4e049c6cdaa35a2131852960602bef0f2dbe6e33ebe90b3f6f50"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8f6f94aeaead4d467bd1afdca31a294aee93258d8bdad79fd9627139b8694735"
+hash = "facf11b9b246974545f1ddd97845437e8530d5acf745f6d9c58a608c42784e5b"
 
 [[files]]
 file = "config/yosbr/servers.dat"

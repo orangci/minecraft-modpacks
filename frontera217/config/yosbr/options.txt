@@ -137,7 +137,7 @@ key_key.commandkeys.main.edit:key.keyboard.unknown
 key_key.dynamicfullbright.toggle:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
-key_key.fasttrading.overrideBlock:key.keyboard.left.alt
+key_key.fasttrading.overrideBlock:key.keyboard.unknown
 key_key.fsit.sit:key.keyboard.right.control
 key_key.fsit.crawl:key.keyboard.right.alt
 key_key.heywiki.open:key.keyboard.unknown
@@ -208,8 +208,8 @@ key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.craftpresence.config_keycode.name:key.keyboard.unknown
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.7
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

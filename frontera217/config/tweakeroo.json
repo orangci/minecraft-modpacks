@@ -190,10 +190,10 @@
       "keys": "G"
     },
     "flexibleBlockPlacementOffset": {
-      "keys": "LEFT_CONTROL"
+      "keys": "H"
     },
     "flexibleBlockPlacementRotation": {
-      "keys": "LEFT_ALT"
+      "keys": "X"
     },
     "flyPreset1": {
       "keys": ""
@@ -835,7 +835,7 @@
     "tweakF3Cursor": false,
     "tweakFakeSneaking": false,
     "tweakFakeSneakPlacement": false,
-    "tweakFastBlockPlacement": true,
+    "tweakFastBlockPlacement": false,
     "tweakFastLeftClick": false,
     "tweakFastRightClick": false,
     "§6tweakFillCloneLimit§r": false,
@@ -976,7 +976,7 @@
       "keys": ""
     },
     "tweakFastBlockPlacement": {
-      "keys": ""
+      "keys": "PERIOD"
     },
     "tweakFastLeftClick": {
       "keys": ""
