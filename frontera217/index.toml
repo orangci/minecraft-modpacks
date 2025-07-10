@@ -361,11 +361,6 @@ hash = "d9c2fb9e1bf67625d24cd6b6131962059b488384d0defdd256fd9bd06a7d36b4"
 metafile = true
 
 [[files]]
-file = "mods/serverpingerfixer.pw.toml"
-hash = "480117bbfe84aa4d902cd1f45053ed4df0738f12daf163d83436e5a1ac2804e2"
-metafile = true
-
-[[files]]
 file = "mods/smartblockplacement.pw.toml"
 hash = "4b8a18c10ea02e45a1319191eb0e09079c4eecebcb87f9a7c36d7cc37f817f40"
 metafile = true
