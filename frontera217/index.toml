@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-map-server-utils.pw.toml"
-hash = "82857b880f51423422dcc0d6606caafa9a085a9b6dbb8f3df64e60030cda3c9f"
+hash = "b14eb0d5cbc38e09ee5f32e8259f35330893236cae45a80d8b6a91ffafc053d6"
 metafile = true
 
 [[files]]
