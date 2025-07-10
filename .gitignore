@@ -1,6 +1,0 @@
-*.zip
-*.mrpack
-
-# allow datapacks and resourcepacks
-!juniper-s10/datapacks/*.zip
-!frontera217/resourcepacks/*.zip
