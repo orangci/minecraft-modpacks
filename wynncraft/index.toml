@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterhurtcam.toml"
+hash = "a2ab33be1d11f7007c196c563c15834bf76fdceaac7420e33a7f27c9bfda9377"
+
+[[files]]
+file = "config/betterstats.json"
+hash = "9cf8a42f07bf57f305f4db3bd677fb65150ae1912db4a8866ccc031e56741f1f"
+
+[[files]]
+file = "config/chatpatches.json"
+hash = "f51b1f06a991604a7bdc8416a5f235cbf70d9f446cf64cf6e33bfe070f075444"
+
+[[files]]
+file = "config/chunksfadein.properties"
+hash = "e0e1a7ba80a3582f5e87f26700eb3183a733c58c365ebd78902a4dbc7fe35ae8"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "1c35cd3fc90d49ec0b369924ad85905be05d8fde2499be7f769f6847f008c0c8"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "ecc2ba4f5a606c56c2a7055f150aaa09b389eb927ed257d9419566e5fe957fd0"
 metafile = true
@@ -248,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
+metafile = true
+
+[[files]]
+file = "mods/resourcepackcached.pw.toml"
+hash = "7f5e152f5ad35bb5f8b191ea03d1807c47f6744cb0357ad5bcb00871b4fec0ce"
 metafile = true
 
 [[files]]
