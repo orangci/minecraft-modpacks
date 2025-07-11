@@ -11,10 +11,10 @@ The frontera series are all versions of my frontera modpack, a client-sided util
 
 - [Frontera217](./frontera217): Frontera217 is additionally aimed towards working flawlessly with [juniper-s10](./juniper-s10).
 
-<!-- ### client series
+### client series
 Miscellaneous client-sided modpacks.
 
-- [Wynncraft](./wynncraft): This is frontera217 but with some wynncraft related utility mods added on top (e.g. wynntils).
+- [Wynncraft](./wynncraft): This is based off of frontera217 but with some wynncraft related utility mods added on top (e.g. wynntils) and 1–2 dozen mods removed that are unnecessary on Wynncraft.
 
-### server series
+<!-- ### server series
 Miscellaneous server-sided modpacks. -->
