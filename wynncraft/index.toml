@@ -336,11 +336,6 @@ hash = "89df73bdcd8faf70f963302ce3d41da19b088df284f14c526897ff831152117b"
 metafile = true
 
 [[files]]
-file = "mods/wynntils.pw.toml"
-hash = "fd220ad3094df1a79688776dbcf4a1e26e66624063c1f09efae3f5c6e133e0ca"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "ea0eb6ab539b43926503901694913866aa81a9a644cd3469080214a7ca785db2"
 metafile = true
