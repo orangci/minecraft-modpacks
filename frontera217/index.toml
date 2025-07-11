@@ -33,6 +33,10 @@ file = "config/balm-common.toml"
 hash = "61995c9f4e85716dd0a7b5dc53f2ac577b75fe53b4fae2e288f3c75dd9020c19"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "5061f192ef09a9c38e529a44a089e6c7de4d4d500cf98fc32a972d8b5ca6edc4"
+
+[[files]]
 file = "config/betterstats.json"
 hash = "382ef2e33e4d4d02dad8fdeef3e9e0dd80a0ab37e10a13bd5a17db2ffe64cb58"
 
@@ -385,6 +389,11 @@ hash = "27a69ca8af2da2ce10055cea57cdea958b7ad892991d96d26d4c22be33432a06"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
+metafile = true
+
+[[files]]
 file = "mods/betterhurtcam.pw.toml"
 hash = "9436085bae308ace17b565639c51bd7e865c282cd2440b85fd74484b4ccaa57d"
 metafile = true
@@ -417,11 +426,6 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "b1da0afe23273616b36e2c6d815819ea43ff3847db20639067cfa8e13e930753"
-metafile = true
-
-[[files]]
-file = "mods/clean-f3.pw.toml"
-hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
 metafile = true
 
 [[files]]
