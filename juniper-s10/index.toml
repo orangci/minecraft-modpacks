@@ -6,7 +6,7 @@ hash = "e41cc67961e9e465bbf13158abd8cf2ecd48e055a611123d5bd036e6a06fd74b"
 
 [[files]]
 file = "config/EssentialCommands.properties"
-hash = "5a50796683166e1c5363efb170e826997492c22f14b9f07e458e289bcc576ff4"
+hash = "0855b2b4f4c5cc626cc45de362e187f92c0e7e171a2b1f05d367b3cfe45a1314"
 
 [[files]]
 file = "config/areas.json5"
