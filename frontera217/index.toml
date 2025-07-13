@@ -484,6 +484,11 @@ hash = "02e06f3d37aec3c3b225c75fc501f02b71766f74f50a56fa2c75e43985820e61"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "4a3ea328ca3557f7bea8f8e62dbd873b0f854383e7ad88dd8d2d819e48ab9a64"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "cf5fa2962068a4975d4adbce3abcf0d34ca316e3b81f21f4d2707853f5192755"
 metafile = true
@@ -536,6 +541,11 @@ metafile = true
 [[files]]
 file = "mods/hey-wiki.pw.toml"
 hash = "64c531af082fd536f5fb5e969a4934b2e165aa99db833b3bb65cf31a42432ccc"
+metafile = true
+
+[[files]]
+file = "mods/highspeed-rail.pw.toml"
+hash = "1a37db175ec341324b09514a7e4db7fb4ebe386e82dbfcbbc78e5f1cb285d260"
 metafile = true
 
 [[files]]
