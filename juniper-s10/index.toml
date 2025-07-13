@@ -550,6 +550,11 @@ hash = "03779db3c7cbf7d5853647c3e800880468f8aeffb4bc7be174bbb0e243b0ea1a"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "954d1e9fb2747ec295d76a571039b984fff2f651eb66848b681b4aee61a374f7"
+metafile = true
+
+[[files]]
 file = "mods/v-paxels.pw.toml"
 hash = "e4f5e384212aed943e3b4ec76b60ac09f1b4332b4dc9f07c5fa1cfc2dfe1af7a"
 metafile = true

@@ -749,6 +749,11 @@ hash = "cf30c584725977b9d123876058d24b48ad98a45fe42c807c15fa5e56d8c18dc3"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "954d1e9fb2747ec295d76a571039b984fff2f651eb66848b681b4aee61a374f7"
+metafile = true
+
+[[files]]
 file = "mods/tweakermore.pw.toml"
 hash = "fedbde4c450d35a39fff71c7096c39df89847c0a71065ab8f0bb58f8e1055aad"
 metafile = true
