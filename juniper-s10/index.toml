@@ -316,12 +316,12 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "3f792def51ea9ab711fef5547b3848bd2488801dedcd950204c844771d4a4fd7"
+hash = "c208c9ffe982b5605286fc1456e9d16d77cc82d442b485b691f6d1e278339a5d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3ab863279b0298b5782884d871201457f2dc8b6d28ef112621a2a91cdb4b1226"
+hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "ee6c4e137c80788127f09f5faa7165a034318dcc23db6beb23959b0eafd58b27"
+hash = "d3e13363a519c13a2da7fbea4837394303193885e3bcca477565ccc0e45279e7"
 metafile = true
 
 [[files]]
@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "820c5de47f900b8df2161f0b0185d4ca1308ce39c863c99f180a09e0754c91a6"
+hash = "b9b80e6a56ce783b8a7fc5c4b17e4380425a2a7a66dc09c39e9ef76426b24827"
 metafile = true
 
 [[files]]
