@@ -137,7 +137,7 @@
 	#Player Left Message. Use %player% to display the player name
 	playerLeft = "`%player%` has exited the bounds of the Server."
 	#Advancement Messages. Available variables: %player%, %title%, %description%
-	advancements = "*%player% has made the advancement [%title%]: %description%*"
+	advancements = "`%player%` has made the advancement: **%title% — %description%**."
 	#Chat Messages. THIS DOES NOT APPLY TO EMBED OR WEBHOOK MESSAGES. Available variables: %player%, %message%, %mcname%
 	chat = "%player%: %message%"
 	#Death Messages. Available variables: %player%, %message%
