@@ -21,6 +21,10 @@ file = "config/fixedanvilrepaircost.json5"
 hash = "51f55efa413576c079f805668b31566a4771a971fdba2f511b6d42588786aeaa"
 
 [[files]]
+file = "config/highspeed-rail.json5"
+hash = "af00f5dbbd7b77221971fb1e609eebd0e833f119a8f8df1094cb3a245a95f9a6"
+
+[[files]]
 file = "config/ledger.toml"
 hash = "9853f7a4850bae9bc582cd37a49c22eb0a3eca3a1f38de690c72459bfbfc5d4f"
 

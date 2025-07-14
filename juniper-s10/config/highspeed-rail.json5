@@ -50,7 +50,7 @@
    * happy with the results of turning this on.  Nonetheless, you do so at
    * your own risk.
    */
-  'isNewMinecartPhysicsForceEnabled' : false,
+  'isNewMinecartPhysicsForceEnabled' : true,
 
   /**
    * The 'defaults' section allows you to tweak how minecarts behave by
@@ -99,7 +99,7 @@
      * going in excess of 40,000 bps but have also led to game crashes.
      * Exceed 1000 at your own risk.
      */
-    'maxSpeed' : 20,
+    'maxSpeed' : 40,
 
     /**
      * Applies to the NEW physics model only.
@@ -107,8 +107,9 @@
      * Sets the scaling factor used to accelerate minecarts on powered rails.
      * Roughly speaking, doubling this value will result in doubling the
      * acceleration.  Changing this may lead to undesirable behavior.
+     * Default 0.06
      */
-    'boostFactor' : 0.06,
+    'boostFactor' : 0.2,
 
     /**
      * Applies to the NEW physics model only.
@@ -142,7 +143,7 @@
        */
       'blockIds': ['minecraft:gravel', 'minecraft:stone_brick'],
       'oldMaxSpeed': 40,
-      'maxSpeed': 200
+      'maxSpeed': 150
     },
     {
       'blockIds': ['minecraft:slime_block'],
