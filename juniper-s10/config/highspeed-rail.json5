@@ -141,7 +141,7 @@
        * example, we increase the maximum minecart speed for rails that are
        * built on top of gravel blocks.
        */
-      'blockIds': ['minecraft:gravel', 'minecraft:stone_brick'],
+      'blockIds': ['minecraft:gravel', 'minecraft:stone_bricks'],
       'oldMaxSpeed': 40,
       'maxSpeed': 150
     },

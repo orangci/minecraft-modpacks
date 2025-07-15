@@ -22,7 +22,7 @@ hash = "51f55efa413576c079f805668b31566a4771a971fdba2f511b6d42588786aeaa"
 
 [[files]]
 file = "config/highspeed-rail.json5"
-hash = "af00f5dbbd7b77221971fb1e609eebd0e833f119a8f8df1094cb3a245a95f9a6"
+hash = "d2046ed9c2775805aaea04c4d812fe944a4f1cc70a536366e3f1ed983f2eb4ee"
 
 [[files]]
 file = "config/ledger.toml"
