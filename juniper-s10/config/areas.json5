@@ -8,7 +8,7 @@
 	// min: 0, max: 1000
 	"defaultAreaRadius": 30,
 	// When enabled, sends the player the area notifications in chat.
-	"sendChatMessages": false,
+	"sendChatMessages": true,
 	// When enabled, sends the player the area notifications in the HUD on screen.
 	"showHUDMessages": true,
 	// Whether a message should be sent when a player enters an area.
