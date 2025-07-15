@@ -13,6 +13,10 @@ file = "config/areas.json5"
 hash = "c37c02908ed8256400e4671a77ce18009a8a6e9dfb1d8aa9ffed9692440cafed"
 
 [[files]]
+file = "config/biome_replacer.properties"
+hash = "02b0bf94e12a7dd6f6da3ed82c0730edff7ed01ca36ff4ed00b9f695275ab3a9"
+
+[[files]]
 file = "config/collective/linger_messages.json"
 hash = "ad718ab2dd2058d8eada634fd403da276e8df265b8fb25696f12a9f9ed59c609"
 
