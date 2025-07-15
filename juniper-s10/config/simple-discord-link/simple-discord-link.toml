@@ -12,7 +12,7 @@
 	#The token of the Discord Bot to use. This will be encrypted on first load. See https://sdlink.fdd-docs.com/installation/bot-creation/ to find this
 	botToken = "REPLACE_BOT_TOKEN"
 	#Print the bot invite link to the console on startup
-	printInviteLink = true
+	printInviteLink = false
 	#Use silent replies when Slash Commands are used
 	silentReplies = true
 	#How often the Bot Status will update on Discord (in Seconds). Set to 0 to disable
@@ -30,7 +30,7 @@
 	#Configure the in-game Discord Invite command
 	[botConfig.invite]
 		#If this is defined, it will enable the in-game Discord command
-		inviteLink = "https://discord.gg/KKZK5FyeXw"
+		inviteLink = ""
 		#The message to show when someone uses /discord command. You can use %inviteurl%
 		inviteMessage = "We have a Discord server! Join here: %inviteurl%"
 

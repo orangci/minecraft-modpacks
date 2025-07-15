@@ -1,0 +1,13 @@
+name = "Cliff Face"
+filename = "cliff-face-2.0+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/TIAnANoy/versions/bG1RvM4K/cliff-face-2.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "613c51b243f0abee7e9ad8c94ad5eceebdb5e89c7bff94a2b7a065415291d4cca603c2009a769f06cd53db453457d1430332610802df5667c3343ace07b4c8ac"
+
+[update]
+[update.modrinth]
+mod-id = "TIAnANoy"
+version = "bG1RvM4K"

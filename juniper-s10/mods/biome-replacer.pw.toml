@@ -1,0 +1,13 @@
+name = "Biome Replacer"
+filename = "biomereplacer-2.0-minnow-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DAXbR0Wj/versions/iFb9OgXw/biomereplacer-2.0-minnow-fabric.jar"
+hash-format = "sha512"
+hash = "78f925da3b6ec754d30fa69d89976043c86f7f926693bf3695c2cef62533feb2a46d6baffc95e2e6d7fc7e6f39f3c38bfcb0aca16376e21c3b02c4fdb31cf3d7"
+
+[update]
+[update.modrinth]
+mod-id = "DAXbR0Wj"
+version = "iFb9OgXw"

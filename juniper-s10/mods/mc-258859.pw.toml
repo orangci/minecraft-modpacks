@@ -1,0 +1,13 @@
+name = "MC-258859"
+filename = "mc-258859-1.0+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gzfqBTYf/versions/x688NRQ5/mc-258859-1.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "5aef8b418ea9c36fb52aa9821881a8b2376b25e95ad364723b495a415e3f8818282478ee05f18b915769f386ee7180d60f63ad33adb50390bca47ddf386920d4"
+
+[update]
+[update.modrinth]
+mod-id = "gzfqBTYf"
+version = "x688NRQ5"

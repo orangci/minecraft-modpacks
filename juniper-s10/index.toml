@@ -78,7 +78,7 @@ hash = "994eeb748a9dd4140b949539f8d45e5f7e654385c9e5d149445bde0fa5cde38b"
 
 [[files]]
 file = "config/simple-discord-link/simple-discord-link.toml"
-hash = "8102a01e5320504b432caa22ebdfed7933e7bbbd68058f0a2cea58276e08f15b"
+hash = "48d866d6ef7ce2cd5184ab4bb872b2e186ade4a33e816de72dee137263ac5a6b"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
@@ -249,6 +249,11 @@ hash = "4f6c2e0b9b4ed78a8b969606c9717f1adf12da13781ae9f64050cf237aaf86f9"
 metafile = true
 
 [[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "a6ecb9af4e68f43e02bd750e0e70d35065846adb19dffa88bf303955f4128713"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "2f98d008f5f3ed8b423c6d30db4a9cb25f0a11b6b1f73f921639e37c145f4eb7"
 metafile = true
@@ -266,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/click-opener-continued.pw.toml"
 hash = "2d965b02d4fd2a2ff540439527db9048287d94984f77e6ae2e0fd76b71ebc7be"
+metafile = true
+
+[[files]]
+file = "mods/cliff-face.pw.toml"
+hash = "9dab271f4bfd98a5a5dc5366048073d65e61625d334bc668e9db50e096ff4e39"
 metafile = true
 
 [[files]]
@@ -439,6 +449,11 @@ hash = "e437aa8011fc166956d6b1d1920ff33afa32b8a560beee95156872f4fa465f6e"
 metafile = true
 
 [[files]]
+file = "mods/mc-258859.pw.toml"
+hash = "828206ac97ad103ec4e2069555de4a2589dea4f4b02556580486631c7ade1cbe"
+metafile = true
+
+[[files]]
 file = "mods/modflared.pw.toml"
 hash = "eda9ad67fea6d1a77beb4710488c5e62de984a579e861ab495587cf97ff51ffd"
 metafile = true
@@ -471,6 +486,11 @@ metafile = true
 [[files]]
 file = "mods/personalrules.pw.toml"
 hash = "284b49758b8bf2982de036b5d2fd870dadfcdba184442059740b1f325aa5b978"
+metafile = true
+
+[[files]]
+file = "mods/philips-biome-features.pw.toml"
+hash = "20e64cd989a71588642d2e60bb958cfd58674261b1ddd80df8acaffe817f8442"
 metafile = true
 
 [[files]]
