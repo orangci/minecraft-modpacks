@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "c208c9ffe982b5605286fc1456e9d16d77cc82d442b485b691f6d1e278339a5d"
+hash = "6de0401e2186e27a2dbe89d3fb1d7e823106c928a1b2ee8ea783b71b0a31ce5f"
 metafile = true
 
 [[files]]
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "d3e13363a519c13a2da7fbea4837394303193885e3bcca477565ccc0e45279e7"
+hash = "92b685215b453a8b4d7dd3e675ae04cb1b2137d053dd105ae8cbe3b95edc7e26"
 metafile = true
 
 [[files]]
