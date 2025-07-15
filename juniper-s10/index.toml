@@ -10,7 +10,7 @@ hash = "0855b2b4f4c5cc626cc45de362e187f92c0e7e171a2b1f05d367b3cfe45a1314"
 
 [[files]]
 file = "config/areas.json5"
-hash = "9d6459f39a5b48fc8abea623a49661a6f450dee1353c94266088f4cf1590e642"
+hash = "c37c02908ed8256400e4671a77ce18009a8a6e9dfb1d8aa9ffed9692440cafed"
 
 [[files]]
 file = "config/collective/linger_messages.json"

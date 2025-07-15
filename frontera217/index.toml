@@ -359,6 +359,11 @@ hash = "47d1dc015b07695d8d3107cb12aa75e154ed0a9c0216a69fed7d221857f6ad7d"
 metafile = true
 
 [[files]]
+file = "mods/areas.pw.toml"
+hash = "3c0746497c8d6a77ca3e845eddbb79a897538154938e6aab287c96ba43672c0d"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "01013db5d43a8e041bfb70f5f88d4940cc4a6eefd620577df20954bd0ab6004d"
 metafile = true
@@ -446,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "86280b5ea045ad198494bfc49641dd803010e35069c957a4d4390fd276cbe0c7"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "5036beee8b9088cdd6e42699eb9fff76658eda6b6f83b46c531624ae87ccd80b"
 metafile = true
 
 [[files]]
