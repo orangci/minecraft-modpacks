@@ -563,6 +563,11 @@ hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
 
 [[files]]
+file = "mods/string-duper-fix-remover.pw.toml"
+hash = "82c92722b001f3f1a9d82d8283e2adba1f7ea4244b8d31b93a7d02271510246c"
+metafile = true
+
+[[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "58acee06548125293942440e807f3ed506b5b4b4b27ae248142fae3575c9b3aa"
 metafile = true

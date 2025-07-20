@@ -1,0 +1,13 @@
+name = "String Duper Fix Remover"
+filename = "stringduperfix-1.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/O9TFn6US/versions/pXP1c5RK/stringduperfix-1.4.jar"
+hash-format = "sha512"
+hash = "7b6d580c26ce10c83f16845737ee26848e7ffd11afadee54541b1d60809dd8a91113657c153ffc628923014161bf64102311589776900e410ea687780cb646af"
+
+[update]
+[update.modrinth]
+mod-id = "O9TFn6US"
+version = "pXP1c5RK"
