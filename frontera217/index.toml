@@ -784,11 +784,6 @@ hash = "ded35e7226b1ea89121fe5f9b397fcf6bfe8f239f63ec7fcd092fd527b68fecd"
 metafile = true
 
 [[files]]
-file = "mods/ui-control.pw.toml"
-hash = "807401d715e6fceb21222b01a18907030d2d06a294170d400daa4fdc22d16fc5"
-metafile = true
-
-[[files]]
 file = "mods/ukulib.pw.toml"
 hash = "c730b32fcffb1d62e443bcc87088fcada47df76d893af386a48a7439d3c86803"
 metafile = true
