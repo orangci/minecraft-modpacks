@@ -239,17 +239,17 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "5ffa06466b468a41c96d53c2ec8e53d5ff0e00da10428db079156375eec6586d"
+hash = "67b88f617241597ff0633fb0f33b5918e72f9914d03050a4f98dadad02d5d22b"
 metafile = true
 
 [[files]]
 file = "mods/better-craftables.pw.toml"
-hash = "3b8d5cc675af0af40443da531af3253ee1c80a40a31092be8f0902f27f447c16"
+hash = "15abc51cf26e0222229a543ed861dc09c8fb27ae10be4094c4530117689c7306"
 metafile = true
 
 [[files]]
 file = "mods/better-unpackables.pw.toml"
-hash = "4f6c2e0b9b4ed78a8b969606c9717f1adf12da13781ae9f64050cf237aaf86f9"
+hash = "ed5938c8a807a2ce59c23e9f8e371566ef9d6483e98bb37da06739e84cc77501"
 metafile = true
 
 [[files]]
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/discerning-furnace.pw.toml"
-hash = "018ce8e62a10b16a8cad03fa9d6118877057bc172e5346a6e1328b1d45752f9d"
+hash = "5e16d0756380f6539d4ad33046c794c73e5cf0d917a06d24fcdd7b784b94a5fe"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "6de0401e2186e27a2dbe89d3fb1d7e823106c928a1b2ee8ea783b71b0a31ce5f"
+hash = "e4104c5878b48368908e67cd0710c119b94652365c4e568e4e2ec0734a06e9dd"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/serilums-rpg-bundle.pw.toml"
-hash = "227ac84145a5bbb1617ed8f063b0a037aab0cb4bd4dc23879057a18387226c68"
+hash = "1d37bf4e4a0b3b912285fa3df05d6131ebada847c64018a72f093b3ad4910355"
 metafile = true
 
 [[files]]
@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "3749f83c1baf130cbe52bd87d333f73f2004c8434b0239da735cfec09b756919"
+hash = "eb8318a2e193f3435b42a441e260ad20068eb4ca75c73f26fa96485e1ab2660c"
 metafile = true
 
 [[files]]

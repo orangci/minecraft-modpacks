@@ -1,13 +1,13 @@
 name = "Serilum's RPG Bundle"
-filename = "serilumsrpgbundle-1.21.7-2.4.jar"
+filename = "serilumsrpgbundle-1.21.7-2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rzhyiRjl/versions/FgWyBHKu/serilumsrpgbundle-1.21.7-2.4.jar"
+url = "https://cdn.modrinth.com/data/rzhyiRjl/versions/GO8Ugrqw/serilumsrpgbundle-1.21.7-2.5.jar"
 hash-format = "sha512"
-hash = "5ef7fe10ee4a49f0ae549296c8de6c75a6ebfc7d4d5263d512dd0dee8bd4faa2f451b6bb779dbbaac74d96f9605404d3d2e558144b3abe89619a191a635bb0ae"
+hash = "0a67a596c434294beee3e1a6cf1366d7866ab156de4f08b3a1c758406753b5de12289d66133ac693468c9866b7b2d0537c50dae1c842c85ce41dfc2c2da0a328"
 
 [update]
 [update.modrinth]
 mod-id = "rzhyiRjl"
-version = "FgWyBHKu"
+version = "GO8Ugrqw"
