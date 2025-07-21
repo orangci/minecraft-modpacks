@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/ly-clumps.pw.toml"
-hash = "642bcd43ad3582fdc2e70f9e3836d3468a9c20fc33632a365ed259ac596c1f5f"
+hash = "8089d5575e62c0d2a4f16fa1dedc54f6043e0e977d7a204ef00e05bcf449a704"
 metafile = true
 
 [[files]]
@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/modflared.pw.toml"
-hash = "eda9ad67fea6d1a77beb4710488c5e62de984a579e861ab495587cf97ff51ffd"
+hash = "6a6393a1cd5bff48c297a15321a7977999192b376dcc6059e4b4fda19db9182c"
 metafile = true
 
 [[files]]

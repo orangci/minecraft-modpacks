@@ -3,11 +3,11 @@ filename = "ly-clumps-v1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qm9Jw8Jg/versions/RlngSuD6/ly-clumps-v1.0.3.jar"
+url = "https://cdn.modrinth.com/data/qm9Jw8Jg/versions/O4UcDNXv/ly-clumps-v1.0.3.jar"
 hash-format = "sha512"
-hash = "cbef28f0605898c72d7abd14f3904d30b73a9254fa75425bb9b4c5e9cf35d666214d1afd66a8f7efc6f0f6a034ad6f04ca3625e56b0f9ae7312e5cb4bc5c93de"
+hash = "f9bc2c11e851439fa3c34e66c4e6cde3eec203d43395aa2a05b77b05fe5a0167f6fe04cdc84b96b16fd4e491ddccd3b9eb9e64e87e96ef502f8b214f207a44b8"
 
 [update]
 [update.modrinth]
 mod-id = "qm9Jw8Jg"
-version = "RlngSuD6"
+version = "O4UcDNXv"

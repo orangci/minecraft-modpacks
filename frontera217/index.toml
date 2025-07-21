@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/modflared.pw.toml"
-hash = "eda9ad67fea6d1a77beb4710488c5e62de984a579e861ab495587cf97ff51ffd"
+hash = "6a6393a1cd5bff48c297a15321a7977999192b376dcc6059e4b4fda19db9182c"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltip-scroll.pw.toml"
-hash = "cf30c584725977b9d123876058d24b48ad98a45fe42c807c15fa5e56d8c18dc3"
+hash = "e117932195358aa2386264da4cdc63d17397862748f1cbc2f3da3db066c9965c"
 metafile = true
 
 [[files]]
