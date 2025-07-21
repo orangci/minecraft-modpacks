@@ -769,6 +769,11 @@ hash = "cf30c584725977b9d123876058d24b48ad98a45fe42c807c15fa5e56d8c18dc3"
 metafile = true
 
 [[files]]
+file = "mods/toomanybinds.pw.toml"
+hash = "3898571ee57eb1a7f468f2e9b6b7943ec584bd02d6bb588923ed5b3cf8abca17"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "954d1e9fb2747ec295d76a571039b984fff2f651eb66848b681b4aee61a374f7"
 metafile = true

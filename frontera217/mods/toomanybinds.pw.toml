@@ -1,0 +1,13 @@
+name = "Too Many Binds Plus"
+filename = "tmb-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rNkQ2ybI/versions/629bz3nx/tmb-1.1.0.jar"
+hash-format = "sha512"
+hash = "a203e22fb633a437aab5a3f0f654b842cd28d24925795c3582b055543eac24ad185530421cfedc5e128aa93eceff0c95aebcf3bbf22b26a713012517d4c5b595"
+
+[update]
+[update.modrinth]
+mod-id = "rNkQ2ybI"
+version = "629bz3nx"
