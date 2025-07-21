@@ -1,0 +1,13 @@
+name = "PolyDoodads"
+filename = "polydoodads-0.1.0+1.21.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6X66C0xx/versions/OssjjZWN/polydoodads-0.1.0%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "f4f9269e0b1ead58c82c0ad6173e7b388a19a14af6daaf9f95fc559c5c9a78bfc6ab4e09c8f33b757d88715897d69bb48a24d85c32890f8553b3cba80fb7e621"
+
+[update]
+[update.modrinth]
+mod-id = "6X66C0xx"
+version = "OssjjZWN"

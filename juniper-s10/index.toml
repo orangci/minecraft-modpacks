@@ -348,6 +348,16 @@ hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-polymer.pw.toml"
+hash = "4337fec4a7c4993fd3e77be0d594314a796dc986541f043fd55db385a7dbe4a6"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "92aed2c022e129c9dab324b7165c62d8da52749260ec4ed286b6689f23960f0d"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
@@ -503,6 +513,21 @@ hash = "ba3170d8723c0a1dd748c6c226e0a665e3e3494a95e444db44755d2544086037"
 metafile = true
 
 [[files]]
+file = "mods/polydecorations.pw.toml"
+hash = "72c2688c70c85f3754e0b2b457ed1241e4a2535122799d25453bedd3ebca2e6a"
+metafile = true
+
+[[files]]
+file = "mods/polydoodads.pw.toml"
+hash = "f9ff6f5361939bc197550f56383a94db3fae7cc33613f879d6723a1c48648859"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "8513b1b83e85395f82af65b674f5767f9a9fd87536ccfb1c7104c31f5a92aeee"
+metafile = true
+
+[[files]]
 file = "mods/sdlink.pw.toml"
 hash = "da3c275edf123317fcec057cb04a67a0ddb7cf90dc4b95f81a1f4334fe5cb007"
 metafile = true
@@ -585,6 +610,11 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "954d1e9fb2747ec295d76a571039b984fff2f651eb66848b681b4aee61a374f7"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-polymer.pw.toml"
+hash = "aab6201fc18acb74e1c6baf0b993aca82f5aeb95feb8d48358547db87ac630b3"
 metafile = true
 
 [[files]]

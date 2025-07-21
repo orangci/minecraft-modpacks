@@ -1,0 +1,13 @@
+name = "Trinkets (Polymer Port)"
+filename = "trinkets-3.11.0-beta.1+polymerport.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/G8hlgtEk/versions/wQuDPbVy/trinkets-3.11.0-beta.1%2Bpolymerport.2.jar"
+hash-format = "sha512"
+hash = "4ca62c9f89bbdb20094be4c44811dfd4a2579a34a5ebdf4998868b4dff62b5c9405a2a147441bfffefab2a9df95d6f0e8aabd448a8fc0a0a309fc8b99e58ed37"
+
+[update]
+[update.modrinth]
+mod-id = "G8hlgtEk"
+version = "wQuDPbVy"
