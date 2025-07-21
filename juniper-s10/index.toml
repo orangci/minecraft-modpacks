@@ -53,6 +53,10 @@ file = "config/pl3xmap/config.yml"
 hash = "03e07f1839049292c05a55a78076ac93a77c9deedf3442da44b5863cd3ff4c5c"
 
 [[files]]
+file = "config/polymer/resource-pack.json"
+hash = "83b2e233cce00cb4ffdfcca5fc9b1c3c2599cac23ccb2fef8b286333620bb3d7"
+
+[[files]]
 file = "config/serilumsextrabundle.json5"
 hash = "98caedc5ef86eef5720d4b62b95314190a9478d429e6301bb9ac183f061619c0"
 
@@ -646,6 +650,10 @@ metafile = true
 file = "mods/wthit.pw.toml"
 hash = "a3814c912ea010a099724b04339c16f2912da575869ca336eb861473009b022a"
 metafile = true
+
+[[files]]
+file = "resourcepacks/paxels.zip"
+hash = "fd3a8f75c52d8b6bd26a1d61cd6cdbda38a4a7d8c1e2cdd8cb33d52dab9a557f"
 
 [[files]]
 file = "server-icon.png"

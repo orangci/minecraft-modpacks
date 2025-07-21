@@ -342,7 +342,7 @@ hash = "f02ba192ecbb4e049c6cdaa35a2131852960602bef0f2dbe6e33ebe90b3f6f50"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "facf11b9b246974545f1ddd97845437e8530d5acf745f6d9c58a608c42784e5b"
+hash = "9f624bd26ba637f5081a49b9eb69c97338500680e38113c33ff2b22bd2b5335f"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -862,7 +862,3 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
-
-[[files]]
-file = "resourcepacks/V-Paxels Resourcepack 2.0.0.zip"
-hash = "fd3a8f75c52d8b6bd26a1d61cd6cdbda38a4a7d8c1e2cdd8cb33d52dab9a557f"

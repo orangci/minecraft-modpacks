@@ -53,9 +53,9 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/V-Paxels Resourcepack 2.0.0.zip","itemswapper:default"]
-incompatibleResourcePacks:["badoptimizations","balm","betterbiomeblend","betterstats","clientcommands","commandkeys","controlling","entityculling","itemswapper","moremousetweaks","notenoughanimations","searchables","skinlayers3d","spark","tcdcommons","textformattingeverywhere","trender","tweakeroo","waveycapes","xaerominimap","xaeroworldmap","xaerozoomout","yet_another_config_lib_v3","file/V-Paxels Resourcepack 2.0.0.zip","itemswapper:default"]
-lastServer:localhost:8817
+resourcePacks:["vanilla","fabric","itemswapper:default"]
+incompatibleResourcePacks:["badoptimizations","balm","betterbiomeblend","betterstats","clientcommands","commandkeys","controlling","entityculling","itemswapper","moremousetweaks","notenoughanimations","searchables","skinlayers3d","spark","tcdcommons","textformattingeverywhere","trender","tweakeroo","waveycapes","xaerominimap","xaeroworldmap","xaerozoomout","yet_another_config_lib_v3","itemswapper:default"]
+lastServer:mc.orangc.net
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
