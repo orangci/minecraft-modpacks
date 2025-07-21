@@ -53,6 +53,10 @@ file = "config/pl3xmap/config.yml"
 hash = "03e07f1839049292c05a55a78076ac93a77c9deedf3442da44b5863cd3ff4c5c"
 
 [[files]]
+file = "config/polymer/auto-host.json"
+hash = "5d73bd8948446234f8b07ade99f9b07a19cb8cce1a887d4801d21bf6f1352c31"
+
+[[files]]
 file = "config/polymer/resource-pack.json"
 hash = "83b2e233cce00cb4ffdfcca5fc9b1c3c2599cac23ccb2fef8b286333620bb3d7"
 
