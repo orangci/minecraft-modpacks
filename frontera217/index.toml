@@ -724,6 +724,11 @@ hash = "20099bcdcd4061d3ec7681719cc4edc4bb8797c2821b7070c3ad0e175ee77416"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-layers.pw.toml"
+hash = "da84e3c27ae106fa04a7c9e34ef8761ac10da8b85872efd29d902c3d23cc325f"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "7a36cf9888455a9d373c621dd4dc40258501e65ef30be309283e9fab7d96341b"
 metafile = true

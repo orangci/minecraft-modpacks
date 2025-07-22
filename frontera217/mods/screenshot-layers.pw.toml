@@ -1,0 +1,13 @@
+name = "Screenshot Layers"
+filename = "screenshot-layers-0.1.0-1.21.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1OBofkDV/versions/BbrqInr4/screenshot-layers-0.1.0-1.21.7.jar"
+hash-format = "sha512"
+hash = "5696f87ad217f55bee308ce15b4940f6f214d8d4aca9eaddf12560db5217a6615fea56dc594255d74d14727cddb72f1952c7a9ccdf3849a86eabd0e43eab0fc6"
+
+[update]
+[update.modrinth]
+mod-id = "1OBofkDV"
+version = "BbrqInr4"
