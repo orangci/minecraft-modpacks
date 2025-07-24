@@ -54,7 +54,7 @@ hash = "03e07f1839049292c05a55a78076ac93a77c9deedf3442da44b5863cd3ff4c5c"
 
 [[files]]
 file = "config/polymer/auto-host.json"
-hash = "5d73bd8948446234f8b07ade99f9b07a19cb8cce1a887d4801d21bf6f1352c31"
+hash = "6cd0d84de912d6e7cd0222457eb9f53089b740ff25b239b62b5d8994a679628a"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "67b88f617241597ff0633fb0f33b5918e72f9914d03050a4f98dadad02d5d22b"
+hash = "baf3dcfa7b5228c9776f46a9597e8a2d74c542e9a73e9d45f0f983c0910c39ca"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "92aed2c022e129c9dab324b7165c62d8da52749260ec4ed286b6689f23960f0d"
+hash = "48cb7dd226aa31ceda0ad41e96805b29d943b85eef9235d19e61e1b257b3009c"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "80426d1cd97df1374cce52fe89928aa7971a72923a745df13f5e9b924e2574b8"
+hash = "6426829629c1b4fa37aa29c4ee99d3701a7bb3eb1f126672842a67b75612e03e"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/modflared.pw.toml"
-hash = "6a6393a1cd5bff48c297a15321a7977999192b376dcc6059e4b4fda19db9182c"
+hash = "b9c4b91e0a8e765873fe9397014e44bd1d694ac2c4ed7b3797ce29d93c992c98"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "618e5a322ce8133e22c58972e1bd0f57d52862d7f5d4d6051e5d2fdb9a9fd8ca"
+hash = "a6948eb25808d55a8dc3b9a64999181ebae738c3679ced2981c7c1ec34b9b0b6"
 metafile = true
 
 [[files]]

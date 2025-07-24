@@ -6,9 +6,12 @@
     "_c7": "Mods may override the above setting and make the resource pack required, set this to false to disable that.",
     "mod_override": true,
     "_c3": "Type of resource pack provider. Default: 'polymer:automatic'",
-    "type": "polymer:automatic",
+    "type": "polymer:http_server",
     "_c4": "Configuration of type, see provider's source for more details",
-    "settings": {},
+    "settings": {
+        "port": REPLACE_POLYMER_PORT,
+        "external_address": "http://localhost:REPLACE_POLYMER_PORT/"
+    },
     "_c5": "Message sent to clients before pack is loaded",
     "message": "Enable this resourcepack or fumos will burn down your house~",
     "_c6": "Disconnect message in case of failure",

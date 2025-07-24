@@ -1,13 +1,13 @@
 name = "Litematica Enderchest Materials"
-filename = "litematica-enderchest-materials-0.23.1+1.21.6-1.21.7.jar"
+filename = "litematica-enderchest-materials-0.23.3+1.21.6-1.21.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/oBzw5QUs/versions/zwCB1Jxf/litematica-enderchest-materials-0.23.1%2B1.21.6-1.21.7.jar"
+url = "https://cdn.modrinth.com/data/oBzw5QUs/versions/X9tyTzY6/litematica-enderchest-materials-0.23.3%2B1.21.6-1.21.8.jar"
 hash-format = "sha512"
-hash = "2e1adb9292ab606b1dfe3f53e83f0c142f0fe08194b325e6ccf8513bcd39aab423ce608e85a7ab5d53d61d615bc0b091652637e904146dad52c2864cfbbb9b80"
+hash = "f8f2ebd691de81ec7fa89aae47959311435e9174a0e15cc86a361ab2d8f292b08b6423bc58655cf8195a4b591717a2b0f7ede909be70200f6ebbc7ef444eb530"
 
 [update]
 [update.modrinth]
 mod-id = "oBzw5QUs"
-version = "zwCB1Jxf"
+version = "X9tyTzY6"

@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "47d1dc015b07695d8d3107cb12aa75e154ed0a9c0216a69fed7d221857f6ad7d"
+hash = "832691489ab19e2f0a4b81b77c143a8dceb5f3f395cdee96bcddd893fb01b363"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "67b88f617241597ff0633fb0f33b5918e72f9914d03050a4f98dadad02d5d22b"
+hash = "baf3dcfa7b5228c9776f46a9597e8a2d74c542e9a73e9d45f0f983c0910c39ca"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "407997b50bf52aebec1f8d1017cb92e99bda2d01fac4fb5511ca5f69cb22ff8d"
+hash = "03ca5e8340966f21df75dc47b807f974ca57f9d57dbb56c8f8f118df843b6cae"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "80426d1cd97df1374cce52fe89928aa7971a72923a745df13f5e9b924e2574b8"
+hash = "6426829629c1b4fa37aa29c4ee99d3701a7bb3eb1f126672842a67b75612e03e"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-blur.pw.toml"
-hash = "13b8c618cbbbdc099409a000d2c4873a25c6faaee9a95eea5b01f86440809f0d"
+hash = "b39c33eb3704949aecdad70b377d1d3d0589ec574e3e4e04c1c5fde8372fac57"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica-enderchest-materials.pw.toml"
-hash = "efcc367558eca94049fd9c4365cb72e59c478d4edbb23616c6305ec2f3148455"
+hash = "9c8759118014bb2bd7f718549093852b6c2c94ac2bf0021249bf1c278aa6700a"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/modflared.pw.toml"
-hash = "6a6393a1cd5bff48c297a15321a7977999192b376dcc6059e4b4fda19db9182c"
+hash = "b9c4b91e0a8e765873fe9397014e44bd1d694ac2c4ed7b3797ce29d93c992c98"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "618e5a322ce8133e22c58972e1bd0f57d52862d7f5d4d6051e5d2fdb9a9fd8ca"
+hash = "a6948eb25808d55a8dc3b9a64999181ebae738c3679ced2981c7c1ec34b9b0b6"
 metafile = true
 
 [[files]]
@@ -790,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "fedbde4c450d35a39fff71c7096c39df89847c0a71065ab8f0bb58f8e1055aad"
+hash = "1f6a41ed427462bb1433e01c3486ec2eca971292ec540d7fd1f994dc1fd80968"
 metafile = true
 
 [[files]]
