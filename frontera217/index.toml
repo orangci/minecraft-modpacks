@@ -404,6 +404,11 @@ hash = "9436085bae308ace17b565639c51bd7e865c282cd2440b85fd74484b4ccaa57d"
 metafile = true
 
 [[files]]
+file = "mods/blockmeter.pw.toml"
+hash = "f0b047557b1569fefca7214d01aeca6e701ac6fe167f853219c0b8361eee91a5"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "65ba148bc2832d78b433e76eccfbdbb1456066a9d14dac621a3b730b109b16cb"
 metafile = true
@@ -426,11 +431,6 @@ metafile = true
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "68e5fa802b0c89ffefe27bef26f0858019b9574061696aee1bc134f6730952d8"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "b1da0afe23273616b36e2c6d815819ea43ff3847db20639067cfa8e13e930753"
 metafile = true
 
 [[files]]
@@ -616,6 +616,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "e6e5b83fe6fdc154dcf0e5cf62309ecae0b6a44e1d5a1388d2d5a2dd7a6c4790"
+metafile = true
+
+[[files]]
+file = "mods/map-distance-fix.pw.toml"
+hash = "1ceef33e0e014ec89c4a7baf1bd4363d2c1cd4a37455ee7d0f8b92893c631551"
 metafile = true
 
 [[files]]
