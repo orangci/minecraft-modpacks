@@ -404,11 +404,6 @@ hash = "9436085bae308ace17b565639c51bd7e865c282cd2440b85fd74484b4ccaa57d"
 metafile = true
 
 [[files]]
-file = "mods/blockmeter.pw.toml"
-hash = "f0b047557b1569fefca7214d01aeca6e701ac6fe167f853219c0b8361eee91a5"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "65ba148bc2832d78b433e76eccfbdbb1456066a9d14dac621a3b730b109b16cb"
 metafile = true
