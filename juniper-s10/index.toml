@@ -62,7 +62,7 @@ hash = "83b2e233cce00cb4ffdfcca5fc9b1c3c2599cac23ccb2fef8b286333620bb3d7"
 
 [[files]]
 file = "config/serilumsextrabundle.json5"
-hash = "98caedc5ef86eef5720d4b62b95314190a9478d429e6301bb9ac183f061619c0"
+hash = "4d04ec293eaab613c5747bf443ca7ef1c336c68373664c671af3d05c2cff9791"
 
 [[files]]
 file = "config/serilumsqolbundle.json5"
@@ -631,11 +631,6 @@ hash = "aab6201fc18acb74e1c6baf0b993aca82f5aeb95feb8d48358547db87ac630b3"
 metafile = true
 
 [[files]]
-file = "mods/v-paxels.pw.toml"
-hash = "e4f5e384212aed943e3b4ec76b60ac09f1b4332b4dc9f07c5fa1cfc2dfe1af7a"
-metafile = true
-
-[[files]]
 file = "mods/vanilla-structure-update.pw.toml"
 hash = "b8ccb5c03751be07f960186186b674d9c93e181b3bfb234f53a1f65de0c3de75"
 metafile = true
@@ -663,10 +658,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/pack.zip"
 hash = "782a4d32539aa992422e11f877d006f2170ba6bdadfd8cf6c460ed1143ec8aab"
-
-[[files]]
-file = "resourcepacks/paxels.zip"
-hash = "fd3a8f75c52d8b6bd26a1d61cd6cdbda38a4a7d8c1e2cdd8cb33d52dab9a557f"
 
 [[files]]
 file = "server-icon.png"

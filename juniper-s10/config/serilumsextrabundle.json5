@@ -8,7 +8,7 @@
 	// If the bundled Bigger Sponge Absorption Radius mod should be enabled.
 	"enableBiggerSpongeAbsorptionRadius": true,
 	// If the bundled Bouncier Beds mod should be enabled.
-	"enableBouncierBeds": true,
+	"enableBouncierBeds": false,
 	// If the bundled Crying Ghasts mod should be enabled.
 	"enableCryingGhasts": true,
 	// If the bundled Crying Portals mod should be enabled.
