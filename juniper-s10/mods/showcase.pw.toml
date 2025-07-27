@@ -1,0 +1,13 @@
+name = "Showcase"
+filename = "showcase-2.0.1+1.21.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DC8AYtgP/versions/P7pFWAFE/showcase-2.0.1%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "d8b34e8e9603cf4ac079855f4cbb8d4b08b99b0c9d30467fa14a7b1f6aabf154c0447e740ecd6fddb526f07a912c6baf5294d41a8599261157947ee000f587bc"
+
+[update]
+[update.modrinth]
+mod-id = "DC8AYtgP"
+version = "P7pFWAFE"

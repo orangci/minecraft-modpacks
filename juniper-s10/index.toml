@@ -416,11 +416,6 @@ hash = "d2d78a04058d834727228934ac4ad1f11cecc589eb45dd176633754d91c8cd65"
 metafile = true
 
 [[files]]
-file = "mods/itemflexer.pw.toml"
-hash = "2d814d0518d2ebbdfdce26fb05cde9fefe7bead0449148285c5aaf02c4c97f53"
-metafile = true
-
-[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "1818a8ffad37a08edad9eb0e3afdcb285998f86373bb13f9c2b68e4e8a66f491"
 metafile = true
@@ -573,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/servux.pw.toml"
 hash = "eb8318a2e193f3435b42a441e260ad20068eb4ca75c73f26fa96485e1ab2660c"
+metafile = true
+
+[[files]]
+file = "mods/showcase.pw.toml"
+hash = "35e0218e0a170f60dff927ffb2903ee25024fc0757aa8f6ec1a8cdba814018df"
 metafile = true
 
 [[files]]
