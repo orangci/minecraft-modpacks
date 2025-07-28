@@ -153,14 +153,6 @@ file = "config/litematica.json"
 hash = "1291d3440af878ea7370b2c78f1d73bdeb092966eee7dbdfd6e2d2aee3719810"
 
 [[files]]
-file = "config/litematica/litematica_localhost_8817.json"
-hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
-
-[[files]]
-file = "config/litematica/litematica_localhost_8817_dim_minecraft_overworld.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
@@ -596,11 +588,6 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "65d542a720b52feeaab878439636d8ca361ccc512a054e96696e4972b6ecfd8f"
-metafile = true
-
-[[files]]
-file = "mods/litematica-enderchest-materials.pw.toml"
-hash = "9c8759118014bb2bd7f718549093852b6c2c94ac2bf0021249bf1c278aa6700a"
 metafile = true
 
 [[files]]
