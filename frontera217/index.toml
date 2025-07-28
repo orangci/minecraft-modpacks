@@ -524,6 +524,11 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
+file = "mods/fixed-anvil-repair-cost.pw.toml"
+hash = "6893621ce787806991772f0da92d3b5ddbc1c94b7223c3ce06b2b9b9cd36bd1f"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "36d3f5054974aa0abfd8edb01d7b99d41497c90559e52485dbc0d1e420f4bba0"
 metafile = true
