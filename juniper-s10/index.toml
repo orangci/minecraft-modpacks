@@ -21,6 +21,10 @@ file = "config/collective/linger_messages.json"
 hash = "ad718ab2dd2058d8eada634fd403da276e8df265b8fb25696f12a9f9ed59c609"
 
 [[files]]
+file = "config/enchantmentcompat.toml"
+hash = "40d689dcedd4d2b832fa61a6cda56bbf7dbfb5e8cfcda52fa673339b2ec21efa"
+
+[[files]]
 file = "config/fixedanvilrepaircost.json5"
 hash = "51f55efa413576c079f805668b31566a4771a971fdba2f511b6d42588786aeaa"
 
@@ -35,10 +39,6 @@ hash = "9853f7a4850bae9bc582cd37a49c22eb0a3eca3a1f38de690c72459bfbfc5d4f"
 [[files]]
 file = "config/lithostitched.json"
 hash = "311210e6c817a344b885352da5d2d5e976d33bc2d1ddabd0492105083e6fce70"
-
-[[files]]
-file = "config/mineralchance.json5"
-hash = "a967a45ff242eacc62627d751ba4a39e3a504bb47246ea70ffab41342ffe8187"
 
 [[files]]
 file = "config/mmode.json"
@@ -66,11 +66,11 @@ hash = "4d04ec293eaab613c5747bf443ca7ef1c336c68373664c671af3d05c2cff9791"
 
 [[files]]
 file = "config/serilumsqolbundle.json5"
-hash = "879c753ef60272d7f3a1320fb29700cde76a27fbaa668419b353203bf80f9e7f"
+hash = "2fe9d553985c7f03a8499e1c51146685632f10b769137fd088436ee2e7e97b18"
 
 [[files]]
 file = "config/serilumsrpgbundle.json5"
-hash = "2a0efc5a46b05bbd09ed66129c3008ceb58c1cefb4298b6804dee9583c2dc1bc"
+hash = "bb77895b5ac6bcdcd23f2b335ef8c16ca6a2b09b94d8e1af03e4ae003bfec77d"
 
 [[files]]
 file = "config/shulkerdropstwo.json5"
