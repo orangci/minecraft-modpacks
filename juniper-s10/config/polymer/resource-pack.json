@@ -6,9 +6,6 @@
   "_c5": "Included resource packs from mods!",
   "include_mod_assets": [],
   "_c6": "Included resource packs from zips!",
-  "include_zips": [
-    "resourcepacks/paxels.zip"
-  ],
   "_c7": "Path used for creation of default resourcepack!",
   "resource_pack_location": "resourcepacks/polymer.zip",
   "_c8": "Prevents selected paths from being added to resource pack, if they start with provided text.",

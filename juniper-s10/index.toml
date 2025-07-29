@@ -54,11 +54,11 @@ hash = "03e07f1839049292c05a55a78076ac93a77c9deedf3442da44b5863cd3ff4c5c"
 
 [[files]]
 file = "config/polymer/auto-host.json"
-hash = "9aea6c16a48d5596aec9643cae140ab7fb79db72c7b576407619971b35294e0f"
+hash = "2281d96a3340815515037cda0b95b8c8a6865f7dd7219ae68e2aae19039b7540"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "83b2e233cce00cb4ffdfcca5fc9b1c3c2599cac23ccb2fef8b286333620bb3d7"
+hash = "247aa46d1996f68ddf88f76015b9278820559fc5478648f1a6418ff0836dd6c3"
 
 [[files]]
 file = "config/serilumsextrabundle.json5"
