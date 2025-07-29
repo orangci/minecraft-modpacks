@@ -1,0 +1,13 @@
+name = "Toms Server Additions: Planks!"
+filename = "tsa-planks-1.1.2+1.21.2-rc1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/SU4YwX00/versions/vYmZLUa0/tsa-planks-1.1.2%2B1.21.2-rc1.jar"
+hash-format = "sha512"
+hash = "ea4aa0921aeb424dae494f9112867e46ac0d1b356c638760f60680bca816e18ac7bc6c41f511fd55535b3c179b4024d3a9366ad8e5522373c23a6e3893a33fa7"
+
+[update]
+[update.modrinth]
+mod-id = "SU4YwX00"
+version = "vYmZLUa0"

@@ -1,0 +1,13 @@
+name = "Toms Server Additions: Concrete!"
+filename = "tsa-concrete-1.1.1+1.21.2-rc1-1.21.2-rc1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MXH6I6VI/versions/HT4hFud3/tsa-concrete-1.1.1%2B1.21.2-rc1-1.21.2-rc1.jar"
+hash-format = "sha512"
+hash = "4ac25322d27bd01439d9e81c348ba679eb2a89a3e8c383348047766f97570bd610e6059912cd8b2a30689656c41d619475fe878d846099f0f11737560abf35ec"
+
+[update]
+[update.modrinth]
+mod-id = "MXH6I6VI"
+version = "HT4hFud3"

@@ -1,0 +1,13 @@
+name = "Flat EXP Costs"
+filename = "consistentexpcost-1.21.8-fabric-0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rN9rp7X0/versions/IHMVgdvE/consistentexpcost-1.21.8-fabric-0.2.jar"
+hash-format = "sha512"
+hash = "4370cb8334681e5fcc7eb47a06fdd0d6d73531f5d506def1bdea31548cc33848483633123a2f99c64732a78932e3df9733cfe67192671eb96cca7467d305c047"
+
+[update]
+[update.modrinth]
+mod-id = "rN9rp7X0"
+version = "IHMVgdvE"

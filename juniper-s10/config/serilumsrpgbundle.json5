@@ -36,7 +36,7 @@
 	// If the bundled Just Player Heads mod should be enabled.
 	"enableJustPlayerHeads": true,
 	// If the bundled Mineral Chance mod should be enabled.
-	"enableMineralChance": true,
+	"enableMineralChance": false,
 	// If the bundled Naturally Charged Creepers mod should be enabled.
 	"enableNaturallyChargedCreepers": false,
 	// If the bundled Nether Portal Spread mod should be enabled.

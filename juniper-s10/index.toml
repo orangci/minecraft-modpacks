@@ -262,12 +262,12 @@ metafile = true
 
 [[files]]
 file = "mods/biome-replacer.pw.toml"
-hash = "a6ecb9af4e68f43e02bd750e0e70d35065846adb19dffa88bf303955f4128713"
+hash = "b2cb7c53df1686bc62618d1a5ee7eda8ac706a11680faab666c3df4b07137c11"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "2f98d008f5f3ed8b423c6d30db4a9cb25f0a11b6b1f73f921639e37c145f4eb7"
+hash = "35d406429da19637e78ad5b38e700556a8ded404c534df1f5295adc0d2e444da"
 metafile = true
 
 [[files]]
@@ -321,6 +321,11 @@ hash = "8ed7eb46384b2e8b3fc01e6e781bd4fa334b284fbf1895c4f6f447082e628f12"
 metafile = true
 
 [[files]]
+file = "mods/deimos.pw.toml"
+hash = "dd66188f3aa571563904b2f8971e76f55321531498a99cbcf4e717d11821078f"
+metafile = true
+
+[[files]]
 file = "mods/discerning-furnace.pw.toml"
 hash = "5e16d0756380f6539d4ad33046c794c73e5cf0d917a06d24fcdd7b784b94a5fe"
 metafile = true
@@ -362,12 +367,22 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "48cb7dd226aa31ceda0ad41e96805b29d943b85eef9235d19e61e1b257b3009c"
+hash = "470e91911a37bdc3f8c329c07aec8e3028e0a0df95a997fb092696ec95c20275"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/filament.pw.toml"
+hash = "68dacacd27c85cd026dc690e2635fdaefd0bb0b86389e067211ba99feb1139b1"
+metafile = true
+
+[[files]]
+file = "mods/flat-exp-costs.pw.toml"
+hash = "250600230b3ec31cb592c2075698b97e024699a69ed911d8f6f9c3944051cc4a"
 metafile = true
 
 [[files]]
@@ -526,6 +541,11 @@ hash = "72c2688c70c85f3754e0b2b457ed1241e4a2535122799d25453bedd3ebca2e6a"
 metafile = true
 
 [[files]]
+file = "mods/polydex.pw.toml"
+hash = "3de77c36c974e6a19dda6bf953046c0b7b568ad0c7889fd31644554efb32853e"
+metafile = true
+
+[[files]]
 file = "mods/polydoodads.pw.toml"
 hash = "f9ff6f5361939bc197550f56383a94db3fae7cc33613f879d6723a1c48648859"
 metafile = true
@@ -572,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/showcase.pw.toml"
-hash = "35e0218e0a170f60dff927ffb2903ee25024fc0757aa8f6ec1a8cdba814018df"
+hash = "723b3aa10235c99c5396d2f499125be59d108d32904523744af0e0a840a743bb"
 metafile = true
 
 [[files]]
@@ -628,6 +648,26 @@ metafile = true
 [[files]]
 file = "mods/trinkets-polymer.pw.toml"
 hash = "aab6201fc18acb74e1c6baf0b993aca82f5aeb95feb8d48358547db87ac630b3"
+metafile = true
+
+[[files]]
+file = "mods/tsa-concrete.pw.toml"
+hash = "4e72917005057ea34f12f7e2ddea446331f251a1eca069a846a21fd7cb177b45"
+metafile = true
+
+[[files]]
+file = "mods/tsa-decorations.pw.toml"
+hash = "a85fb789c8516751a576f85e382e2ae7b5b82fda0b44442e83a9cc2b2dd85758"
+metafile = true
+
+[[files]]
+file = "mods/tsa-planks.pw.toml"
+hash = "cbb8c2f56c74174acabc7d86288fdf550e51a9f04fbaf0d9a7795f012a21c5b4"
+metafile = true
+
+[[files]]
+file = "mods/tsa-stone.pw.toml"
+hash = "f3ee48b03fc7bb52a02657f31bc2b132757bb4a6e1c15133809e8b5001eb1094"
 metafile = true
 
 [[files]]

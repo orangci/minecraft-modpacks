@@ -2,7 +2,7 @@
 	// If the bundled Always a Wither Skull mod should be enabled.
 	"enableAlwaysaWitherSkull": false,
 	// If the bundled Automatic Doors mod should be enabled.
-	"enableAutomaticDoors": true,
+	"enableAutomaticDoors": false,
 	// If the bundled Better Beacon Placement mod should be enabled.
 	"enableBetterBeaconPlacement": true,
 	// If the bundled Better Conduit Placement mod should be enabled.

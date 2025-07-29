@@ -1,0 +1,13 @@
+name = "filament"
+filename = "filament-1.0.3+1.21.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yANxwqSX/versions/IPRSmIFK/filament-1.0.3%2B1.21.7.jar"
+hash-format = "sha512"
+hash = "974a5bfff2d8401440d2bb4e1752ff92dc6e0d6e5c87d281d552639df3888e3e8a0186484a54de69a694d8e28e5b0246bad62013e3c2bae12b4a0b1e4422d619"
+
+[update]
+[update.modrinth]
+mod-id = "yANxwqSX"
+version = "IPRSmIFK"
