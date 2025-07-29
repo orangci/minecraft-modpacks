@@ -396,6 +396,11 @@ hash = "89e80bbd4883c2c6f95f52ca100de2e2f9495c4979dca699928da39677f08a8d"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "18b42b0177347a4ed48fa29c2cd0910ae4875b883f027077a4892436cb28f31f"
+metafile = true
+
+[[files]]
 file = "mods/fsit.pw.toml"
 hash = "6426829629c1b4fa37aa29c4ee99d3701a7bb3eb1f126672842a67b75612e03e"
 metafile = true
@@ -561,6 +566,11 @@ hash = "8513b1b83e85395f82af65b674f5767f9a9fd87536ccfb1c7104c31f5a92aeee"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "21d32bf9fc3d3b744e08d31b6f95163c2b348fde39a32c0a2b24350aac8037ee"
+metafile = true
+
+[[files]]
 file = "mods/sdlink.pw.toml"
 hash = "da3c275edf123317fcec057cb04a67a0ddb7cf90dc4b95f81a1f4334fe5cb007"
 metafile = true
@@ -698,6 +708,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "a3814c912ea010a099724b04339c16f2912da575869ca336eb861473009b022a"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "ea0eb6ab539b43926503901694913866aa81a9a644cd3469080214a7ca785db2"
 metafile = true
 
 [[files]]
