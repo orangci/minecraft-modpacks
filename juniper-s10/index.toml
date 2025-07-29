@@ -54,7 +54,7 @@ hash = "03e07f1839049292c05a55a78076ac93a77c9deedf3442da44b5863cd3ff4c5c"
 
 [[files]]
 file = "config/polymer/auto-host.json"
-hash = "2281d96a3340815515037cda0b95b8c8a6865f7dd7219ae68e2aae19039b7540"
+hash = "33329e5f8efd7aa0dd7af458633467bb4ab3290a06b951a91701802ffb063ca4"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pack.zip"
-hash = "782a4d32539aa992422e11f877d006f2170ba6bdadfd8cf6c460ed1143ec8aab"
+hash = "39b8a85cbec577c8227862effd653fcb297fe76f96484a8ea220b99e39448153"
 
 [[files]]
 file = "server-icon.png"
