@@ -591,11 +591,6 @@ hash = "f4360b358a2607a715e0a361872b4d08c85e872f2f86c6ddf4c531fa6ff7cd25"
 metafile = true
 
 [[files]]
-file = "mods/litematica.pw.toml"
-hash = "235885512246b8d57a15433a7762db916a11ff45908c51504b8d716092c96319"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "78d3414d086eeffc1e271cc189ea7a33d1dc2ed6f570f39e4abe4b33fc0acc58"
 metafile = true
