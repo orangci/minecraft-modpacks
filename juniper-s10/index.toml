@@ -30,7 +30,7 @@ hash = "51f55efa413576c079f805668b31566a4771a971fdba2f511b6d42588786aeaa"
 
 [[files]]
 file = "config/highspeed-rail.json5"
-hash = "d2046ed9c2775805aaea04c4d812fe944a4f1cc70a536366e3f1ed983f2eb4ee"
+hash = "8d6d7c694020ed442ba2c402c5cfef292819eb1260fdde4a06ff2854215f0c54"
 
 [[files]]
 file = "config/ledger.toml"
@@ -119,10 +119,6 @@ hash = "5918d7138417e1c5682b62c4ab7a5c189be8ca765562b5b5546389d9362dcdc0"
 [[files]]
 file = "datapacks/VanillaTweaks_Crafting_Tweaks_MC1.21-1.21.6.zip"
 hash = "6e012452d8277da33a68c902b006a9a12429c06284bde324f89b40906a164b74"
-
-[[files]]
-file = "datapacks/anti creeper grief v1.1.12 (MC 1.21-1.21.6).zip"
-hash = "3e465ab20e4621e71477ee1decce9747dcc60e99ce2575d3fd1a587454694908"
 
 [[files]]
 file = "datapacks/anti enderman grief v1.1.12 (MC 1.21-1.21.6).zip"
