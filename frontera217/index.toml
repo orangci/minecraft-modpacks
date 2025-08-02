@@ -701,11 +701,6 @@ hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
 
 [[files]]
-file = "mods/resourcepackcached.pw.toml"
-hash = "7f5e152f5ad35bb5f8b191ea03d1807c47f6744cb0357ad5bcb00871b4fec0ce"
-metafile = true
-
-[[files]]
 file = "mods/rrls.pw.toml"
 hash = "05f1af7279a9c9c21e4d3a5ffd2ba0816b8cad9011132da810bbfc79cc468a88"
 metafile = true
