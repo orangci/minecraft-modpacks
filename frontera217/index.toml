@@ -401,6 +401,11 @@ hash = "65ba148bc2832d78b433e76eccfbdbb1456066a9d14dac621a3b730b109b16cb"
 metafile = true
 
 [[files]]
+file = "mods/bow-infinity-fix.pw.toml"
+hash = "66d88f3565ac386ca5066464c0c9f24d4d36cefe860059943c6807fdff4b2a20"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "35d406429da19637e78ad5b38e700556a8ded404c534df1f5295adc0d2e444da"
 metafile = true
