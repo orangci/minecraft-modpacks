@@ -761,6 +761,11 @@ hash = "e54cc497cee0def6fcbe1fbf5aa63c1e94b5d5a2fdb9ab135f610dc7d80fa7f7"
 metafile = true
 
 [[files]]
+file = "mods/too-cheap.pw.toml"
+hash = "f9f4608bdabafa517026418c2b9b858d6cff76d6f2c8faa6ab977140be16ea00"
+metafile = true
+
+[[files]]
 file = "mods/tooltip-scroll.pw.toml"
 hash = "e117932195358aa2386264da4cdc63d17397862748f1cbc2f3da3db066c9965c"
 metafile = true

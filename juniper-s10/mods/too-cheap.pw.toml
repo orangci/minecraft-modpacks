@@ -1,0 +1,13 @@
+name = "Too Cheap!"
+filename = "too-cheap-1.4.1+mc1.21.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yxIf0Dct/versions/DbauWlc7/too-cheap-1.4.1%2Bmc1.21.7.jar"
+hash-format = "sha512"
+hash = "ae0cd58b56aab2be278e4f55847ae319b3cf24fa33f29565d8a734d441c270797b194bc35f92d540ac8fbb85c61939e530499370699a5520ca5ae7ae6fb6ac34"
+
+[update]
+[update.modrinth]
+mod-id = "yxIf0Dct"
+version = "DbauWlc7"

@@ -642,6 +642,11 @@ hash = "e54cc497cee0def6fcbe1fbf5aa63c1e94b5d5a2fdb9ab135f610dc7d80fa7f7"
 metafile = true
 
 [[files]]
+file = "mods/too-cheap.pw.toml"
+hash = "f9f4608bdabafa517026418c2b9b858d6cff76d6f2c8faa6ab977140be16ea00"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "03779db3c7cbf7d5853647c3e800880468f8aeffb4bc7be174bbb0e243b0ea1a"
 metafile = true
