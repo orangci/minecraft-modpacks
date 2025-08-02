@@ -672,9 +672,8 @@ hash = "4e72917005057ea34f12f7e2ddea446331f251a1eca069a846a21fd7cb177b45"
 metafile = true
 
 [[files]]
-file = "mods/tsa-decorations.pw.toml"
-hash = "a85fb789c8516751a576f85e382e2ae7b5b82fda0b44442e83a9cc2b2dd85758"
-metafile = true
+file = "mods/tsa-decorations-2.1.8+1.21.6.jar"
+hash = "4c8a45797a441cd27fc6590ea601848a7b058da446d135d511767ce2fbdc2422"
 
 [[files]]
 file = "mods/tsa-planks.pw.toml"
