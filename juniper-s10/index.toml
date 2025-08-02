@@ -507,6 +507,11 @@ hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
 metafile = true
 
 [[files]]
+file = "mods/no-portals.pw.toml"
+hash = "b2eb3c3eb58fc3b2552687913a06f729c4bc091b8996ecc0d1c067400c5b692a"
+metafile = true
+
+[[files]]
 file = "mods/offlinecommands.pw.toml"
 hash = "b02fd1e4bb514827ce3d4a8dcbcb656aa9a268d55dde72bacd004f99c5bb7d5f"
 metafile = true
