@@ -1,13 +1,13 @@
 name = "FSit"
-filename = "fsit-2.7.11+mc1.21.6.jar"
+filename = "fsit-2.7.12+mc1.21.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/J5NAzRqK/versions/zajrruUQ/fsit-2.7.11%2Bmc1.21.6.jar"
+url = "https://cdn.modrinth.com/data/J5NAzRqK/versions/bK2d1EdN/fsit-2.7.12%2Bmc1.21.6.jar"
 hash-format = "sha512"
-hash = "98616e572b17a080b241b736dfcf7b76a57c0d0d13b5ba1a34a8bc12e9c287cc33e0d0781b22e17a37c62ff579b2a54def2fc447529c746b8a28fc7b6a5f8fb4"
+hash = "aee20243d5c0d2c427bdefcf0428513143ce6904d647a89d1492ee678fdc363fb7fe2a0bd6fca8b3e1da5b01dd3c878fbbfb836035bc4e1b5fd9329e8428adf5"
 
 [update]
 [update.modrinth]
 mod-id = "J5NAzRqK"
-version = "zajrruUQ"
+version = "bK2d1EdN"

@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "baf3dcfa7b5228c9776f46a9597e8a2d74c542e9a73e9d45f0f983c0910c39ca"
+hash = "0fb3ed7eaa615380d4d7844f0225f4ec4a6509cdfe01920387ed7b2bd923e4d7"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "35d406429da19637e78ad5b38e700556a8ded404c534df1f5295adc0d2e444da"
+hash = "6dee7917c9156b4281bec000688abfa299a11e118fba9817966832e02f148d68"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "6426829629c1b4fa37aa29c4ee99d3701a7bb3eb1f126672842a67b75612e03e"
+hash = "5508cbb5baea21c043ccbb3e1601cea4c549b2d053f1b69911bd0f8b8a482cf1"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3447c30e10bb52798f1bb68c86a3c4d800139af22056baa8ae406b788e1d8548"
+hash = "603e4d77cd5ee641515822d3319bf86b09f03671628e705cdf2f93af95f9214f"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
+hash = "8c6b70c5687944d95858a7da9311a268725bc613e1d0f10dae4687faf9fb7ad5"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-distance-fix.pw.toml"
-hash = "1ceef33e0e014ec89c4a7baf1bd4363d2c1cd4a37455ee7d0f8b92893c631551"
+hash = "47a440e7108feeecdaa58d5d1917a4d39c9efedef8b028aba3a4a4d31b43bc2a"
 metafile = true
 
 [[files]]
