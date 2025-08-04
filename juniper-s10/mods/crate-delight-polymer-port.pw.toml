@@ -1,0 +1,13 @@
+name = "Crate Delight (Polymer Port)"
+filename = "cratedelight-port-0.1.0+1.21.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/kUw12L2C/versions/5oDkEfM9/cratedelight-port-0.1.0%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "1c8b07b10040777a83588461179a574c2e47c5a231a0b033a21c4dc401250299e55bd640d62ad28a1b56e275c662616c9a15787e18f7086596872ff8f41cdd66"
+
+[update]
+[update.modrinth]
+mod-id = "kUw12L2C"
+version = "5oDkEfM9"

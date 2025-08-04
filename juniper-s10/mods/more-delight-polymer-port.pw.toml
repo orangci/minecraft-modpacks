@@ -1,0 +1,13 @@
+name = "More Delight (Polymer Port)"
+filename = "moredelight-port-0.1.0+1.21.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/R7zLAe7K/versions/1vvxbl1M/moredelight-port-0.1.0%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "c0e64fd2bb52072ee95b90d9758036b501d2a9923ddcc069b9037f5dff1de177a64e11ab9257bc044adb03e75494a1ff9cb704104ca5762d6aad37ca481add93"
+
+[update]
+[update.modrinth]
+mod-id = "R7zLAe7K"
+version = "1vvxbl1M"

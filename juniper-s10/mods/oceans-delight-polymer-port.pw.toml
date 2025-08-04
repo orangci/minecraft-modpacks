@@ -1,0 +1,13 @@
+name = "Ocean's Delight (Polymer Port)"
+filename = "oceansdelight-port-0.1.0+1.21.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ceMWRYd7/versions/yR5NqiJ3/oceansdelight-port-0.1.0%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "22250870b3f5872e8acf00fe54c7be08ebbcbd3d8ccae15a0887d3263cfb6fcdddaa7a49c7fb2f6bd599a86a56e3bbaed1891aac29dcd761118673b332660b3d"
+
+[update]
+[update.modrinth]
+mod-id = "ceMWRYd7"
+version = "yR5NqiJ3"

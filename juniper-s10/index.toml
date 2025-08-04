@@ -307,6 +307,11 @@ hash = "eb8524b5da62bd4fcc546bd85d99375172eaa2c7613dabae5df578d573840645"
 metafile = true
 
 [[files]]
+file = "mods/crate-delight-polymer-port.pw.toml"
+hash = "a3948b30766f90cc3c0823dcff79b37af062537c6094d9c74d8e4f65f567dc31"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "10d0fedaab6a4f7ef05e06882e61864599f5dddafe55902b25ed475f81b6b5ce"
 metafile = true
@@ -502,6 +507,11 @@ hash = "c63fa143c11fb5372d5e1be8f6d5c862e2c3072b67128df1af4ed95e52688ff2"
 metafile = true
 
 [[files]]
+file = "mods/more-delight-polymer-port.pw.toml"
+hash = "8ee7aa9fd0af77c58d8a9fcfe618b5346288cdb965c5316f9e5ffda23ef751c1"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "98fc73ebbf673bcc8eb4ad0c3ef8b3510ffd0a6d106cbde43d6bc8a58f31a415"
 metafile = true
@@ -514,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/no-portals.pw.toml"
 hash = "b2eb3c3eb58fc3b2552687913a06f729c4bc091b8996ecc0d1c067400c5b692a"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight-polymer-port.pw.toml"
+hash = "e2a8b2a141e5ffed1c85f9fadacc4639f60c98a1afe45f00eeafb3bf08967912"
 metafile = true
 
 [[files]]
