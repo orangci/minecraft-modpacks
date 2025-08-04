@@ -426,6 +426,11 @@ hash = "68e5fa802b0c89ffefe27bef26f0858019b9574061696aee1bc134f6730952d8"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "703c88f1daf1eb94217ed4e084413416746ea8eb99204282fd64228ed44e8320"
+metafile = true
+
+[[files]]
 file = "mods/click-opener-continued.pw.toml"
 hash = "2d965b02d4fd2a2ff540439527db9048287d94984f77e6ae2e0fd76b71ebc7be"
 metafile = true
@@ -701,6 +706,11 @@ hash = "41e29e8057a2614a0eb83255cbd8c08504f23d584b0df0d12f5f5705444cbf87"
 metafile = true
 
 [[files]]
+file = "mods/recursiveresources.pw.toml"
+hash = "4865b13fe6bc9fd4993740fc20a3d2268dd75bea49df6d835297a80b5755ba10"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
@@ -718,6 +728,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "7a36cf9888455a9d373c621dd4dc40258501e65ef30be309283e9fab7d96341b"
+metafile = true
+
+[[files]]
+file = "mods/server-resource-pack-checker.pw.toml"
+hash = "4622437ce3dc08f526d052f3c25dd7a8f74e8b5fdc6b2f1f56ce6175a6399e5b"
 metafile = true
 
 [[files]]
