@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "68e5fa802b0c89ffefe27bef26f0858019b9574061696aee1bc134f6730952d8"
+hash = "495eddf0124afca12455353b6ecb2eb5ed00a74dd52f2546a726f6fd759b9489"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "1c2afb59201aa276f4dd57c8af87125a1193c73758f6de4849205f866fe6fe35"
+hash = "35476f21ef1352e2f0d155e5810eb93d00c1c85bc455e5f1d92cb3d727a551f3"
 metafile = true
 
 [[files]]
