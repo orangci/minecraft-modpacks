@@ -411,6 +411,11 @@ hash = "6dee7917c9156b4281bec000688abfa299a11e118fba9817966832e02f148d68"
 metafile = true
 
 [[files]]
+file = "mods/centered-crosshair.pw.toml"
+hash = "315c894a21b141c07b1f7d261039555c06f2c7aa99d6cfb179b9f687c439f251"
+metafile = true
+
+[[files]]
 file = "mods/chat-calc-kt.pw.toml"
 hash = "0cca13d64e969ff7655d6b5a44505cf74336ae7338af04a281df200a87d785e7"
 metafile = true
