@@ -431,6 +431,11 @@ hash = "2d965b02d4fd2a2ff540439527db9048287d94984f77e6ae2e0fd76b71ebc7be"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough+.pw.toml"
+hash = "e166ff1288ee8d45566269f867025ae16934284d592e7efac97d31596413b15f"
+metafile = true
+
+[[files]]
 file = "mods/client-commands.pw.toml"
 hash = "e8c974dc75957568eb2dd41187468c1d29c18b04b057217d426fd75d6423f1ee"
 metafile = true
