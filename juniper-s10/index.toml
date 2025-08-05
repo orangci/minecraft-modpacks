@@ -54,7 +54,7 @@ hash = "03e07f1839049292c05a55a78076ac93a77c9deedf3442da44b5863cd3ff4c5c"
 
 [[files]]
 file = "config/polymer/auto-host.json"
-hash = "33329e5f8efd7aa0dd7af458633467bb4ab3290a06b951a91701802ffb063ca4"
+hash = "0045b39e97206b41b70a57cc4cc5f086743439c4ef5af89842be22fa05f9e1e8"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
