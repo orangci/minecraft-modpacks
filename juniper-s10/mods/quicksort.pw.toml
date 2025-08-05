@@ -1,0 +1,13 @@
+name = "Quicksort"
+filename = "quicksort-0.17.0+1.21.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/R7Xsgpzr/versions/8FajGhWR/quicksort-0.17.0%2B1.21.7.jar"
+hash-format = "sha512"
+hash = "85fcc6f5a1d4aff7768aa093d01c0e46e9634b5ec6d8240ea0a6319559b66edee5d13616c1e755efa5ab6151c9fb70fec8c2b5b2487d113f391c46b6aaa9e2ad"
+
+[update]
+[update.modrinth]
+mod-id = "R7Xsgpzr"
+version = "8FajGhWR"

@@ -1,0 +1,13 @@
+name = "Invisible Frames"
+filename = "invisibleframes-1.5.0+1.21.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/QD87oMUf/versions/S48QrgU7/invisibleframes-1.5.0%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "2d763a7e12ff409598ba5de4f9f07fa3ae63182010ba63e7e00e5c61bc3e83bf7149fe4698ae12425f47525dd0e4b89863224e40434713061f257da202c09478"
+
+[update]
+[update.modrinth]
+mod-id = "QD87oMUf"
+version = "S48QrgU7"

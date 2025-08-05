@@ -1,0 +1,13 @@
+name = "ResourcePackCached"
+filename = "rpc-1.1.5+1.20.3-1.21.8-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/d4phKsx2/versions/rbogUbVm/rpc-1.1.5%2B1.20.3-1.21.8-fabric.jar"
+hash-format = "sha512"
+hash = "d51ee2779a3ca253ff99e17acd7695885fc52ea17f2a50eab31341b5eaa53b6cb0d353147e8e2023c3d7c4fe47f614a4652736bc2a9c695c6d20dde5217fe128"
+
+[update]
+[update.modrinth]
+mod-id = "d4phKsx2"
+version = "rbogUbVm"
