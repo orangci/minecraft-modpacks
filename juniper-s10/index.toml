@@ -628,7 +628,7 @@ metafile = true
 
 [[files]]
 file = "mods/showcase.pw.toml"
-hash = "807b798767170a2e94ba41231b50fa8a030fd5b3a75b7ae717b14f9fa576f48b"
+hash = "723b3aa10235c99c5396d2f499125be59d108d32904523744af0e0a840a743bb"
 metafile = true
 
 [[files]]

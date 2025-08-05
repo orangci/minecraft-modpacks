@@ -1,13 +1,13 @@
 name = "Showcase"
-filename = "showcase-2.2.0+1.21.6.jar"
+filename = "showcase-2.1.0+1.21.6.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/DC8AYtgP/versions/R0jMHtVh/showcase-2.2.0%2B1.21.6.jar"
+url = "https://cdn.modrinth.com/data/DC8AYtgP/versions/cqMwMgSy/showcase-2.1.0%2B1.21.6.jar"
 hash-format = "sha512"
-hash = "eae13cd697a889b98cd2d3fbc15981b5d0d9b0198d5ecaf718072781df6b0c2c4dbb35eb7a43cac3d96cd826072b134ae4dc72668dd5d9776a970c065e7df2d0"
+hash = "fab7772ab4b1e2adaca992c6f55f0082e8defb635b328a9f4246b6f9b2b0b9f613e446a85d43987abb5d951b9391cf37a30fc7bec6d216020d1ac999d106c1a3"
 
 [update]
 [update.modrinth]
 mod-id = "DC8AYtgP"
-version = "R0jMHtVh"
+version = "cqMwMgSy"
