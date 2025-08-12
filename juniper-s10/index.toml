@@ -261,11 +261,6 @@ hash = "ed5938c8a807a2ce59c23e9f8e371566ef9d6483e98bb37da06739e84cc77501"
 metafile = true
 
 [[files]]
-file = "mods/biome-replacer.pw.toml"
-hash = "b2cb7c53df1686bc62618d1a5ee7eda8ac706a11680faab666c3df4b07137c11"
-metafile = true
-
-[[files]]
 file = "mods/bow-infinity-fix.pw.toml"
 hash = "66d88f3565ac386ca5066464c0c9f24d4d36cefe860059943c6807fdff4b2a20"
 metafile = true
@@ -418,11 +413,6 @@ metafile = true
 [[files]]
 file = "mods/highspeed-rail.pw.toml"
 hash = "1a37db175ec341324b09514a7e4db7fb4ebe386e82dbfcbbc78e5f1cb285d260"
-metafile = true
-
-[[files]]
-file = "mods/htay-(how-tall-are-you).pw.toml"
-hash = "492ebe5f83670c606b8c75a3bec594942af69761ea01e800526a49d32e1cc866"
 metafile = true
 
 [[files]]
