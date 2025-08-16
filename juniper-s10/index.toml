@@ -496,6 +496,11 @@ hash = "828206ac97ad103ec4e2069555de4a2589dea4f4b02556580486631c7ade1cbe"
 metafile = true
 
 [[files]]
+file = "mods/mobexplosiongriefinggamerule.pw.toml"
+hash = "adfe941391f8282d93d699bcd3e64f36dce48411aac7c01ff8d85e9df7ae861c"
+metafile = true
+
+[[files]]
 file = "mods/modflared.pw.toml"
 hash = "b9c4b91e0a8e765873fe9397014e44bd1d694ac2c4ed7b3797ce29d93c992c98"
 metafile = true
