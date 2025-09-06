@@ -1,13 +1,13 @@
 name = "Text Formatting Everywhere"
-filename = "TextFormattingEverywhere-2.0.2.jar"
+filename = "textformattingeverywhere-fabric-2.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1ury0R3s/versions/Y72TbV8z/TextFormattingEverywhere-2.0.2.jar"
+url = "https://cdn.modrinth.com/data/1ury0R3s/versions/LFrFIlm4/textformattingeverywhere-fabric-2.0.3.jar"
 hash-format = "sha512"
-hash = "16473f98bf99fbf7fab3f3e34b825a02a3249fa87c6d30d31dc644db7485a396e2cf72594a7746d01e74894f97dc242489bf4f6d52ef5b7fbbe769c03936f9e5"
+hash = "2323610c497a1470459873cf7449b2e56d4f1080f46eed43f1c8f7532c211e3e316c19125ed1acb1a3b58b7fc6153b2a5b7c4ac881c630e0479afacc3d2501e5"
 
 [update]
 [update.modrinth]
 mod-id = "1ury0R3s"
-version = "Y72TbV8z"
+version = "LFrFIlm4"

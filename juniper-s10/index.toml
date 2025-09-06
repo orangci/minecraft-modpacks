@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/deimos.pw.toml"
-hash = "dd66188f3aa571563904b2f8971e76f55321531498a99cbcf4e717d11821078f"
+hash = "b59fa38a70806195ec9bc984c34ad89eea651db6cd2fad7c523d2d160a9e5831"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "c517129177837ec4233f97e5fecc3bb6c3a2549a3b2a0f935a2798aa58d328ab"
+hash = "4db593372108a3325fa648bbe9b45d8371d0ac3039c6dedbe76ecaa46743eff9"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/filament.pw.toml"
-hash = "a46db1e2943e9f036153287fa57cce0edf2d5df24c1cda35c12000608c51371a"
+hash = "8dec9941365ce2e5defc0fb8eac5b36a4bb1e590ddfb58910a1140c385af5e7d"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "5508cbb5baea21c043ccbb3e1601cea4c549b2d053f1b69911bd0f8b8a482cf1"
+hash = "394fccfd7886048a56c7d855e8870a589d80633204c1a3e80f2074cc96ebea5c"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "1818a8ffad37a08edad9eb0e3afdcb285998f86373bb13f9c2b68e4e8a66f491"
+hash = "3c87eda24f779da5cfa0695aa67eede47f130caaeb3f3cba6e02d441c7a18502"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "b9a64588fa701a6707e2ab9877debcde319c331cf549841def516351d21c4b12"
+hash = "6c0dee8f94e0db83629373990cbc013cb3ce5e563a2d06bede26643e820f060b"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/modflared.pw.toml"
-hash = "b9c4b91e0a8e765873fe9397014e44bd1d694ac2c4ed7b3797ce29d93c992c98"
+hash = "49d22baa6eba4f8fe958e06dbc8c0731a2378b6ef5d94ae98386c0fe7dda6008"
 metafile = true
 
 [[files]]
@@ -622,12 +622,12 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "eb8318a2e193f3435b42a441e260ad20068eb4ca75c73f26fa96485e1ab2660c"
+hash = "c41c5c8356698d08f27e80d23a600dd462f1ea1c63e02e78f5002b26c24093a4"
 metafile = true
 
 [[files]]
 file = "mods/showcase.pw.toml"
-hash = "799bb14cc9833d302da44ac283c21ad3a3d9c249215c4e7ad580824fd900db0e"
+hash = "cb4fb13cc32b7bcb8aa9d8dd6ed15a76deec3b1a42131ab90b9ddb205016c0da"
 metafile = true
 
 [[files]]
@@ -667,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/text-formatting-everywhere.pw.toml"
-hash = "e54cc497cee0def6fcbe1fbf5aa63c1e94b5d5a2fdb9ab135f610dc7d80fa7f7"
+hash = "f42113e4ef1ec4baf93fd1a8febd4fd9a1d660ef9f6c37d086df5469c1738e4d"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "b9b80e6a56ce783b8a7fc5c4b17e4380425a2a7a66dc09c39e9ef76426b24827"
+hash = "cac70bf285a96f06d598744d4a71a60e51d28b53ea4879a0d7462683bc83e7f9"
 metafile = true
 
 [[files]]
