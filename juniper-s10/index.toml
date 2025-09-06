@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "18a90284cb04058c019dfcb2673a786b1b47a2b759308fca767be44fb07cfdee"
+hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "6c0dee8f94e0db83629373990cbc013cb3ce5e563a2d06bede26643e820f060b"
+hash = "b9a64588fa701a6707e2ab9877debcde319c331cf549841def516351d21c4b12"
 metafile = true
 
 [[files]]
