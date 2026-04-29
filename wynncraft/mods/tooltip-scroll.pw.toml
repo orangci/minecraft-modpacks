@@ -1,13 +1,13 @@
 name = "Tooltip Scroll"
-filename = "tooltip-scroll-1.4.0+1.21.6.jar"
+filename = "tooltip-scroll-1.5.1+1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/wySVd6d8/versions/mz5TYwct/tooltip-scroll-1.4.0%2B1.21.6.jar"
+url = "https://cdn.modrinth.com/data/wySVd6d8/versions/gBczTI9h/tooltip-scroll-1.5.1%2B1.21.10.jar"
 hash-format = "sha512"
-hash = "f8c7d78f22f67643e5490ef2e15bb140dc4ed5f84ff7fcc07f1913434ee63e14b4ad407aad59f17dd1b146c2f7611c13b398e098c1ddc9f4cc01c63d67efa5b5"
+hash = "ff8b597dc3d64b2b3bab7895fbecf87b239d09e275314035ce61c4fb196d98146142fc476797bfe2459933aa9248c54662dd2f5307d3be22aa3cd02c91bbe682"
 
 [update]
 [update.modrinth]
 mod-id = "wySVd6d8"
-version = "mz5TYwct"
+version = "gBczTI9h"

@@ -1,0 +1,13 @@
+name = "Wynntils"
+filename = "wynntils-4.1.10-fabric+MC-1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dU5Gb9Ab/versions/U63XLnNl/wynntils-4.1.10-fabric%2BMC-1.21.11.jar"
+hash-format = "sha512"
+hash = "da80b2e243706048f7fb85e8185059c510dc25a5c8e5c1bf1ba1aa89bb213a7c4e7db877c758a79bedf04c2b43a1718ab27b8b0e3a2ce4c07daab50e6f27a343"
+
+[update]
+[update.modrinth]
+mod-id = "dU5Gb9Ab"
+version = "U63XLnNl"

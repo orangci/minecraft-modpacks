@@ -1,13 +1,13 @@
 name = "LambDynamicLights"
-filename = "lambdynamiclights-4.3.0+1.21.6.jar"
+filename = "lambdynamiclights-4.9.1+1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yBW8D80W/versions/eNZaVVBz/lambdynamiclights-4.3.0%2B1.21.6.jar"
+url = "https://cdn.modrinth.com/data/yBW8D80W/versions/5Tp7kdU0/lambdynamiclights-4.9.1%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "cc28781de4f53b936dbb9fd5dcbf8f3ad8992bafe3897dd7e9969086bc6df76b9ac95a372793444ebcb547be33a2276b6f47ec52861fb2dd931b58917f8aea93"
+hash = "df006fad702f713fa93feaa21ead00f446aa79e1771b5e049844842c7701d3a8a1b360a996c28f79c79a941e95ef63d27bfc563b5bec2ab8bf96eba0b2232fb8"
 
 [update]
 [update.modrinth]
 mod-id = "yBW8D80W"
-version = "eNZaVVBz"
+version = "5Tp7kdU0"

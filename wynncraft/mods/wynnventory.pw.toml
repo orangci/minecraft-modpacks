@@ -1,0 +1,13 @@
+name = "Wynnventory"
+filename = "wynnventory-2.1.0-fabric-1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CORVJbiT/versions/BOxfx0t6/wynnventory-2.1.0-fabric-1.21.11.jar"
+hash-format = "sha512"
+hash = "c87f3f2663f56a11f9778a5464a4112770c351101a38508bb7f85d23fbb4b990b412bacfc1493213ba8214b15f4bc9940ae33278a4c8b1755d861e9ff67be7d5"
+
+[update]
+[update.modrinth]
+mod-id = "CORVJbiT"
+version = "BOxfx0t6"
