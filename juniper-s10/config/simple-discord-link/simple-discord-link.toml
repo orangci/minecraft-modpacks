@@ -300,7 +300,7 @@
 	#Allow executing Minecraft commands from Discord
 	enabled = true
 	#Command Prefix. For example ?weather clear
-	prefix = "$"
+	prefix = ">"
 	#Should command replies be deleted automatically or not
 	keepReplies = true
 	#Should the original message that was sent to trigger the command be deleted automatically or not
