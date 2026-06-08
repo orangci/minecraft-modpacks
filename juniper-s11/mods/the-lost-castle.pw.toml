@@ -1,0 +1,13 @@
+name = "The Lost Castle"
+filename = "tlc-neoforge-1.21.1-2.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FGlHZl7X/versions/1SIEERGM/tlc-neoforge-1.21.1-2.1.0.jar"
+hash-format = "sha512"
+hash = "82aff13c96edf9d114e1640c547bc60da7ed3ff3e414ac126cd9875e04173731f944fdf16c459c8c72acb9200686090da9e996ebcd39ad50394fd2e0ebb2b0ab"
+
+[update]
+[update.modrinth]
+mod-id = "FGlHZl7X"
+version = "1SIEERGM"

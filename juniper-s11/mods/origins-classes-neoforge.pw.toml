@@ -1,0 +1,13 @@
+name = "Origins: Classes (NeoForge)"
+filename = "origins_classes-0.1-beta.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oacWEHu7/versions/upXuJ7jq/origins_classes-0.1-beta.3.jar"
+hash-format = "sha512"
+hash = "1b5053e271c2ba4b267db0069cfc712dc82b15047a1f2c9d3627925e2015c4b08c11b5e361633f599e809deb2993b99454d513203003c10afed84d87baec7714"
+
+[update]
+[update.modrinth]
+mod-id = "oacWEHu7"
+version = "upXuJ7jq"

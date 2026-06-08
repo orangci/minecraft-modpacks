@@ -1,0 +1,13 @@
+name = "Lookin' sharp"
+filename = "Lookin-Sharp-neoforge-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RLMXoOXH/versions/QFyQ7Ygv/Lookin-Sharp-neoforge-1.0.4.jar"
+hash-format = "sha512"
+hash = "886ea8a972094325f25417c94d5ac5712c80b69aaf4474ce2f43667091475cf0cf90b3db6a25ecc3c29bef421fd0c125273bd0f98b082ddc03fdf01c61d060a7"
+
+[update]
+[update.modrinth]
+mod-id = "RLMXoOXH"
+version = "QFyQ7Ygv"

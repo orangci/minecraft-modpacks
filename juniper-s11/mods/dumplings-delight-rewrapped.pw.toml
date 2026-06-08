@@ -1,0 +1,13 @@
+name = "Dumplings Delight Rewrapped"
+filename = "DumplingsDelightRewrapped-1.21.1-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DqKMBArS/versions/WScarfgZ/DumplingsDelightRewrapped-1.21.1-1.4.1.jar"
+hash-format = "sha512"
+hash = "9413af64b1c8bf3e30759efedf2ccb40c1ec36c4a88df89924a98eafded701eb76537bf1c67964666cd1d735357a5ca938227267b5cb1f9065b5f11fc75de99b"
+
+[update]
+[update.modrinth]
+mod-id = "DqKMBArS"
+version = "WScarfgZ"

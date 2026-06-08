@@ -1,0 +1,13 @@
+name = "Youkai's Homecoming-unofficial-port"
+filename = "youkaishomecoming-4.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gjywHTJ3/versions/iRox1nLb/youkaishomecoming-4.2.6.jar"
+hash-format = "sha512"
+hash = "632be1ed13a3356b7959a072f5e0a23f1e8878043a967e208ee008827c9696600e2ee8709a3a1faccdc7c8787e405412cd883fe9022691a68bdc11a90e3a0519"
+
+[update]
+[update.modrinth]
+mod-id = "gjywHTJ3"
+version = "iRox1nLb"

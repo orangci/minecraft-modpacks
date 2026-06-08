@@ -1,0 +1,13 @@
+name = "Create: Stats & Additions"
+filename = "create_stats-0.10.35.T.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/inKFQSzo/versions/LlesTzJc/create_stats-0.10.35.T.jar"
+hash-format = "sha512"
+hash = "e546eb89a1d0d12620f4f118bec2ebe6cd48d0ee9986a1a5df9207b6ae5cee982c2c4b02f31aa5ae20c6189748bb2c0bb9880454566ff26575f48d6ffa5fe24d"
+
+[update]
+[update.modrinth]
+mod-id = "inKFQSzo"
+version = "LlesTzJc"

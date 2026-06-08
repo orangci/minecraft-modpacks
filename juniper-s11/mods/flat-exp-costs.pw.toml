@@ -1,0 +1,13 @@
+name = "Flat EXP Costs"
+filename = "consistentexpcost-1.21.1-neoforge-0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rN9rp7X0/versions/zmFdHkBk/consistentexpcost-1.21.1-neoforge-0.1.jar"
+hash-format = "sha512"
+hash = "dfd604121fdc1f0fea88323d60dc74282bc798bddd8e95d71ba9726c6c47bdc5aedb9490784f4afd86876203fb3c20aa1d87292ecb4945e5d6e07345e4da1fac"
+
+[update]
+[update.modrinth]
+mod-id = "rN9rp7X0"
+version = "zmFdHkBk"

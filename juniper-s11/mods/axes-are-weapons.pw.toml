@@ -1,0 +1,13 @@
+name = "Axes Are Weapons"
+filename = "AxesAreWeapons-1.10.2-neoforge-1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1jvt7RTc/versions/2bqCbUXm/AxesAreWeapons-1.10.2-neoforge-1.21.jar"
+hash-format = "sha512"
+hash = "d4b635c4b764238b3324e6ee6fb3d7740ffdbcdbdf1bc0b7cdc5f82e33bcfe4f69dd627393465093bc8b685caecd791f510208489a1d375849b19aaf9fd6a551"
+
+[update]
+[update.modrinth]
+mod-id = "1jvt7RTc"
+version = "2bqCbUXm"

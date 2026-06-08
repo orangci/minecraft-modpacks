@@ -1,0 +1,13 @@
+name = "Actually Useful Smithing Table"
+filename = "actuallyusefulsmithingtable-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l9Efg3Rq/versions/DGJJQzdq/actuallyusefulsmithingtable-6.0.1.jar"
+hash-format = "sha512"
+hash = "2084d8b901dbde3773bc9e94c8dee1a59a35881a3d587b05f6d58c07f1ff817c3701907caf9c889ff1b2e130bba270fc4d2469deed79e25073dfedecc6ae125b"
+
+[update]
+[update.modrinth]
+mod-id = "l9Efg3Rq"
+version = "DGJJQzdq"

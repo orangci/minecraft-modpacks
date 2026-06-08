@@ -1,0 +1,13 @@
+name = "Fortunate Ancient Debris"
+filename = "fortunate-ancient-debris-3.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eBvPjIeN/versions/77XYgS7h/fortunate-ancient-debris-3.5.1.jar"
+hash-format = "sha512"
+hash = "7c6e441d99a3273a23ac8fbaa49d6dc612aad1bdf1060dadbe754ca2166b69baf81b598baa5e3efcce7be9cf142908c54360b14790785a1d9061f135a0c50335"
+
+[update]
+[update.modrinth]
+mod-id = "eBvPjIeN"
+version = "77XYgS7h"

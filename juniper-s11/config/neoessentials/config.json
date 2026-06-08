@@ -1,0 +1,17 @@
+{
+    "generalSettings": { "teleportDelay": 0 },
+    "afk": {
+        "timeout": 300,
+        "tablistAfkPrefix": "AFK: ",
+        "trackChat": false,
+        "trackCommands": false
+    },
+    "chat": { "enable-chat-formatting": false },
+    "economy": { "enabled": false },
+    "webDashboard": {},
+    "discord": {
+        "channelId": 1125141845731704992,
+        "relayToDiscord": true,
+        "relayFromDiscord": true
+    }
+}

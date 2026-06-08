@@ -1,0 +1,13 @@
+name = "Just a lot more enchantments"
+filename = "jlme1.2.1d-1.21neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ksu3Wms7/versions/E1CV5HFb/jlme1.2.1d-1.21neoforge.jar"
+hash-format = "sha512"
+hash = "d04c8592f4c4359c88653d1d20e2f644b2a8f2949a03e0215b1503bd98eed2cfc778516dd50b39523f11db19cbd4b565210ef454878346f694e22072d91be8a0"
+
+[update]
+[update.modrinth]
+mod-id = "ksu3Wms7"
+version = "E1CV5HFb"

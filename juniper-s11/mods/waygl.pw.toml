@@ -1,0 +1,13 @@
+name = "WayGL"
+filename = "waygl-neoforge-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XTzhksrl/versions/mJqNbGji/waygl-neoforge-1.2.1.jar"
+hash-format = "sha512"
+hash = "74b0a9eff7631aa16703b36c80a652a760c864f1a49dc7a35da65739398031907494c1ead401729af9fd8b089f92e6a1bc9589e13d93ffd01004744e3b1b090b"
+
+[update]
+[update.modrinth]
+mod-id = "XTzhksrl"
+version = "mJqNbGji"

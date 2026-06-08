@@ -1,0 +1,13 @@
+name = "Create: Improved Display Link Experience"
+filename = "createidlx-1.21.1-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n0AbAYWj/versions/lY9vVUXi/createidlx-1.21.1-1.5.jar"
+hash-format = "sha512"
+hash = "736c4a3d209a309d2fafb97193561a38809828b257f0eb89f69cf9bc4599e1657efd79815b7a7cefb08d90a37c66b75865931d93deb08fbab96e0730e6819b10"
+
+[update]
+[update.modrinth]
+mod-id = "n0AbAYWj"
+version = "lY9vVUXi"

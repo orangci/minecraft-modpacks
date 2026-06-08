@@ -1,0 +1,13 @@
+name = "Mythic Origins"
+filename = "Mythic-Origins-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vBTYRDSu/versions/oeqslS8v/Mythic-Origins-1.0.2.jar"
+hash-format = "sha512"
+hash = "60e9f80b2c294dbe78a2d9ab799b0bad75a206ca1b318e21ee08310253e4f9b708b44e428eaa8a644d0de7dd3c66584fe3c858e2b35d9c93d3ac85bf1499843c"
+
+[update]
+[update.modrinth]
+mod-id = "vBTYRDSu"
+version = "oeqslS8v"

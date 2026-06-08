@@ -1,0 +1,13 @@
+name = "Item Descriptions"
+filename = "item-descriptions-1.11+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UaizcMKP/versions/KEOf5Mq4/item-descriptions-1.11%2B1.21.jar"
+hash-format = "sha512"
+hash = "662e68b6ba3057cf68d104547b6381f157e3071edf3e5763482f5441aa43c44632d2a8961a931efcdf71726d5105dfff190b48fba3ed109ed1ed2f5916cea4ef"
+
+[update]
+[update.modrinth]
+mod-id = "UaizcMKP"
+version = "KEOf5Mq4"

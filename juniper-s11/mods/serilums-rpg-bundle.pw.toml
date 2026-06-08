@@ -1,0 +1,13 @@
+name = "Serilum's RPG Bundle"
+filename = "serilumsrpgbundle-1.21.1-2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rzhyiRjl/versions/c508VsR6/serilumsrpgbundle-1.21.1-2.7.jar"
+hash-format = "sha512"
+hash = "f2aab133725f1f97ef822710e59d340f922538f76dc78df81159aa667bc5563674ebbd08929fe6ac24bb2b370d8dcda6456615c82224581119924bf3a7ec7294"
+
+[update]
+[update.modrinth]
+mod-id = "rzhyiRjl"
+version = "c508VsR6"

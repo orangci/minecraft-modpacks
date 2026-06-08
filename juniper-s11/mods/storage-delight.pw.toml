@@ -1,0 +1,13 @@
+name = "Storage Delight"
+filename = "storagedelight-26.04.18a+1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/cisWxbNH/storagedelight-26.04.18a%2B1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "26c892187a4c3ac625e4ed8b0c1a6df22962189b53c920471096688eefdb29cd79823db264fb5213b17227ecc1774b278c2d9862e65c69ebc59e4e5a69a1aecd"
+
+[update]
+[update.modrinth]
+mod-id = "LTTvOp5L"
+version = "cisWxbNH"

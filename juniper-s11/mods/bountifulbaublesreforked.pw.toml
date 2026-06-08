@@ -1,0 +1,13 @@
+name = "BountifulBaubles:Reforked"
+filename = "bountifulbaubles-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BtTpbdm3/versions/bDDMlgyZ/bountifulbaubles-1.2.5.jar"
+hash-format = "sha512"
+hash = "b04e00daccfbec00951283aad8c0c1c998f9fedb5bfaa0a307c1212e40d9d6163bf55ae9c7d7a3c1f039e05f327295c8d6e1d98bfededaf07f14250faf4a47d2"
+
+[update]
+[update.modrinth]
+mod-id = "BtTpbdm3"
+version = "bDDMlgyZ"

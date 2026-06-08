@@ -1,0 +1,13 @@
+name = "Pathfinder Origins"
+filename = "pathfinder-origins-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mRfkB5cb/versions/DGdHyNfp/pathfinder-origins-0.3.0.jar"
+hash-format = "sha512"
+hash = "491f53ecf3acbb7cce133b0db3c54c60a20390f912f5a1851d4be54ed2462a73efe16d241886f0ed08a0dd0c78f2070d5752c5430fd7d81095c91b87758ae0d6"
+
+[update]
+[update.modrinth]
+mod-id = "mRfkB5cb"
+version = "DGdHyNfp"

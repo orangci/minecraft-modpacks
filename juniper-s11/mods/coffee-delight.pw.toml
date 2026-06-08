@@ -1,0 +1,13 @@
+name = "Coffee Delight"
+filename = "coffee_delight-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jn1HiMrY/versions/JalveSgT/coffee_delight-1.4.1.jar"
+hash-format = "sha512"
+hash = "5e8ad997c0fbb4172703410263999ad0ad230c417af807ba2f56b7acd3aa3efe41bbd43a54fcc6294e0cd135e5411af2b41a387999548fd748287dc5c217d3a7"
+
+[update]
+[update.modrinth]
+mod-id = "jn1HiMrY"
+version = "JalveSgT"

@@ -1,0 +1,13 @@
+name = "squaremap"
+filename = "squaremap-neoforge-mc1.21.1-1.3.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PFb7ZqK6/versions/z5esjXfR/squaremap-neoforge-mc1.21.1-1.3.2.jar"
+hash-format = "sha512"
+hash = "1290fde871b635b0482f9e223b62c9766a28fa0e7be0f623f27e55f7882c651bfe7a8e4b04fd2675c36a504f92d9435a19f4e6c8153a1be2785f025c499106ac"
+
+[update]
+[update.modrinth]
+mod-id = "PFb7ZqK6"
+version = "z5esjXfR"

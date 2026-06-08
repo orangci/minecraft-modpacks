@@ -1,0 +1,13 @@
+name = "Immersive Weathering Connected Glass"
+filename = "Immersive_Weathering_connected.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dwf60Xod/versions/4iAdUIcG/Immersive_Weathering_connected.zip"
+hash-format = "sha512"
+hash = "3241ec3a3e3426fcd2ec1a971d25b783660550cc86f5c2cb027247fe8272a4126d910772c1a206d5a9dd14948b0e595765e7597b32d58fc0718b17b9add5040b"
+
+[update]
+[update.modrinth]
+mod-id = "dwf60Xod"
+version = "4iAdUIcG"

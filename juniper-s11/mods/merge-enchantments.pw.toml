@@ -1,0 +1,13 @@
+name = "Merge Enchantments"
+filename = "merenc-neoforge-1.21.x-v4.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xZUFmYJ5/versions/ChStpp63/merenc-neoforge-1.21.x-v4.2.jar"
+hash-format = "sha512"
+hash = "16c00ecae170fe8f29f794b5e7d48d24d5c0697e3af3dc55c6cb6c1c438813181b3eb4cf22c6fd98d6c04fc628851fd25eb73759bcc53be16934e8a878429ad1"
+
+[update]
+[update.modrinth]
+mod-id = "xZUFmYJ5"
+version = "ChStpp63"

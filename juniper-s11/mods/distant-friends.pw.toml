@@ -1,0 +1,13 @@
+name = "Distant Friends"
+filename = "DistantFriends-neoforge-1.21.1-0.9.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CDaJ8xGu/versions/7CaBwuqE/DistantFriends-neoforge-1.21.1-0.9.5.jar"
+hash-format = "sha512"
+hash = "a23ee15c1c9433cb765d1a309eaccef623ccd02612352cbd8da2a6968bbbb51609b269fe911ebf7a3201aa3c390aa78d5250e671cc65f50ba493c76f63b9aeb3"
+
+[update]
+[update.modrinth]
+mod-id = "CDaJ8xGu"
+version = "7CaBwuqE"

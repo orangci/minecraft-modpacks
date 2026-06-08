@@ -1,0 +1,13 @@
+name = "NeoEssentials"
+filename = "neoessentials-1.0.2.5+build.1074.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yiaK4SZh/versions/woCkFyUe/neoessentials-1.0.2.5%2Bbuild.1074.jar"
+hash-format = "sha512"
+hash = "00da4ff054018383ed86d18e59833cf065588adff17fa245f79af963c7c0bc50b7ecb2ea59f7abdd575f10be352c766306afdf906593df8c8253e2a8a5fe9ea2"
+
+[update]
+[update.modrinth]
+mod-id = "yiaK4SZh"
+version = "woCkFyUe"

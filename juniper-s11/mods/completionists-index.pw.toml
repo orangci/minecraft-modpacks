@@ -1,0 +1,13 @@
+name = "Completionist's Index"
+filename = "CompletionistsIndex-v21.1.0-1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iSCGCCV1/versions/nx3WY9Ju/CompletionistsIndex-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "a61eb57f7ac29374723a8ab4c079d3d8f9d4ac67e9ecc37727cf9ae3eea29ef76276678475e24e902a6c1a0653108e2c827e5d34dc9f5007ab64936a32408296"
+
+[update]
+[update.modrinth]
+mod-id = "iSCGCCV1"
+version = "nx3WY9Ju"

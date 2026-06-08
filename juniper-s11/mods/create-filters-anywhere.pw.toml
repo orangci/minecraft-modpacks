@@ -1,0 +1,13 @@
+name = "Create: Filters Anywhere"
+filename = "createfiltersanywhere-2.3.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1WQdyUFV/versions/Xc3MdZHc/createfiltersanywhere-2.3.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "b8867f633c2689fa4c16eac0cfe85a6b2d5a2bd8f93c0ad209473b441e27f2288310ef625e63c926185c156dc066ab58be2841a3147dbc22f7ad188a7c9011c3"
+
+[update]
+[update.modrinth]
+mod-id = "1WQdyUFV"
+version = "Xc3MdZHc"

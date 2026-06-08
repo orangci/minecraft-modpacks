@@ -1,0 +1,13 @@
+name = "Command Keys"
+filename = "commandkeys-neoforge-2.4.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/65UyswbY/versions/qLs63EFi/commandkeys-neoforge-2.4.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "4bb74f23c8a6e2a246975df9c42da67265b1126efbe9e152c6eb3ac4fdc30f3f03f5d178e43e7bfadd55754d3d67fb442e247fac1dfc2f4951b20d2f0ed06b9f"
+
+[update]
+[update.modrinth]
+mod-id = "65UyswbY"
+version = "qLs63EFi"

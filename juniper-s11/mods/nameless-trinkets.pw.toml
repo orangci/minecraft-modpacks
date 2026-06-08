@@ -1,0 +1,13 @@
+name = "Nameless Trinkets"
+filename = "Nameless Trinkets-neoforge-1.21.1-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yGp7IenE/versions/hMLb3f4W/Nameless%20Trinkets-neoforge-1.21.1-1.2.4.jar"
+hash-format = "sha512"
+hash = "01bc4520e7265127696931f6e8b8bb33820b925238187fa2c1308b0ad9fbcdfd071cb1be31f0fc0826e504de4bbe34f40cdb754d76a08f4cfc54cebbe01aafe6"
+
+[update]
+[update.modrinth]
+mod-id = "yGp7IenE"
+version = "hMLb3f4W"

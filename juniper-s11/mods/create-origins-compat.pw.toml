@@ -1,0 +1,13 @@
+name = "Create Origins Compat"
+filename = "Create-Origins-Compat-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/e6gG4etX/versions/8S6kqZTo/Create-Origins-Compat-1.0.0.jar"
+hash-format = "sha512"
+hash = "c47030f2d8c1ba001d2814a3757704139ec02ceeac83388724e72252582442e63ac75dbfb97e8b8bfc1041bf05e76b8344cefca24d26f4e17bdb1c16b2ee753e"
+
+[update]
+[update.modrinth]
+mod-id = "e6gG4etX"
+version = "8S6kqZTo"
