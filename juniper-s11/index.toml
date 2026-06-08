@@ -102,7 +102,7 @@ hash = "e9400ba513f013f86c17e5380d3f56af242f00f85a4ce35a0031b3889fe7be78"
 
 [[files]]
 file = "config/serilumsrpgbundle.json5"
-hash = "78d8ba422be3298188e2fbc5f0e49994f6a7f37e4d9eb86d8fe114f1e45db2fc"
+hash = "efa26cd75ce655ed3959c64822b5f8ed3739d97934386accec3683699a6255fe"
 
 [[files]]
 file = "config/shulkerdropstwo.json5"
@@ -267,10 +267,6 @@ hash = "34e7c34a11c38d44f7f57f3484f92fd15f186dac09700fc4a4b655284b05ad17"
 [[files]]
 file = "datapacks/wandering-trades.zip"
 hash = "6adfb1427f10ed28fc4490e40516d440b5cce0d8098b8dd1a8d9700491245380"
-
-[[files]]
-file = "datapacks/xp-bottling.zip"
-hash = "7a0d9b2d311f47742a45393166220fabaa7685c4006163b24955f3a886faa570"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

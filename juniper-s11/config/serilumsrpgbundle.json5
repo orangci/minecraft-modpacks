@@ -6,7 +6,7 @@
 	// If the bundled Bareback Horse Riding mod should be enabled.
 	"enableBarebackHorseRiding": false,
 	// If the bundled Bottle Your Xp mod should be enabled.
-	"enableBottleYourXp": false,
+	"enableBottleYourXp": true,
 	// If the bundled Campfire Spawn and Tweaks mod should be enabled.
 	"enableCampfireSpawnandTweaks": true,
 	// If the bundled Despawning Eggs Hatch mod should be enabled.
