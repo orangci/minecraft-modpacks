@@ -1354,11 +1354,6 @@ hash = "79ac35ba2d4a1ae04f92db5c3b10821970dde8153d7877566eef2ed7e650146b"
 metafile = true
 
 [[files]]
-file = "mods/quarkponders.pw.toml"
-hash = "13fd3f8fdaa77954a1e3e69061e66cdce63ea144b44e80116cb7314af81136c2"
-metafile = true
-
-[[files]]
 file = "mods/redirected.pw.toml"
 hash = "b0038c775e22fa883d474eb1ef0f686cc544091844e24a8a4b5774838059e808"
 metafile = true
