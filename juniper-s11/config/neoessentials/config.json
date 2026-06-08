@@ -8,7 +8,9 @@
     },
     "chat": { "enable-chat-formatting": false },
     "economy": { "enabled": false },
-    "webDashboard": {},
+    "webDashboard": {
+        "port": REPLACE_NEOESSENTIALS_PORT
+    },
     "discord": {
         "channelId": 1125141845731704992,
         "relayToDiscord": true,

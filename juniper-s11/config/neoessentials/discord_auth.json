@@ -1,6 +1,8 @@
 {
     "oauth2": {
         "clientId": "REPLACE_CLIENT_ID",
-        "clientSecret": "REPLACE_CLIENT_SECRET"
-    }
+        "clientSecret": "REPLACE_CLIENT_SECRET",
+        "redirectUri": "https://mc-dash.orangc.net/api/auth/discord/callback"
+    },
+    "roleMapping": { "1231872896482410439": "ADMIN" }
 }
