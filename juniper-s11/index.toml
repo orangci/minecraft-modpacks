@@ -82,11 +82,11 @@ hash = "ae9e435869951a10ef621fa291ebe8e3cc93e81d5043e7dc3892a8ab744896dd"
 
 [[files]]
 file = "config/neoessentials/config.json"
-hash = "38ba9834b2d90c5dc102a4b95f619fa413eb4719fb56e73cd69686dac88973dc"
+hash = "35fbfc53fbf74410fa4a06c7576656c15971c59e076879f8160c94c8945c2b46"
 
 [[files]]
 file = "config/neoessentials/discord_auth.json"
-hash = "58e480b327a71db05740863c5252f812f8c14025a96060c8d6cae793b9f50725"
+hash = "bccd2612b82e39a410b02a25c4384f874a0cf9addf43bfb03b5c80bc755782e3"
 
 [[files]]
 file = "config/oreharvester/harvestable_pickaxe_blacklist.txt"
