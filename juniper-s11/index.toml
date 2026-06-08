@@ -478,11 +478,6 @@ hash = "046642a0f4d4862c9d8625fcf7d33f8e08c0f1317ed2eabaf4e1f3597b3bb585"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
-metafile = true
-
-[[files]]
 file = "mods/continents.pw.toml"
 hash = "2093cb1975cff3c2e584282bc19340d1d7567dc61c86a0461adce0066d6e3a62"
 metafile = true
@@ -515,11 +510,6 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
-metafile = true
-
-[[files]]
-file = "mods/countereds-settlement-roads.pw.toml"
-hash = "e1b88018e1e210f5bccb7de5429c5823f96b270375f3e6e4071726a4d3d835a5"
 metafile = true
 
 [[files]]
@@ -630,11 +620,6 @@ metafile = true
 [[files]]
 file = "mods/create-more-package-couriers.pw.toml"
 hash = "9f6612c3600da90585aaac1020de82c7efaf8d6bfd07b59a56a4489b2e4dd81c"
-metafile = true
-
-[[files]]
-file = "mods/create-origins-compat.pw.toml"
-hash = "3218ff63291741de52c2a2cd9211b51cbbca305da1f0a45680b02fb5039fc8d4"
 metafile = true
 
 [[files]]
@@ -903,11 +888,6 @@ hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
-file = "mods/fairytale-origins.pw.toml"
-hash = "742d191dd389d59755032071f7cb3c57cd107a1f1cb88c4aa4603944562a1097"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
@@ -1038,6 +1018,11 @@ hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "5fd6319cbba6abaca989daaca456c052b49f388f7789eb1657fbaf736b4009cb"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "21af550ee15c7bf9b5be31121febf8f0132aca0bd88c407f8acdabb814f3a2c2"
 metafile = true
@@ -1153,11 +1138,6 @@ hash = "e6518e53d3f55ba3f10cd68d9334a9b58fee3228da6ab00d408c4f44fe0423bb"
 metafile = true
 
 [[files]]
-file = "mods/mastercutter.pw.toml"
-hash = "eda5b091e0f753f42c557e5ef2a1efba2b17c11e44115d93f90c246290627146"
-metafile = true
-
-[[files]]
 file = "mods/mechanicals-lib.pw.toml"
 hash = "4e3aaef188d1f975c6ebd539f50021768851f7fc4638079ee72179ec33bf487f"
 metafile = true
@@ -1220,11 +1200,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
-metafile = true
-
-[[files]]
-file = "mods/mythic-origins.pw.toml"
-hash = "7c3513ed6fef82e3441e022a7d79062022099229b12e4520ba854e9f1aa1c44b"
 metafile = true
 
 [[files]]
@@ -1325,6 +1300,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "d697896268af5b0b91ac4736007bbccd301aa8aa428c03ed70e23a15d719527e"
 metafile = true
 
 [[files]]
@@ -1565,6 +1545,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "148c5d14dfeca914d20ceea4defa9660fe588e6fc22cea23cab745504d4b2453"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
