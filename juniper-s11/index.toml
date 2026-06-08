@@ -5,20 +5,12 @@ file = "config/EasyAuth/main.conf"
 hash = "e41cc67961e9e465bbf13158abd8cf2ecd48e055a611123d5bd036e6a06fd74b"
 
 [[files]]
-file = "config/EssentialCommands.properties"
-hash = "0855b2b4f4c5cc626cc45de362e187f92c0e7e171a2b1f05d367b3cfe45a1314"
-
-[[files]]
 file = "config/animated.json"
 hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
 
 [[files]]
 file = "config/areas.json5"
 hash = "c37c02908ed8256400e4671a77ce18009a8a6e9dfb1d8aa9ffed9692440cafed"
-
-[[files]]
-file = "config/auto-host.json"
-hash = "7e1e27ed87025255c6e04ed6d2d17d788b2939890bfee7b6d47baff3e735329f"
 
 [[files]]
 file = "config/biome_replacer.properties"
@@ -38,10 +30,6 @@ hash = "03e07f1839049292c05a55a78076ac93a77c9deedf3442da44b5863cd3ff4c5c"
 
 [[files]]
 file = "config/default.json"
-hash = "312f26ae8006f33cc543f7b407582ee3b4c722e0d2036dd2ba1c08f487bdfb36"
-
-[[files]]
-file = "config/embeds/default.json"
 hash = "312f26ae8006f33cc543f7b407582ee3b4c722e0d2036dd2ba1c08f487bdfb36"
 
 [[files]]
@@ -103,26 +91,6 @@ hash = "58e480b327a71db05740863c5252f812f8c14025a96060c8d6cae793b9f50725"
 [[files]]
 file = "config/oreharvester/harvestable_pickaxe_blacklist.txt"
 hash = "9a3b93aa58f99fa14ae90b31f9346748ecf71d7ea3d8af1ef9a635c4ea9c2c98"
-
-[[files]]
-file = "config/pl3xmap/config.yml"
-hash = "03e07f1839049292c05a55a78076ac93a77c9deedf3442da44b5863cd3ff4c5c"
-
-[[files]]
-file = "config/polymer/auto-host.json"
-hash = "7e1e27ed87025255c6e04ed6d2d17d788b2939890bfee7b6d47baff3e735329f"
-
-[[files]]
-file = "config/polymer/resource-pack.json"
-hash = "247aa46d1996f68ddf88f76015b9278820559fc5478648f1a6418ff0836dd6c3"
-
-[[files]]
-file = "config/quicksort.json5"
-hash = "4526ac6e3966283c3d6ed11372301f98f4f0d91f28e2bf5d4dae570ac9728aa3"
-
-[[files]]
-file = "config/resource-pack.json"
-hash = "247aa46d1996f68ddf88f76015b9278820559fc5478648f1a6418ff0836dd6c3"
 
 [[files]]
 file = "config/serilumsextrabundle.json5"
