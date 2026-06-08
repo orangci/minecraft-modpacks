@@ -1430,7 +1430,7 @@ metafile = true
 
 [[files]]
 file = "mods/serilums-qol-bundle.pw.toml"
-hash = "6dd4bf2516a415f03eed4cd50b7a91c34b48e5532af96e3af78b19bfdc84faf5"
+hash = "6e37633ad6d58167845d6759d66e07e84911782a2c558e81aebe9f08d5ab6b3a"
 metafile = true
 
 [[files]]
