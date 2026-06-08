@@ -1,0 +1,21 @@
+{
+	"enabled": false,
+	"doBackup": false,
+	"message": "The Server has locked its gates for maintenance.",
+	"motd": "The Server has locked its gates for maintenance.",
+	"maintenanceIcon": "",
+	"schedule": {
+		"startTime": "",
+		"endTime": "",
+		"disableOnRestart": false,
+		"maintanceNotifyMessage": "Maintenance is starting in %s minute(s)"
+	},
+	"kickOnlinePlayers": true,
+	"configVersion": 3,
+	"allowedUsers": [
+		{
+			"name": "orangci",
+			"uuid": "dde112e5-25c7-4963-800c-aa23c3816dbc"
+		}
+	]
+}

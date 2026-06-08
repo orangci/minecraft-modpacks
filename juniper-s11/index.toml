@@ -1,8 +1,128 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/EasyAuth/main.conf"
+hash = "e41cc67961e9e465bbf13158abd8cf2ecd48e055a611123d5bd036e6a06fd74b"
+
+[[files]]
+file = "config/EssentialCommands.properties"
+hash = "0855b2b4f4c5cc626cc45de362e187f92c0e7e171a2b1f05d367b3cfe45a1314"
+
+[[files]]
+file = "config/animated.json"
+hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
+
+[[files]]
+file = "config/areas.json5"
+hash = "c37c02908ed8256400e4671a77ce18009a8a6e9dfb1d8aa9ffed9692440cafed"
+
+[[files]]
+file = "config/auto-host.json"
+hash = "7e1e27ed87025255c6e04ed6d2d17d788b2939890bfee7b6d47baff3e735329f"
+
+[[files]]
+file = "config/biome_replacer.properties"
+hash = "02b0bf94e12a7dd6f6da3ed82c0730edff7ed01ca36ff4ed00b9f695275ab3a9"
+
+[[files]]
+file = "config/collective/linger_messages.json"
+hash = "ad718ab2dd2058d8eada634fd403da276e8df265b8fb25696f12a9f9ed59c609"
+
+[[files]]
+file = "config/config.json"
+hash = "a50d1c340c6e42433e725fe7a3b97e9920bc493b47ca618ecad4998bb6af16e8"
+
+[[files]]
+file = "config/config.yml"
+hash = "03e07f1839049292c05a55a78076ac93a77c9deedf3442da44b5863cd3ff4c5c"
+
+[[files]]
+file = "config/default.json"
+hash = "312f26ae8006f33cc543f7b407582ee3b4c722e0d2036dd2ba1c08f487bdfb36"
+
+[[files]]
+file = "config/embeds/default.json"
+hash = "312f26ae8006f33cc543f7b407582ee3b4c722e0d2036dd2ba1c08f487bdfb36"
+
+[[files]]
+file = "config/en_us.json"
+hash = "4a315a37f22ad3e814aa79b29316cb8eb774633e65ae1d25172f5776cf90938e"
+
+[[files]]
+file = "config/enchantmentcompat.toml"
+hash = "40d689dcedd4d2b832fa61a6cda56bbf7dbfb5e8cfcda52fa673339b2ec21efa"
+
+[[files]]
+file = "config/fixedanvilrepaircost.json5"
+hash = "51f55efa413576c079f805668b31566a4771a971fdba2f511b6d42588786aeaa"
+
+[[files]]
+file = "config/harvestable_axe_blacklist.txt"
+hash = "50d6c049c767b1625f82fd5a726f3aadc21638b99cf796f27c8e5a9b14511221"
+
+[[files]]
+file = "config/harvestable_pickaxe_blacklist.txt"
+hash = "9a3b93aa58f99fa14ae90b31f9346748ecf71d7ea3d8af1ef9a635c4ea9c2c98"
+
+[[files]]
+file = "config/highspeed-rail.json5"
+hash = "8d6d7c694020ed442ba2c402c5cfef292819eb1260fdde4a06ff2854215f0c54"
+
+[[files]]
+file = "config/language/en_us.json"
+hash = "4a315a37f22ad3e814aa79b29316cb8eb774633e65ae1d25172f5776cf90938e"
+
+[[files]]
+file = "config/ledger.toml"
+hash = "9853f7a4850bae9bc582cd37a49c22eb0a3eca3a1f38de690c72459bfbfc5d4f"
+
+[[files]]
+file = "config/linger_messages.json"
+hash = "ad718ab2dd2058d8eada634fd403da276e8df265b8fb25696f12a9f9ed59c609"
+
+[[files]]
+file = "config/lithostitched.json"
+hash = "311210e6c817a344b885352da5d2d5e976d33bc2d1ddabd0492105083e6fce70"
+
+[[files]]
+file = "config/main.conf"
+hash = "e41cc67961e9e465bbf13158abd8cf2ecd48e055a611123d5bd036e6a06fd74b"
+
+[[files]]
+file = "config/mmode.json"
+hash = "ae9e435869951a10ef621fa291ebe8e3cc93e81d5043e7dc3892a8ab744896dd"
+
+[[files]]
 file = "config/neoessentials/config.json"
-hash = "5509f55f6ec6f620b066c91bd269b12b7e3cedc6268a5719df684ab4372ed3d9"
+hash = "38ba9834b2d90c5dc102a4b95f619fa413eb4719fb56e73cd69686dac88973dc"
+
+[[files]]
+file = "config/neoessentials/discord_auth.json"
+hash = "58e480b327a71db05740863c5252f812f8c14025a96060c8d6cae793b9f50725"
+
+[[files]]
+file = "config/oreharvester/harvestable_pickaxe_blacklist.txt"
+hash = "9a3b93aa58f99fa14ae90b31f9346748ecf71d7ea3d8af1ef9a635c4ea9c2c98"
+
+[[files]]
+file = "config/pl3xmap/config.yml"
+hash = "03e07f1839049292c05a55a78076ac93a77c9deedf3442da44b5863cd3ff4c5c"
+
+[[files]]
+file = "config/polymer/auto-host.json"
+hash = "7e1e27ed87025255c6e04ed6d2d17d788b2939890bfee7b6d47baff3e735329f"
+
+[[files]]
+file = "config/polymer/resource-pack.json"
+hash = "247aa46d1996f68ddf88f76015b9278820559fc5478648f1a6418ff0836dd6c3"
+
+[[files]]
+file = "config/quicksort.json5"
+hash = "4526ac6e3966283c3d6ed11372301f98f4f0d91f28e2bf5d4dae570ac9728aa3"
+
+[[files]]
+file = "config/resource-pack.json"
+hash = "247aa46d1996f68ddf88f76015b9278820559fc5478648f1a6418ff0836dd6c3"
 
 [[files]]
 file = "config/serilumsextrabundle.json5"
@@ -15,6 +135,18 @@ hash = "e9400ba513f013f86c17e5380d3f56af242f00f85a4ce35a0031b3889fe7be78"
 [[files]]
 file = "config/serilumsrpgbundle.json5"
 hash = "78d8ba422be3298188e2fbc5f0e49994f6a7f37e4d9eb86d8fe114f1e45db2fc"
+
+[[files]]
+file = "config/shulkerdropstwo.json5"
+hash = "39e73808f3dc67ae55a5d046fcef8ed54d3f7be961e76e8f2703bbd1c192b656"
+
+[[files]]
+file = "config/simple-discord-compat.toml"
+hash = "994eeb748a9dd4140b949539f8d45e5f7e654385c9e5d149445bde0fa5cde38b"
+
+[[files]]
+file = "config/simple-discord-link.toml"
+hash = "c7a93efe1df2224036e6b197ebfd6fbab7f61e186ac9596bb575fbc60bb3c5f0"
 
 [[files]]
 file = "config/simple-discord-link/embeds/default.json"
@@ -35,6 +167,142 @@ hash = "c7a93efe1df2224036e6b197ebfd6fbab7f61e186ac9596bb575fbc60bb3c5f0"
 [[files]]
 file = "config/squaremap/config.yml"
 hash = "90ab29d9387795e133f4365e94d4dc8cabe48f5c82ea031e95dd6ec5c7e2a345"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "a50d1c340c6e42433e725fe7a3b97e9920bc493b47ca618ecad4998bb6af16e8"
+
+[[files]]
+file = "config/styledplayerlist/styles/animated.json"
+hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "007daceab2af4e73560fa51bd5114535fbfdc0f39186e58c2bf4e371b8afde23"
+
+[[files]]
+file = "config/styles/animated.json"
+hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
+
+[[files]]
+file = "config/styles/default.json"
+hash = "007daceab2af4e73560fa51bd5114535fbfdc0f39186e58c2bf4e371b8afde23"
+
+[[files]]
+file = "config/treeharvester/harvestable_axe_blacklist.txt"
+hash = "50d6c049c767b1625f82fd5a726f3aadc21638b99cf796f27c8e5a9b14511221"
+
+[[files]]
+file = "datapacks/age-lock.zip"
+hash = "1a319233d076c84e7ee3a58a830bdef40cb63f5c9af780b864e352caf8b94fc5"
+
+[[files]]
+file = "datapacks/anti-creeper-grief.zip"
+hash = "d559eb83405ad30a5a5c5884d0044641851b21f90cb80afdd9dcfa332eac622f"
+
+[[files]]
+file = "datapacks/anti-enderman-grief.zip"
+hash = "14cfcab51ea5a46e1b7a9aa64d42f5b2e94188ea18818e9207b8325e0f66d9e3"
+
+[[files]]
+file = "datapacks/anti-ghast-grief.zip"
+hash = "d655d2ec05eaf78eb9bfd698b78392718f763446945703b79c3cd735eb111dfd"
+
+[[files]]
+file = "datapacks/armored-elytra.zip"
+hash = "de9f08579257cd9fbbdd944a9a221176b82bb35e687d6cf123ee0d71555a410b"
+
+[[files]]
+file = "datapacks/cauldron-concrete.zip"
+hash = "1f952e97fd392bd0ad34daf21d12513f306042fde1792accee39c09517ab8f2c"
+
+[[files]]
+file = "datapacks/cauldron-mud.zip"
+hash = "762bf5fbcc1e8ede6dd63d2c4f21db0d3ddae4fe842fb0a651ca8f016eea7692"
+
+[[files]]
+file = "datapacks/confetti-creepers.zip"
+hash = "55428cec37cf8356a809b0871e3488f49f90569c3ecd4532d5894f553c704c46"
+
+[[files]]
+file = "datapacks/double-shulker-shells.zip"
+hash = "74b6590d8fb41baf6c5bd12ba878ee649eed730ef6ad41318a9b27cc07652c7a"
+
+[[files]]
+file = "datapacks/dragon-drops.zip"
+hash = "5098c6ae12c17cdb475ff323c0da68fe121fbb0ac895c5dd2fc188d6e862a985"
+
+[[files]]
+file = "datapacks/elevators.zip"
+hash = "1c4b1d100a542b2362baf68402b55fe9ce3776ce09a6af4b8bd1e52493995afd"
+
+[[files]]
+file = "datapacks/ender-chest-always-drops.zip"
+hash = "fe4eed626016185edd118bc7592612a4595275aeca101bf5770adea624de668e"
+
+[[files]]
+file = "datapacks/glass-always-drops.zip"
+hash = "93f80cf18736c422e5ca9f294f67be1ac341fad2baff11a56ffdb69a2b4eda26"
+
+[[files]]
+file = "datapacks/husks-drop-sand.zip"
+hash = "666be50324f6311a9eacada9ddc84e1b72aebe491fbc40796742e4dbdf3f19b5"
+
+[[files]]
+file = "datapacks/mini-blocks.zip"
+hash = "84ebd13d7a76ec35c4da8e9e444e6d8369cfb8f00726ab76ced6761fcc49e23c"
+
+[[files]]
+file = "datapacks/more-effective-tools.zip"
+hash = "2dc082fe92b026ce3155a08d2a1ac58916549a094f93345896e2842f66731934"
+
+[[files]]
+file = "datapacks/more-mob-heads.zip"
+hash = "d8b5f7a439e20bba95d3e9740eeb64cec777e637ab23b4d1f6fd3a1f478685e3"
+
+[[files]]
+file = "datapacks/name-colors.zip"
+hash = "4123acf5dfd33fd23d202c8d0850688d5a711b78c4d12f5421ef95c3f5cb2968"
+
+[[files]]
+file = "datapacks/painting-picker.zip"
+hash = "0960876d4b89255d47ce4b1f96cf40b3a321d6e97ceb5aae47cd3dca0b00a57d"
+
+[[files]]
+file = "datapacks/player-head-drops.zip"
+hash = "d61db11a802b4259202454af9dc7187df0a93ab6dea83a7df88ab32df019ee78"
+
+[[files]]
+file = "datapacks/silence-mobs.zip"
+hash = "9de9ce581bd81c0f8fe7a54e70d3380a6c020bf3e3aed44a295f5c754428b82d"
+
+[[files]]
+file = "datapacks/silk-touch-budding-amethyst.zip"
+hash = "e545a2eaef28d437b2b19235015d37e48833f386a084b9aec12cd5d1cb174dcf"
+
+[[files]]
+file = "datapacks/storm-channeling.zip"
+hash = "9616d1a86a27dd5759f2645866f4160f5ebfd6a2f0d48e868fc16dd13cba6daf"
+
+[[files]]
+file = "datapacks/unlock-all-recipes.zip"
+hash = "f56354a43e9b2e2fb2eaece7f65ebd720c1ef5376bfa3d66368a64a25f1df7ab"
+
+[[files]]
+file = "datapacks/villager-death-messages.zip"
+hash = "63222b446f757a47b8c2f56f17a5e9472e316f0cae120bf10091d3c24fba0ec8"
+
+[[files]]
+file = "datapacks/vt-crafting-tweaks.zip"
+hash = "34e7c34a11c38d44f7f57f3484f92fd15f186dac09700fc4a4b655284b05ad17"
+
+[[files]]
+file = "datapacks/wandering-trades.zip"
+hash = "6adfb1427f10ed28fc4490e40516d440b5cce0d8098b8dd1a8d9700491245380"
+
+[[files]]
+file = "datapacks/xp-bottling.zip"
+hash = "7a0d9b2d311f47742a45393166220fabaa7685c4006163b24955f3a886faa570"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1374,11 +1642,6 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "72c0db4d726a16d80c2337cc9dc4d220ba8298deb5db5d9d58082d15a245ea3f"
-metafile = true
-
-[[files]]
-file = "mods/tree-harvester.pw.toml"
-hash = "f5b816b8de8c237a6a7b51fda8323627a995796589fc6934ed4cd15e7f40e55a"
 metafile = true
 
 [[files]]
