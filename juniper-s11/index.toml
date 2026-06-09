@@ -5,6 +5,10 @@ file = "config/EasyAuth/main.conf"
 hash = "e41cc67961e9e465bbf13158abd8cf2ecd48e055a611123d5bd036e6a06fd74b"
 
 [[files]]
+file = "config/aether-common.toml"
+hash = "5e22b88f6fa43a4238a8846078695d962fdc96526a5e946ae0b2cf94a617c695"
+
+[[files]]
 file = "config/animated.json"
 hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
 
