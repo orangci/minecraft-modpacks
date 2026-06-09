@@ -1,6 +1,6 @@
 name = "Carpet: NeoForged"
 filename = "neoforge-carpet-1.21.1-1.0.8+v251027.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/XqqOkvZz/versions/lnOeoKcQ/neoforge-carpet-1.21.1-1.0.8%2Bv251027.jar"
