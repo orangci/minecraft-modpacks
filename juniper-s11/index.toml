@@ -1389,6 +1389,11 @@ hash = "3da8a9aa7208ef7593239ecd755f40a564fd6b1883737796ecf9aab3744140dd"
 metafile = true
 
 [[files]]
+file = "mods/sable-new-sodium-compat.pw.toml"
+hash = "5f79c4d57361e1548a930ec7b24b5437bf49742e9ae022d248ab0710c963a7a1"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
@@ -1601,6 +1606,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "692eaba1dfc193086bf08a50d0dae5128d0d0f2516ffa1298d7e7c06af93aa34"
+metafile = true
+
+[[files]]
+file = "mods/veil.pw.toml"
+hash = "7fc272526017c9a6df2bb70ba8b60e4061fcbdb21572343963056cc7396baae3"
 metafile = true
 
 [[files]]
