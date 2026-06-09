@@ -433,11 +433,6 @@ hash = "dd535f37be20910d87e64613eedacfdfcf45965ccac594a7e5b3236b3940bb4f"
 metafile = true
 
 [[files]]
-file = "mods/celestria.pw.toml"
-hash = "857063fcf33fbbf5992c1db0175f9e5b4f8e21d5759d97514862bb1c81ab8520"
-metafile = true
-
-[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "bf0c5cf4279509496b9763b7f04449862fbc7277da2c7d368c8caa439c7c3e65"
 metafile = true
@@ -1169,7 +1164,7 @@ metafile = true
 
 [[files]]
 file = "mods/neoforge-carpet.pw.toml"
-hash = "7513ef48054b3d2d72aace3d3f39440c6b533ba518ea8d4cfaf1fb6d30dd9e7d"
+hash = "c2e438b9a6aac30bb40708f2f305b4bd9a07598aa800b1498b7c5a91fc4670ea"
 metafile = true
 
 [[files]]
