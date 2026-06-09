@@ -558,18 +558,8 @@ hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
-file = "mods/create-aeroworks.pw.toml"
-hash = "2f02126de38cf2a656b7ae97aa1f6c1a153498f5cdb03fe197c291d9c43cbb5a"
-metafile = true
-
-[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
-metafile = true
-
-[[files]]
-file = "mods/create-cafe.pw.toml"
-hash = "afaabf661bca24c48b6efbdf21cd0583a914ddf86e44e8dc2d59f1a418d6e838"
 metafile = true
 
 [[files]]
@@ -588,18 +578,13 @@ hash = "e41e7072928f62015d3e92222df00daadfaf4081d3eab95d65ab1e0438bdb48d"
 metafile = true
 
 [[files]]
-file = "mods/create-deco.pw.toml"
-hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
-metafile = true
-
-[[files]]
 file = "mods/create-deep-seas.pw.toml"
 hash = "72a5657805df38c180ff1cf88b7f4207ad8a93855721218b90a739a299666eb4"
 metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "616a0a7fc051382574b73276c74e60ae7c40d9cf1bbb9113375da164278ae94f"
+hash = "cab6f316cb4ef454bbfa18b32263c3fb7c246a0405a505611c1e36b5eabd48f0"
 metafile = true
 
 [[files]]
@@ -675,11 +660,6 @@ metafile = true
 [[files]]
 file = "mods/create-stuff-n-additions-x-sable-aeronautics-compat.pw.toml"
 hash = "3124ff7b0beddb44ec981a35a149ced3e6a29f84b72a01a1d088932d61bdbdbb"
-metafile = true
-
-[[files]]
-file = "mods/create-trading-floor.pw.toml"
-hash = "dd46758c8eb82deb6dcd56a9879dc5e583ff812245ebb357fd79053a60c58871"
 metafile = true
 
 [[files]]
