@@ -543,21 +543,6 @@ hash = "349b56aa9ea8284fb89e880941d319ce52e50e51d63084472ea93493cff105b7"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-climbable-rope.pw.toml"
-hash = "4826787724dabb396681358d97bce2e5649a4fbad2f210588231d8e7293740e8"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-portable-engine-liquid-fuel.pw.toml"
-hash = "aa69dc9a1d57d4c3c4f83627017b5a741c301f42f83f25a47bc420e869f9d931"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics.pw.toml"
-hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
-metafile = true
-
-[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
 metafile = true
@@ -575,11 +560,6 @@ metafile = true
 [[files]]
 file = "mods/create-copper-oxidizing.pw.toml"
 hash = "e41e7072928f62015d3e92222df00daadfaf4081d3eab95d65ab1e0438bdb48d"
-metafile = true
-
-[[files]]
-file = "mods/create-deep-seas.pw.toml"
-hash = "72a5657805df38c180ff1cf88b7f4207ad8a93855721218b90a739a299666eb4"
 metafile = true
 
 [[files]]
@@ -645,11 +625,6 @@ metafile = true
 [[files]]
 file = "mods/create-stuff-n-additions-curios-compat.pw.toml"
 hash = "1c02296959d53e94e97f6bb8bd9e99cd68babbf8538dcf58f2bac5e88e804979"
-metafile = true
-
-[[files]]
-file = "mods/create-stuff-n-additions-x-sable-aeronautics-compat.pw.toml"
-hash = "3124ff7b0beddb44ec981a35a149ced3e6a29f84b72a01a1d088932d61bdbdbb"
 metafile = true
 
 [[files]]
