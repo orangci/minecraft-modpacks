@@ -1023,11 +1023,6 @@ hash = "bfdc96aca13eec14a5f9a2986a25319effaed81e79169ebfb9a063a66a284b8b"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
-metafile = true
-
-[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "5fd6319cbba6abaca989daaca456c052b49f388f7789eb1657fbaf736b4009cb"
 metafile = true
