@@ -11,6 +11,7 @@
     "webDashboard": {
         "port": REPLACE_NEOESSENTIALS_PORT
     },
+    "security": { "allowUnsafeCommands": true },
     "discord": {
         "channelId": 1125141845731704992,
         "relayToDiscord": true,
