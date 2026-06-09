@@ -1214,11 +1214,6 @@ hash = "bcd24eb0db2625488682ca538416a87a301543e5b68bff6633677a6780422db5"
 metafile = true
 
 [[files]]
-file = "mods/neo-origins.pw.toml"
-hash = "2b6093666222e83122516384cfa2b4b0ed64136a42becbf0f54cb0781e9781b1"
-metafile = true
-
-[[files]]
 file = "mods/neoessentials.pw.toml"
 hash = "efc09d97c549b0ea37daf25e82e78883ed6727bb40361931990262373a653055"
 metafile = true
