@@ -1,6 +1,7 @@
 name = "Serilum's Extra Bundle"
 filename = "serilumsextrabundle-1.21.1-2.6.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/UyhC4jkw/versions/cGSRweiw/serilumsextrabundle-1.21.1-2.6.jar"

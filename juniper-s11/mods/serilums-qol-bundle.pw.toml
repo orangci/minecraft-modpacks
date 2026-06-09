@@ -1,6 +1,7 @@
 name = "Serilum's QoL Bundle"
 filename = "serilumsqolbundle-1.21.1-2.4.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/QC7wpUjM/versions/7MUQEV0Q/serilumsqolbundle-1.21.1-2.4.jar"

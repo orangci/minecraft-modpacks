@@ -1434,17 +1434,17 @@ metafile = true
 
 [[files]]
 file = "mods/serilums-extra-bundle.pw.toml"
-hash = "f0f0cf520804cdf6dd7b2d4df7313626ba7bc1f1ada6a0aef3ab25ef47389edb"
+hash = "6561b49aa46113c58a7d2a28c81a26fc4c9057ddf8b7ccb850e2850231c1fc2c"
 metafile = true
 
 [[files]]
 file = "mods/serilums-qol-bundle.pw.toml"
-hash = "6e37633ad6d58167845d6759d66e07e84911782a2c558e81aebe9f08d5ab6b3a"
+hash = "6f2c14936553f2bb033c433e0c4e2ad0de94f0a9ae2771b1454605d6a91d4073"
 metafile = true
 
 [[files]]
 file = "mods/serilums-rpg-bundle.pw.toml"
-hash = "1a39556d4baf3c6a006aea09edfab17b2535ff58fa5a025486603b5db89a5f1b"
+hash = "67c5dd59b11470835e8b62e79d6af72a3f040c07d0c2d74457c8e512def0b041"
 metafile = true
 
 [[files]]
