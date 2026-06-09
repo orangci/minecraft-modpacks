@@ -583,18 +583,8 @@ hash = "72a5657805df38c180ff1cf88b7f4207ad8a93855721218b90a739a299666eb4"
 metafile = true
 
 [[files]]
-file = "mods/create-dragons-plus.pw.toml"
-hash = "cab6f316cb4ef454bbfa18b32263c3fb7c246a0405a505611c1e36b5eabd48f0"
-metafile = true
-
-[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "c3cbea800ad6c0b2442f89f83a40b7bb950c1c3645192348e5ba389dacdc3e55"
-metafile = true
-
-[[files]]
-file = "mods/create-enchantment-industry.pw.toml"
-hash = "166d312672116bc62648572337c66018be6e794eb12e25fb2b508f686fdd58e5"
 metafile = true
 
 [[files]]
