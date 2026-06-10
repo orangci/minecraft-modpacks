@@ -1738,10 +1738,6 @@ hash = "165466fe8e528309d95875396f2a5e13c0bab7bcb0c1134d1fd5f3a935d488f5"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "8b2f8f937c28075787d1a3c124b9169fda6386d8b9af01a05dd8130a176a5b84"
-
-[[files]]
 file = "resourcepacks/immersive-weathering-connected-glass.pw.toml"
 hash = "9ae367f28cb57a04740385fa3f13823257dbb49165606951e202d2edc485e921"
 metafile = true
