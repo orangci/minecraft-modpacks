@@ -1078,11 +1078,6 @@ hash = "bccef76a1bb9fb6d8a7315bba6a675dce2975e68be47a4476e91323f43842187"
 metafile = true
 
 [[files]]
-file = "mods/lazydfu-reloaded.pw.toml"
-hash = "553e1aac7a30d7c48b874cd125ad93a2d1580100c93b753887cf19ee5eb6a632"
-metafile = true
-
-[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "9ca14134538c66b6d8ef74107f6b15ba9487ec632d984427e84ad38aa47afa60"
 metafile = true
