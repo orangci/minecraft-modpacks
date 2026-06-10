@@ -288,11 +288,6 @@ hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
 
 [[files]]
-file = "mods/aero_cam_sync.pw.toml"
-hash = "06ea6aa660fd44b7d49ea2690c17553968e9de086ef79ac027ef8ecb5aafa862"
-metafile = true
-
-[[files]]
 file = "mods/aether-villages.pw.toml"
 hash = "eb072ec029ede8bccae7b0e5ee5faac555fa6c5a58062bdb6c2543ed6debb2e1"
 metafile = true
