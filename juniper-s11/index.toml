@@ -912,6 +912,11 @@ hash = "b1899974f91cb907a6ea96d7646aa206490e22eeb74c89785a91d17ddc14e111"
 metafile = true
 
 [[files]]
+file = "mods/forgematica.pw.toml"
+hash = "a8bdefffee0ac7aab23ffd3ffdc2e7ce8a36048828dffdb3ae1911c82d84a1b0"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
