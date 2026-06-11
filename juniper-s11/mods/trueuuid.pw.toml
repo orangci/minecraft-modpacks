@@ -1,0 +1,13 @@
+name = "TrueUUID"
+filename = "trueuuid-1.0.9-neoforge1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fMgRLYNA/versions/mZ9MX6Jo/trueuuid-1.0.9-neoforge1.21.1.jar"
+hash-format = "sha512"
+hash = "2146f4b606edf25100e618cecd847f331ef2e6e3533c9ce7e09b507a21990f1047007fca5ed6b8bd4ca96b7b761bfd66977fc670fe7a148164475db95f82b7e2"
+
+[update]
+[update.modrinth]
+mod-id = "fMgRLYNA"
+version = "mZ9MX6Jo"

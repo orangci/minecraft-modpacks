@@ -1,0 +1,7 @@
+[auth]
+timeoutMs = 10000
+allowOfflineOnTimeout = false
+allowOfflineOnFailure = true
+timeoutKickMessage = "Mojang authorisation timed out."
+offlineShortSubtitle = "Welcome back. Note: you are playing in offline mode (as a cracked player)!"
+onlineShortSubtitle "Welcome back."
