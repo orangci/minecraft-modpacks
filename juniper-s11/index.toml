@@ -677,6 +677,11 @@ hash = "3124ff7b0beddb44ec981a35a149ced3e6a29f84b72a01a1d088932d61bdbdbb"
 metafile = true
 
 [[files]]
+file = "mods/create-tracks+.pw.toml"
+hash = "967d62bf386e87dc66ebe3dd2d6e1368bd0d0c155cb6f120a37c37802165920c"
+metafile = true
+
+[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "dd46758c8eb82deb6dcd56a9879dc5e583ff812245ebb357fd79053a60c58871"
 metafile = true
@@ -1594,11 +1599,6 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "72c0db4d726a16d80c2337cc9dc4d220ba8298deb5db5d9d58082d15a245ea3f"
-metafile = true
-
-[[files]]
-file = "mods/trinkets-and-baubles-reforked.pw.toml"
-hash = "c530cb40d3b01fe0a41ca9c69c9e2ab85f05dca43190b3c5256d98d221324ac0"
 metafile = true
 
 [[files]]
