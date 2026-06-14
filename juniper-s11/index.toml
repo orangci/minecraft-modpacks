@@ -61,6 +61,10 @@ file = "config/highspeed-rail.json5"
 hash = "8d6d7c694020ed442ba2c402c5cfef292819eb1260fdde4a06ff2854215f0c54"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "e9029a18219e9d6c1847a74d4abd4374c16ee6cd21ae7b4ead79c7f0f138bc40"
+
+[[files]]
 file = "config/language/en_us.json"
 hash = "4a315a37f22ad3e814aa79b29316cb8eb774633e65ae1d25172f5776cf90938e"
 
@@ -267,10 +271,6 @@ hash = "63222b446f757a47b8c2f56f17a5e9472e316f0cae120bf10091d3c24fba0ec8"
 [[files]]
 file = "datapacks/vt-crafting-tweaks.zip"
 hash = "34e7c34a11c38d44f7f57f3484f92fd15f186dac09700fc4a4b655284b05ad17"
-
-[[files]]
-file = "datapacks/wandering-trades.zip"
-hash = "6adfb1427f10ed28fc4490e40516d440b5cce0d8098b8dd1a8d9700491245380"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
