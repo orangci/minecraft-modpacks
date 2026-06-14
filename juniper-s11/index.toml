@@ -90,7 +90,7 @@ hash = "ae9e435869951a10ef621fa291ebe8e3cc93e81d5043e7dc3892a8ab744896dd"
 
 [[files]]
 file = "config/neoessentials/config.json"
-hash = "81ebbc163c997e5533fe8f6f8f374755d2476a2f22b9e9fb0da84f45ddf57fa9"
+hash = "b2f8781d535a5a85b0967a35f42f7a0acdef15855cf1c2bc43aa740b37436011"
 
 [[files]]
 file = "config/neoessentials/discord_auth.json"

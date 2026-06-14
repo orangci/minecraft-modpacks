@@ -4,7 +4,8 @@
         "timeout": 300,
         "tablistAfkPrefix": "AFK: ",
         "trackChat": false,
-        "trackCommands": false
+        "trackCommands": false,
+        "enableActivityTracking": false
     },
     "chat": { "enable-chat-formatting": false },
     "economy": { "enabled": false },
