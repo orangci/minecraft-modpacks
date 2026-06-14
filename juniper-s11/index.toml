@@ -1776,7 +1776,7 @@ hash = "d37e34c254eba12326894d36cefebe8f69b0f22ca1d7ba083d5b8abaa4774c6c"
 
 [[files]]
 file = "server.properties"
-hash = "ae893a14be5b2a11c064007453766734d3f83f69a121584d8901a8e8efe88306"
+hash = "62ae14716daf20ab0532ae1f789dd4620209d2e493954c8d00751590e816ea3c"
 
 [[files]]
 file = "squaremap/config.yml"
