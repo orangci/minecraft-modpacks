@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".env.example"
+hash = "adc3c49fb169e3a83dd96f1e1351fe1c2c381a88344a56dc4eee35061c4ff83e"
+
+[[files]]
 file = "config/EasyAuth/main.conf"
 hash = "e41cc67961e9e465bbf13158abd8cf2ecd48e055a611123d5bd036e6a06fd74b"
 
@@ -27,10 +31,6 @@ hash = "ad718ab2dd2058d8eada634fd403da276e8df265b8fb25696f12a9f9ed59c609"
 [[files]]
 file = "config/config.json"
 hash = "a50d1c340c6e42433e725fe7a3b97e9920bc493b47ca618ecad4998bb6af16e8"
-
-[[files]]
-file = "config/config.yml"
-hash = "03e07f1839049292c05a55a78076ac93a77c9deedf3442da44b5863cd3ff4c5c"
 
 [[files]]
 file = "config/default.json"
@@ -86,7 +86,7 @@ hash = "ae9e435869951a10ef621fa291ebe8e3cc93e81d5043e7dc3892a8ab744896dd"
 
 [[files]]
 file = "config/neoessentials/config.json"
-hash = "447ed6fe4daeb92ee6b654e2ecbcfa5fa2a1c07330a3b41d3e23690281945708"
+hash = "81ebbc163c997e5533fe8f6f8f374755d2476a2f22b9e9fb0da84f45ddf57fa9"
 
 [[files]]
 file = "config/neoessentials/discord_auth.json"
@@ -135,10 +135,6 @@ hash = "994eeb748a9dd4140b949539f8d45e5f7e654385c9e5d149445bde0fa5cde38b"
 [[files]]
 file = "config/simple-discord-link/simple-discord-link.toml"
 hash = "c7a93efe1df2224036e6b197ebfd6fbab7f61e186ac9596bb575fbc60bb3c5f0"
-
-[[files]]
-file = "config/squaremap/config.yml"
-hash = "90ab29d9387795e133f4365e94d4dc8cabe48f5c82ea031e95dd6ec5c7e2a345"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
@@ -1202,11 +1198,6 @@ hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
 metafile = true
 
 [[files]]
-file = "mods/modflared.pw.toml"
-hash = "112c4664762b3a07df2c24c7fad06b6cd64f535d82746b2e17eeb4dc1c95fc69"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
 metafile = true
@@ -1477,6 +1468,11 @@ hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a4af1bf7389eddd65fb5b665b711e0b25e9e8ccb6b17a1fb50aff8d886859ad6"
+metafile = true
+
+[[files]]
 file = "mods/sit-anywhere!.pw.toml"
 hash = "22bcd98778269448c29506c53bce3b9ed2ace298f7c93091f12d7dd788232656"
 metafile = true
@@ -1663,12 +1659,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d609fad21021c5578750019bbe247515af55b0d1284ef838e42ef4ad0d5fbff4"
+hash = "3f9e51bfceabca41c537e58b8767bdb4273fdafe9f08bc472ebc255554617ad2"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ac287f392613eddfa285620dcecb3fea25ee6232a201009cde5c5511b6a39fb9"
+hash = "66f85f7c21c70440f919d91a96190854c9af6b50f2214153ea0ab0a5c949ccdc"
 metafile = true
 
 [[files]]
@@ -1752,10 +1748,26 @@ hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
+file = "ops.json"
+hash = "ca6c068a102869665109750abe81c374f76ba5b26484fcbc992cdb0526df8b97"
+
+[[files]]
 file = "resourcepacks/immersive-weathering-connected-glass.pw.toml"
 hash = "9ae367f28cb57a04740385fa3f13823257dbb49165606951e202d2edc485e921"
 metafile = true
 
 [[files]]
+file = "secrets.sh"
+hash = "25e03f7a923c610a3b6a4f14df4247cdde64fc3685afd93fe0460d86701daf83"
+
+[[files]]
 file = "server-icon.png"
 hash = "d37e34c254eba12326894d36cefebe8f69b0f22ca1d7ba083d5b8abaa4774c6c"
+
+[[files]]
+file = "server.properties"
+hash = "ae893a14be5b2a11c064007453766734d3f83f69a121584d8901a8e8efe88306"
+
+[[files]]
+file = "squaremap/config.yml"
+hash = "b19fd580ed6ebba9106cad043b3616b988194c6b6620df9be23be1328f1c0b25"

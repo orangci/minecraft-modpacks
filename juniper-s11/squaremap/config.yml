@@ -16,7 +16,7 @@ settings:
 
   # set the web address players use to connect to your map. this
   # is only used for the fabric client mod to know where to connect
-  web-address: http://localhost:REPLACE_SQUAREMAP_PORT
+  web-address: http://localhost:6742
 
   # web directory settings (where all the public files go)
   web-directory:
@@ -55,7 +55,7 @@ settings:
     bind: 0.0.0.0
 
     # the port the internal web server will bind to
-    port: REPLACE_SQUAREMAP_PORT
+    port: 6742
 
     # controls how often certain data is persisted to disk.
     #  - when the internal web server is enabled, some data can be served from memory and only persisted to disk on shutdown.

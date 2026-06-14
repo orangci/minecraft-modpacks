@@ -9,7 +9,7 @@
     "chat": { "enable-chat-formatting": false },
     "economy": { "enabled": false },
     "webDashboard": {
-        "port": REPLACE_NEOESSENTIALS_PORT
+        "port": 8405
     },
     "security": { "allowUnsafeCommands": true },
     "discord": {
