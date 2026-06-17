@@ -1,0 +1,13 @@
+name = "Anvil Never Too Expensive"
+filename = "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TEOa2X8B/versions/wV654RfI/AnvilNeverTooExpensive-neoforge-1.21%2B-1.2.1.jar"
+hash-format = "sha512"
+hash = "a678f8465cbd29d18e95104003bcaf15e7f5963169f120f9d074db9aa46d140ce964bb41ffcc06c1e0ff8183bc81061da4a45251f4d91fe1fc94e39fbaa37f49"
+
+[update]
+[update.modrinth]
+mod-id = "TEOa2X8B"
+version = "wV654RfI"
