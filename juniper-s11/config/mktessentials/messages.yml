@@ -1,0 +1,59 @@
+# ============================================
+#  MKT Essentials - Messages & Chat
+# ============================================
+# Configure chat formatting, join/quit messages,
+# and automated broadcasts.
+
+# ============================================
+#  Chat Format
+# ============================================
+chat:
+  # Chat format template. Available placeholders:
+  # %mktessentials:dot% - recording/streaming indicator
+  # %mktessentials:prefix% - LuckPerms prefix
+  # %mktessentials:name% - player display name
+  # %mktessentials:suffix% - LuckPerms suffix
+  # {message} - the chat message content
+  format: "%mktessentials:dot%%mktessentials:prefix%%mktessentials:name%%mktessentials:suffix%&8: &f{message}"
+  # Per-group chat formats (LuckPerms primary group name → format)
+  # If a player's group is listed here, this format is used instead of the default above.
+  # Same placeholders available as in the default format.
+  group-formats:
+    # admin: "&c[Admin] &f%mktessentials:name%&8: &f{message}"
+    # vip: "&6[VIP] &f%mktessentials:name%&8: &f{message}"
+
+# ============================================
+#  Join & Quit Messages
+# ============================================
+join-quit:
+  # Enable custom join/quit messages
+  enabled: false
+  # Available: %mktessentials:full_name/safe%
+  join-message: "&8[&a+&8] &7%mktessentials:full_name/safe% joined the game."
+  quit-message: "&8[&c-&8] &7%mktessentials:full_name/safe% left the game."
+
+# ============================================
+#  Automated Broadcasts
+# ============================================
+broadcast:
+  # Enable automated broadcasts
+  enabled: false
+  # Interval between broadcasts in seconds
+  interval: 300
+  # Prefix prepended to each broadcast message
+  prefix: "&8[&bINFO&8] &r"
+  # Order: "random" or "sequential"
+  order: "random"
+  # List of messages to broadcast
+  messages:
+    - "&7Welcome to our server!"
+    - "&7Join our Discord: &b/discord"
+    - "&7Use &6/rtp &7to start your adventure!"
+
+# ============================================
+#  Text Commands
+# ============================================
+# Custom commands that print configured text. Each entry can define
+# multiple aliases (e.g. "rules" and "zasady") and multiple lines.
+# Aliases that collide with existing commands are skipped.
+# Changes require a server restart (commands 

@@ -1,0 +1,64 @@
+# ============================================
+#  MKT Essentials - Commands
+# ============================================
+# Enable or disable command groups.
+# Set to false to completely disable a command.
+# Changes require server restart.
+
+# ============================================
+#  Teleportation Commands
+# ============================================
+teleportation:
+  home: true      # /home, /sethome, /delhome, /homes
+  warp: true      # /warp, /setwarp, /delwarp, /warps
+  spawn: true     # /spawn
+  back: true      # /back
+  top: true       # /top
+  rtp: false       # /rtp (random teleport)
+  tpa: true       # /tpa, /tpahere, /tpaccept, /tpdeny
+
+# ============================================
+#  Admin Commands
+# ============================================
+admin:
+  heal: true      # /heal [player]
+  feed: true      # /feed [player]
+  fly: true       # /fly [player]
+  god: true       # /god [player]
+  vanish: true    # /vanish
+  speed: true     # /speed fly|walk <value> [player]
+  clearinv: true  # /clearinv [player]
+  tpall: true     # /tpall
+  invsee: true    # /invsee <player>
+  enderchest: true # /enderchest <player>
+  backup: true    # /invbackup save|list|restore|delete
+  clearitems: true # /clearitems [radius]
+
+# ============================================
+#  Moderation Commands
+# ============================================
+moderation:
+  kick: true      # /kick <player> [reason]
+  ban: true       # /ban, /tempban, /unban
+  banip: true     # /banip, /unbanip
+  mute: true      # /mute, /unmute, /tempmute
+  warn: true      # /warn, /unwarn, /warns, /history
+  shadowban: true  # /shadowban, /unshadowban, /shadowbanlist
+
+# ============================================
+#  Utility Commands
+# ============================================
+utility:
+  repair: true    # /repair
+  enchant: true   # /enchant <enchantment> <level>
+  exp: true       # /exp give|set <player> <levels>
+  kit: false       # /kit, /kits, /createkit, /deletekit
+  nick: false      # /nick [nickname]
+  msg: true       # /msg, /reply, /msgtoggle, /ignore
+  shortcuts: true # /gm, /gmc, /gms, /gma, /gmsp, /tp, /tphere, /tppos, /i, /more, /skull, /near, /seen, /sudo
+  whois: true     # /whois <player>
+  playtime: true  # /playtime [player]
+  stations: true  # /trash, /workbench, /craft, /anvil, /grindstone, /stonecutter, /smithing
+  ptime: true     # /ptime, /pweather (per-player client time/weather)
+  helpop: true    # /helpop, /report
+  tps: true       # /tps, /lag

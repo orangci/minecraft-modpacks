@@ -85,6 +85,26 @@ file = "config/main.conf"
 hash = "e41cc67961e9e465bbf13158abd8cf2ecd48e055a611123d5bd036e6a06fd74b"
 
 [[files]]
+file = "config/mktessentials/commands.yml"
+hash = "72605e4d8209d54d4d4b49a1665421c1e13593b68f781b050cfd3357c6744200"
+
+[[files]]
+file = "config/mktessentials/lang/en_us.yml"
+hash = "2421da26224c99ab05a1a6fa6f231019c9b1d19ccab13b6857bf23b44df655b1"
+
+[[files]]
+file = "config/mktessentials/lang/pl_pl.yml"
+hash = "ebeebe792a6b44824aec14937a8a94df86c54c3391cd31ec7a570181bcbfbf28"
+
+[[files]]
+file = "config/mktessentials/messages.yml"
+hash = "aaa1fb6bc867da507fc53bd8a0a056e816518aa96d1003c7c2cb20a4abbcf336"
+
+[[files]]
+file = "config/mktessentials/settings.yml"
+hash = "f246713ae624e546ffde68b8a96ee1a6af0f93e7edafdef1fd073a53349e570b"
+
+[[files]]
 file = "config/mmode.json"
 hash = "ae9e435869951a10ef621fa291ebe8e3cc93e81d5043e7dc3892a8ab744896dd"
 

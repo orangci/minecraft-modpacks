@@ -1,0 +1,164 @@
+# ============================================
+#  MKT Essentials - Settings
+# ============================================
+# Main configuration file for MKT Essentials.
+# Edit values below to customize the plugin.
+# Changes require /mkt reload or server restart.
+
+# Language for server messages (file must exist in lang/ folder)
+# Available: en_us, pl_pl (or add your own)
+language: "en_us"
+
+# ============================================
+#  General Settings
+# ============================================
+general:
+  # Prefix shown before all mod messages (supports & color codes)
+  message-prefix: "&8[&6MKT&8] &r"
+  # Maximum homes per player (LuckPerms meta can override: mktessentials.max_homes.<number>)
+  max-homes: 5
+
+# ============================================
+#  Teleportation
+# ============================================
+teleportation:
+  # Delay in seconds before teleport executes (0 = instant)
+  delay: 0
+  # Cooldown between teleports in seconds (0 = no cooldown)
+  cooldown: 0
+  # Play sound and particle effects on teleport
+  effects: false
+  # Seconds before a TPA request expires
+  tpa-timeout: 60
+
+# ============================================
+#  Random Teleport (RTP)
+# ============================================
+rtp:
+  # Minimum distance from center/player
+  min-distance: 500
+  # Maximum distance from center/player
+  max-distance: 5000
+  # true = distance relative to player, false = relative to center coordinates
+  relative-to-player: false
+  # Center coordinates (used when relative-to-player is false)
+  center-x: 0.0
+  center-z: 0.0
+  # Biomes to exclude from RTP (players won't land in these)
+  biome-blacklist:
+    - "minecraft:ocean"
+    - "minecraft:deep_ocean"
+    - "minecraft:river"
+
+# ============================================
+#  AFK Detection
+# ============================================
+afk:
+  # Seconds of inactivity before marking player as AFK (0 = disabled)
+  timeout: 300
+
+# ============================================
+#  Data Management
+# ============================================
+data:
+  # Interval in seconds between automatic player data saves (0 = disabled)
+  auto-save-interval: 300
+
+# ============================================
+#  Vanish Settings
+# ============================================
+vanish:
+  # Send fake join/quit messages when admins vanish/unvanish
+  fake-messages: true
+
+# ============================================
+#  Inventory Backups
+# ============================================
+backup:
+  # Automatically backup inventory on player death
+  on-death: true
+  # Automatically backup inventory when player joins the server
+  on-join: false
+  # Automatically backup inventory when player leaves the server
+  on-quit: true
+  # Interval in seconds between scheduled backups for all online players (0 = disabled)
+  interval: 0
+  # Maximum number of backups to keep per player (oldest are deleted)
+  max-per-player: 10
+
+# ============================================
+#  Authentication & Discord Link
+# ============================================
+auth:
+  # Mode: "full", "auth-only", "link-only", "optional", "disabled"
+  mode: "disabled"
+  # Hours before a session expires (auto-login from same IP)
+  session-timeout-hours: 24
+  # Maximum failed login attempts before kick
+  max-login-attempts: 5
+  # Seconds before an unauthenticated player is kicked
+  login-timeout-seconds: 60
+  # Minutes of invulnerability for first-time players (0 = disabled)
+  newbie-protection-minutes: 30
+
+# ============================================
+#  Shadowban
+# ============================================
+moderation:
+  # Shadowban method: "timeout", "full", "internal-error", "phantom"
+  # timeout: Shows "Connection timed out" on join
+  # full: Shows "Server is full!" on join
+  # internal-error: Kicks after 2-3 seconds with fake internal error
+  # phantom: Player joins but is invisible to others, chat hidden
+  shadowban-method: "timeout"
+  # Active warns (/warn) that trigger an automatic tempban (0 = no escalation)
+  max-warns: 3
+  # Tempban duration applied when the warn limit is reached (e.g. 1d, 12h, 30m)
+  warn-ban-duration: "1d"
+
+discord:
+  # Enable the embedded Discord bot
+  enabled: false
+  # Discord bot token (from Discord Developer Portal)
+  bot-token: ""
+  # Guild (server) ID where the bot operates
+  guild-id: ""
+  # Name of the slash command for linking (language-dependent)
+  link-command-name: "link"
+  # Role ID to assign when a player links their account (empty = disabled)
+  linked-role-id: ""
+  # Show online player count in bot status
+  show-player-count: true
+
+# ============================================
+#  Item Management
+# ============================================
+items:
+  # Custom despawn time for ground items in seconds (0 = use vanilla behavior)
+  despawn-time: 0
+  # Merge nearby identical items into stacks to reduce entity count
+  stacking: true
+  # Radius in blocks to search for stackable items
+  stacking-radius: 3
+  # Maximum stack size for ground item merging (64 = vanilla, set higher to merge more into one entity)
+  max-stack-size: 64
+  # Show floating hologram above items with name and countdown
+  show-hologram: true
+  # Global sweep interval in seconds (0 = disabled, only individual timers)
+  sweep-interval: 0
+  # Seconds before sweep to broadcast warning
+  sweep-warning: 30
+  # Items that never despawn (supports modded items, e.g., "create:brass_ingot")
+  whitelist:
+    - "minecraft:netherite_sword"
+    - "minecraft:netherite_pickaxe"
+    - "minecraft:netherite_axe"
+    - "minecraft:netherite_shovel"
+    - "minecraft:netherite_hoe"
+    - "minecraft:netherite_helmet"
+    - "minecraft:netherite_chestplate"
+    - "minecraft:netherite_leggings"
+    - "minecraft:netherite_boots"
+    - "minecraft:elytra"
+    - "minecraft:shulker_box"
+    - "minecraft:totem_of_undying"
