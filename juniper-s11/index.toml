@@ -1315,11 +1315,6 @@ hash = "da5f013feb6b2befcda21f46ebdcf49f4202fdc7362cc796333642bbeaa47e6d"
 metafile = true
 
 [[files]]
-file = "mods/open-in-inventory.pw.toml"
-hash = "0aa5d57647c0a62169a9aa4882022a4f9500241148e73257305596b646963707"
-metafile = true
-
-[[files]]
 file = "mods/origins-classes-neoforge.pw.toml"
 hash = "58a305d02dc4da34ab546034f46dad544faa59c514abfbf64ff15a27534f1dd8"
 metafile = true
