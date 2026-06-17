@@ -89,14 +89,6 @@ file = "config/mmode.json"
 hash = "ae9e435869951a10ef621fa291ebe8e3cc93e81d5043e7dc3892a8ab744896dd"
 
 [[files]]
-file = "config/neoessentials/config.json"
-hash = "b2f8781d535a5a85b0967a35f42f7a0acdef15855cf1c2bc43aa740b37436011"
-
-[[files]]
-file = "config/neoessentials/discord_auth.json"
-hash = "bccd2612b82e39a410b02a25c4384f874a0cf9addf43bfb03b5c80bc755782e3"
-
-[[files]]
 file = "config/oreharvester/harvestable_pickaxe_blacklist.txt"
 hash = "9a3b93aa58f99fa14ae90b31f9346748ecf71d7ea3d8af1ef9a635c4ea9c2c98"
 
@@ -1208,6 +1200,11 @@ hash = "13481133d139f134bd3407983e29f86df835ff66bacb013d9d43e14f155241f4"
 metafile = true
 
 [[files]]
+file = "mods/mkt-essentials.pw.toml"
+hash = "9d5ad7677f71dfbe0ae4c97729d34d5ae08397b75e6b108f5949e41caaeb96c9"
+metafile = true
+
+[[files]]
 file = "mods/mmlib.pw.toml"
 hash = "65db1262f3d0823a0795b8b38328c0eceeb4632892f7c168e3c8e6abf4638735"
 metafile = true
@@ -1258,11 +1255,6 @@ hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
 metafile = true
 
 [[files]]
-file = "mods/neoessentials.pw.toml"
-hash = "efc09d97c549b0ea37daf25e82e78883ed6727bb40361931990262373a653055"
-metafile = true
-
-[[files]]
 file = "mods/neoforge-carpet.pw.toml"
 hash = "c2e438b9a6aac30bb40708f2f305b4bd9a07598aa800b1498b7c5a91fc4670ea"
 metafile = true
@@ -1305,6 +1297,11 @@ metafile = true
 [[files]]
 file = "mods/only-paxels.pw.toml"
 hash = "da5f013feb6b2befcda21f46ebdcf49f4202fdc7362cc796333642bbeaa47e6d"
+metafile = true
+
+[[files]]
+file = "mods/open-in-inventory.pw.toml"
+hash = "0aa5d57647c0a62169a9aa4882022a4f9500241148e73257305596b646963707"
 metafile = true
 
 [[files]]

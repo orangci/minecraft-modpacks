@@ -1,0 +1,13 @@
+name = "MKT Essentials"
+filename = "mktessentials-0.3.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/dzLZCn7R/versions/GJrtXTWS/mktessentials-0.3.0.jar"
+hash-format = "sha512"
+hash = "0624f64c547a9867471d9f414e42bee626c0782a4dbd92a285bccdad36ff7db24b7de21ff0dbdf58951203016d25af60f29ca4c686f67ca468f165829c2c7eff"
+
+[update]
+[update.modrinth]
+mod-id = "dzLZCn7R"
+version = "GJrtXTWS"
