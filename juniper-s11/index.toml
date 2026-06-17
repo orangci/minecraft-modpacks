@@ -985,11 +985,6 @@ hash = "13e3a41ddb14bb60ba1b0ad687df8cd2b6d0f801f304eb5306e1e0d2d6482468"
 metafile = true
 
 [[files]]
-file = "mods/grieflogger.pw.toml"
-hash = "e4d63300d9fdf653fe7eb135a52755680d00566ef5b4628c3c03db949fdb7fcb"
-metafile = true
-
-[[files]]
 file = "mods/horseman.pw.toml"
 hash = "c14defcebe823231795ee9df77bd7a473b0fa2016147f7e465d13a0a38e136c5"
 metafile = true
