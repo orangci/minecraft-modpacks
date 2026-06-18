@@ -102,7 +102,7 @@ hash = "aaa1fb6bc867da507fc53bd8a0a056e816518aa96d1003c7c2cb20a4abbcf336"
 
 [[files]]
 file = "config/mktessentials/settings.yml"
-hash = "f246713ae624e546ffde68b8a96ee1a6af0f93e7edafdef1fd073a53349e570b"
+hash = "eec24fcbc7c11236d1c5a3259194f9faf1e9183710597b870f6997f6f88ea6e2"
 
 [[files]]
 file = "config/mmode.json"
