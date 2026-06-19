@@ -1385,6 +1385,10 @@ hash = "f90f7ee6f54a206ee9f827af7ab79e340e3acbe0f68c4c515dba40ce4beb1cab"
 metafile = true
 
 [[files]]
+file = "mods/placeholder_api-2.4.2+1.21.1-neoforge.jar"
+hash = "ce04ad391a1c27fc7a1179d9eac35ddcb001021e173a56f96e36454d9b170279"
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
 metafile = true
