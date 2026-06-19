@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-redstone-link-gui.pw.toml"
-hash = "9ab39a92ca344625ad6a194f95103bff232141fe80ab4fd0be6574a2dbd5b813"
+hash = "e1fa8784619f7d6e33105ddbdfdd033789034b62447cc10dd1789397c81e7f15"
 metafile = true
 
 [[files]]
