@@ -670,6 +670,11 @@ hash = "baa8c065024d91a3d0b37222fc2bc85b2c7ace524b4c323463ea364e8d21a239"
 metafile = true
 
 [[files]]
+file = "mods/create-redstone-link-gui.pw.toml"
+hash = "9ab39a92ca344625ad6a194f95103bff232141fe80ab4fd0be6574a2dbd5b813"
+metafile = true
+
+[[files]]
 file = "mods/create-sable-dynamic-lights.pw.toml"
 hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
 metafile = true
