@@ -1,0 +1,13 @@
+name = "Mobs Blocker"
+filename = "mobs_blocker-1.2.0-neoforge-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/W0JWCVNo/versions/KOtA4gKs/mobs_blocker-1.2.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "34c80f0cf511a6875cef68def0b3b735df573fea7cb9181a64ccd2e12aa0172f8f666aab0394f1925345e66f7e12bd3f5634e1f03644cb13677742a81395a0c2"
+
+[update]
+[update.modrinth]
+mod-id = "W0JWCVNo"
+version = "KOtA4gKs"

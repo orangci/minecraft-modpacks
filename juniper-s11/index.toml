@@ -153,6 +153,10 @@ file = "config/simple-discord-link/simple-discord-link.toml"
 hash = "c7a93efe1df2224036e6b197ebfd6fbab7f61e186ac9596bb575fbc60bb3c5f0"
 
 [[files]]
+file = "config/spawnblocker.json"
+hash = "5772a6b2eb5e74d32495f2a31a0faf031bdec43a7e553305b988cfad71cad459"
+
+[[files]]
 file = "config/styledplayerlist/config.json"
 hash = "a50d1c340c6e42433e725fe7a3b97e9920bc493b47ca618ecad4998bb6af16e8"
 
@@ -1237,6 +1241,11 @@ metafile = true
 [[files]]
 file = "mods/mmlib.pw.toml"
 hash = "65db1262f3d0823a0795b8b38328c0eceeb4632892f7c168e3c8e6abf4638735"
+metafile = true
+
+[[files]]
+file = "mods/mobsblocker.pw.toml"
+hash = "41271b2d8bf21d1dcbf70c9de687fba659baf89433770277f5a000ba57cd6fbb"
 metafile = true
 
 [[files]]
