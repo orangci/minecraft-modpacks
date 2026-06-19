@@ -405,6 +405,11 @@ hash = "3e4ef8a1b4a51f845e60751b2431cc599aa52b6a43a79dacaa5fc7aadc15fe1c"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
+metafile = true
+
+[[files]]
 file = "mods/bountifulbaublesreforked.pw.toml"
 hash = "5e448ec91d1e74c75d59e6463ff4384ec927cbb21468715147cab8e81bf69b18"
 metafile = true
@@ -867,6 +872,11 @@ metafile = true
 [[files]]
 file = "mods/emojiful.pw.toml"
 hash = "11845b676d375dc89cd0d41ae637e51f78c8747c73baaa3f6539a703196eefe1"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "ac4cbc46bfffd2dcfac4eac2f03d93418abecdf38b2a266e57579c315987ac77"
 metafile = true
 
 [[files]]
@@ -1387,6 +1397,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
