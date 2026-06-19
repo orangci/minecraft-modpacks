@@ -685,11 +685,6 @@ hash = "5d7c434f746d615ea78adfdc4ba6e96452c93b2a68dc939c2ff3611a061e0b21"
 metafile = true
 
 [[files]]
-file = "mods/create-stuff-and-addition-tank-fix.pw.toml"
-hash = "892f1bcad13d7048f0d4c6d372937d76dbb26b438433684426f5be98b08b356b"
-metafile = true
-
-[[files]]
 file = "mods/create-stuff-n-additions-curios-compat.pw.toml"
 hash = "1c02296959d53e94e97f6bb8bd9e99cd68babbf8538dcf58f2bac5e88e804979"
 metafile = true
