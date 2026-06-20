@@ -669,6 +669,11 @@ hash = "789e2c06dee3a587e93214bb982bfec882256fd8e331ffcd136eb0e709cc3c36"
 metafile = true
 
 [[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "055a23471c72576d1f79e2edcd6a20bcaa59ac70c84480fc10069c6469b3f528"
+metafile = true
+
+[[files]]
 file = "mods/create-more-package-couriers.pw.toml"
 hash = "9f6612c3600da90585aaac1020de82c7efaf8d6bfd07b59a56a4489b2e4dd81c"
 metafile = true
