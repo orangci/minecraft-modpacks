@@ -1,13 +1,13 @@
 name = "Create: Redstone Link GUI"
-filename = "createredstonelinkgui-1.21.1-1.7.0.jar"
+filename = "createredstonelinkgui-1.21.1-1.8.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GhtD1QcW/versions/n20KFLPS/createredstonelinkgui-1.21.1-1.7.0.jar"
+url = "https://cdn.modrinth.com/data/GhtD1QcW/versions/Ph9a6als/createredstonelinkgui-1.21.1-1.8.1.jar"
 hash-format = "sha512"
-hash = "c192ccbdcb005714a8a0bcbac64de91fd67515cf52b28b7824bab808372107c39d28d8c5b1eae9cbf601085a86609f68030feb894b7c643ae6b6ff052fe1d965"
+hash = "948563d61e62fb75b53dabb23ee7b86c4b0b794611f71e024e19f563c5faf8ef429fdf877b3e90a8e8b763aaa587df8ed2cc974606372c92d99247f4b6620539"
 
 [update]
 [update.modrinth]
 mod-id = "GhtD1QcW"
-version = "n20KFLPS"
+version = "Ph9a6als"
