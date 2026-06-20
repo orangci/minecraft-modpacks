@@ -344,6 +344,11 @@ hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
+metafile = true
+
+[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "e6c9cd9f480d1c5aef6c9789f7e1806b9096153866ad6b860fb7ba4ae3460501"
 metafile = true
@@ -461,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
