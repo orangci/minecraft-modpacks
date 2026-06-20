@@ -1,0 +1,13 @@
+name = "Time in a bottle Curio Support"
+filename = "tiabcurio-neoforge-1.21.1-3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9cf9dcc79ac84d3175c1f3bb5c4aa510fff02ae9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6109580
+project-id = 835981

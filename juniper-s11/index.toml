@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -971,6 +971,11 @@ metafile = true
 [[files]]
 file = "mods/flat-exp-costs.pw.toml"
 hash = "b1899974f91cb907a6ea96d7646aa206490e22eeb74c89785a91d17ddc14e111"
+metafile = true
+
+[[files]]
+file = "mods/flerovium.pw.toml"
+hash = "18ef5a47bbb0785cd439dadaf9b9fe3c0e0400447230c1686dccc5149d9c6487"
 metafile = true
 
 [[files]]
@@ -1675,6 +1680,16 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "0ccb1c696758d7935d02dd5160987cab8d3594ab24f89deb01c28f9e596094e7"
+metafile = true
+
+[[files]]
+file = "mods/time-in-a-bottle-curio-support.pw.toml"
+hash = "98b73047bff06d737f4fbe01494a3cbd6ece7c519d762fc23d2813e7b39e746d"
+metafile = true
+
+[[files]]
+file = "mods/time-in-a-bottle.pw.toml"
+hash = "95d7dd99e227c763dbf3f32158768c73b3347b20810fb645645c0428a8b03696"
 metafile = true
 
 [[files]]
