@@ -5,10 +5,6 @@ file = ".env.example"
 hash = "adc3c49fb169e3a83dd96f1e1351fe1c2c381a88344a56dc4eee35061c4ff83e"
 
 [[files]]
-file = ".forgejo/CODEOWNERS"
-hash = "c5c9e62acf3232a6793358afd02c0b1f1439cb31dea1957cb935cd9da0de4b5f"
-
-[[files]]
 file = "config/EasyAuth/main.conf"
 hash = "e41cc67961e9e465bbf13158abd8cf2ecd48e055a611123d5bd036e6a06fd74b"
 
