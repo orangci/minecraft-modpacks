@@ -5,6 +5,10 @@ file = ".env.example"
 hash = "adc3c49fb169e3a83dd96f1e1351fe1c2c381a88344a56dc4eee35061c4ff83e"
 
 [[files]]
+file = ".forgejo/CODEOWNERS"
+hash = "c5c9e62acf3232a6793358afd02c0b1f1439cb31dea1957cb935cd9da0de4b5f"
+
+[[files]]
 file = "config/EasyAuth/main.conf"
 hash = "e41cc67961e9e465bbf13158abd8cf2ecd48e055a611123d5bd036e6a06fd74b"
 
@@ -664,6 +668,11 @@ hash = "528c65571f44b8836d0ef34adf1f1f5db5ae002c0eea05f91bb6aaa82fca740c"
 metafile = true
 
 [[files]]
+file = "mods/create-harmonics.pw.toml"
+hash = "251a4c56424c232d478f24f7fe2a01b8ff693eef312e8a8f3237fa8a87084f10"
+metafile = true
+
+[[files]]
 file = "mods/create-idlx.pw.toml"
 hash = "789e2c06dee3a587e93214bb982bfec882256fd8e331ffcd136eb0e709cc3c36"
 metafile = true
@@ -676,6 +685,11 @@ metafile = true
 [[files]]
 file = "mods/create-more-package-couriers.pw.toml"
 hash = "9f6612c3600da90585aaac1020de82c7efaf8d6bfd07b59a56a4489b2e4dd81c"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
 metafile = true
 
 [[files]]
@@ -696,6 +710,11 @@ metafile = true
 [[files]]
 file = "mods/create-sable-dynamic-lights.pw.toml"
 hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
+metafile = true
+
+[[files]]
+file = "mods/create-shuffle-filter.pw.toml"
+hash = "e185fc33db449eb7681a844a1c2cbbee871d9d04ef15667af46a9a852db10312"
 metafile = true
 
 [[files]]
@@ -871,6 +890,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
+metafile = true
+
+[[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "e0da63d5ba6b0649e29325584dd15046070f7b5b251f41fc7e33ce85be240f8f"
 metafile = true
 
 [[files]]
@@ -1740,6 +1764,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
+metafile = true
+
+[[files]]
+file = "mods/vs-hose-connectors.pw.toml"
+hash = "c3c017673463b8f0826966d657956821df911dd46964bd2ad062e00fad6e5028"
 metafile = true
 
 [[files]]
