@@ -294,6 +294,11 @@ hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
 
 [[files]]
+file = "mods/aces-spell-utils.pw.toml"
+hash = "cd38c6ff0a1cd02fd2ed08d1238313cb67b8edb4fc933577ccd4297be6c4663f"
+metafile = true
+
+[[files]]
 file = "mods/actually-useful-smithing-table.pw.toml"
 hash = "940c8f8c6fc7e7af58dc79e2128b6b7c1e8712c773f247f598ee647df93e1a9a"
 metafile = true
@@ -351,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "e6c9cd9f480d1c5aef6c9789f7e1806b9096153866ad6b860fb7ba4ae3460501"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "28c32eb5b2cae73a574951501df136a90e3d43fd664b279d9659e68479b74b18"
 metafile = true
 
 [[files]]
@@ -456,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/cat-loaf.pw.toml"
 hash = "dd535f37be20910d87e64613eedacfdfcf45965ccac594a7e5b3236b3940bb4f"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "d297223abd52c7942e55d0e9b44b0ef5dd3dae908f58bd3ca47696a08cac8296"
 metafile = true
 
 [[files]]
@@ -1045,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+hash = "54634cdd10c4c9db965a9d5f5d550fea63f0d4e9e6ff2b112306b5bd0ca84793"
 metafile = true
 
 [[files]]
@@ -1125,12 +1140,12 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "5fd6319cbba6abaca989daaca456c052b49f388f7789eb1657fbaf736b4009cb"
+hash = "ec000d411bc7cb81fb2a9723e57e8568209e2a67eb7ce2fc7f0e35e4daf14043"
 metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "21af550ee15c7bf9b5be31121febf8f0132aca0bd88c407f8acdabb814f3a2c2"
+hash = "e53136ead606a4431a7d9f4e62337363cf8ccd0da122443c00d0ba2f375d364b"
 metafile = true
 
 [[files]]
@@ -1459,7 +1474,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
