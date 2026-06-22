@@ -1260,7 +1260,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanicals-lib.pw.toml"
-hash = "4e3aaef188d1f975c6ebd539f50021768851f7fc4638079ee72179ec33bf487f"
+hash = "bb99bb8be6f53291663391e321db9e6eb1aea875ecd1e846a5c00a2171517ea0"
 metafile = true
 
 [[files]]
