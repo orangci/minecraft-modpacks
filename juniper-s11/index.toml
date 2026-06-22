@@ -664,11 +664,6 @@ hash = "528c65571f44b8836d0ef34adf1f1f5db5ae002c0eea05f91bb6aaa82fca740c"
 metafile = true
 
 [[files]]
-file = "mods/create-harmonics.pw.toml"
-hash = "251a4c56424c232d478f24f7fe2a01b8ff693eef312e8a8f3237fa8a87084f10"
-metafile = true
-
-[[files]]
 file = "mods/create-idlx.pw.toml"
 hash = "789e2c06dee3a587e93214bb982bfec882256fd8e331ffcd136eb0e709cc3c36"
 metafile = true
