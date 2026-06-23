@@ -1199,6 +1199,16 @@ hash = "f22b9b2717d5c14f4d1f43329e1a9afc71806a1c311108b4ae0db858e9d90569"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+metafile = true
+
+[[files]]
 file = "mods/lazy-engines.pw.toml"
 hash = "bccef76a1bb9fb6d8a7315bba6a675dce2975e68be47a4476e91323f43842187"
 metafile = true
@@ -1246,6 +1256,11 @@ metafile = true
 [[files]]
 file = "mods/lookin-sharp.pw.toml"
 hash = "0266ab8a4bd3e09f0fdacf6fff7182bfd997dd9286bf0f6cdc2025069e23e93d"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "9b32e1374a3d85ccdd4803c8932f72fbeb6357e69d895980e3f24e1974a07ca6"
 metafile = true
 
 [[files]]
@@ -1498,6 +1513,11 @@ hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
 metafile = true
 
 [[files]]
+file = "mods/probejs.pw.toml"
+hash = "4bbc56f6983715ff095638eafab7ca8fee16f602656058b8456e3e8e7f2df918"
+metafile = true
+
+[[files]]
 file = "mods/punchy-fpa.pw.toml"
 hash = "1124f89eebf45179ffbe0b81d165e182ae236e171b8687951f870010d0bbb35f"
 metafile = true
@@ -1535,6 +1555,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]
