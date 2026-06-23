@@ -794,6 +794,11 @@ hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
 metafile = true
 
 [[files]]
+file = "mods/createbetterfps.pw.toml"
+hash = "28e720db43464fe32b9ce591fb02b824ebf691c578fb694f87a98421d3207022"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
 metafile = true
@@ -1814,7 +1819,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "66f85f7c21c70440f919d91a96190854c9af6b50f2214153ea0ab0a5c949ccdc"
+hash = "67121835339ff35bc213b2ede0375d10de4c1fc9f40c7579a47ebc1a3d050648"
 metafile = true
 
 [[files]]
