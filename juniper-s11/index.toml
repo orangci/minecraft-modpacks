@@ -534,6 +534,11 @@ hash = "0d95ab6fc892dec03330bf718c16b9715856b43c22f2031b8db28fe5cc64e926"
 metafile = true
 
 [[files]]
+file = "mods/construction-wands-revived.pw.toml"
+hash = "b136aec557a123e9954bc21d6c77210a840bc97d43725cec180cb97b4f92f425"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "2093cb1975cff3c2e584282bc19340d1d7567dc61c86a0461adce0066d6e3a62"
 metafile = true

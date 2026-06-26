@@ -1,0 +1,13 @@
+name = "Construction Wands Revived"
+filename = "ConstructionWandsRevived-1.21.1-4.0.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d5162efc7f21e4a13ced7cdf3bc209d48c87783"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8260116
+project-id = 1395288
