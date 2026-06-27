@@ -1863,6 +1863,16 @@ hash = "1e30fee541e3099a63a8711daee9aaa8b3e5d408f0530b87e209d31a2f7bb3ba"
 metafile = true
 
 [[files]]
+file = "mods/waystones-sable.pw.toml"
+hash = "f594a4eb1c1780d994e98f55e5bb046693caa90a24ae7cabb5b1d08fa38b2f3d"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "6469e09b6d02aa3f1aeb653c9e33ec948e2bd9d09cabc60a834552783120c018"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
