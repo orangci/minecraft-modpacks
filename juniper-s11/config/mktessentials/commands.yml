@@ -9,9 +9,9 @@
 #  Teleportation Commands
 # ============================================
 teleportation:
-  home: true      # /home, /sethome, /delhome, /homes
-  warp: true      # /warp, /setwarp, /delwarp, /warps
-  spawn: true     # /spawn
+  home: false      # /home, /sethome, /delhome, /homes
+  warp: false      # /warp, /setwarp, /delwarp, /warps
+  spawn: false     # /spawn
   back: true      # /back
   top: true       # /top
   rtp: false       # /rtp (random teleport)
