@@ -684,6 +684,11 @@ hash = "c308b557b01b6e6cc25ee8d6a1a7c78bca2b71be3ae645e40d10cf25259fabcd"
 metafile = true
 
 [[files]]
+file = "mods/create-easy-stock-ticker.pw.toml"
+hash = "de4bcd0988db2d00762da6e174261d92dc8e93c57b66a63a35b6e5833da0086c"
+metafile = true
+
+[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "c3cbea800ad6c0b2442f89f83a40b7bb950c1c3645192348e5ba389dacdc3e55"
 metafile = true
@@ -716,6 +721,11 @@ metafile = true
 [[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "055a23471c72576d1f79e2edcd6a20bcaa59ac70c84480fc10069c6469b3f528"
+metafile = true
+
+[[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "ad5c2fd3c28bd92617c104d5cfc32fc1fd9b16585af1f5631cc4c59954fa8eef"
 metafile = true
 
 [[files]]
@@ -1590,6 +1600,11 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
+metafile = true
+
+[[files]]
+file = "mods/repackaged.pw.toml"
+hash = "55a6245d3b767ba1d0120f83c00a6e1732bdcd166eb4b943e44418980760f090"
 metafile = true
 
 [[files]]
