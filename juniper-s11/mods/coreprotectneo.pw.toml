@@ -1,0 +1,13 @@
+name = "CoreProtectNeo"
+filename = "coreprotectneo-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/J80MzpEK/versions/aypCA1Xn/coreprotectneo-1.0.jar"
+hash-format = "sha512"
+hash = "8c653d87eec5b739410e692e387ad64ffdcde7e5b340ebf6cefcc00c15d3c313c36bb2d20f9ba6a494b8682cafc508046085b7f07df84a210d1ddbb36674717b"
+
+[update]
+[update.modrinth]
+mod-id = "J80MzpEK"
+version = "aypCA1Xn"

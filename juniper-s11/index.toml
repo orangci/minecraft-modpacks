@@ -338,7 +338,7 @@ hash = "b449df3882d48e28b047658dfc897a35c6984dcc44a5a58316c04d5382c5d048"
 
 [[files]]
 file = "kubejs/server_scripts/red_sand.js"
-hash = "4b86b57470efb83d0db16e5025fff787c3c99e568130eb00f1add14b8f2e376c"
+hash = "ff90e4a14c378fe38bfb8e85c3ef91abd6a5f4c9f78bdc3739d1587e073f058c"
 
 [[files]]
 file = "kubejs/server_scripts/waystones.js"
@@ -630,6 +630,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
+file = "mods/coreprotectneo.pw.toml"
+hash = "27b0db24fd47644b4c1ba0848b1adc372c228af68290089e2e8d8f48f0d1d863"
 metafile = true
 
 [[files]]
