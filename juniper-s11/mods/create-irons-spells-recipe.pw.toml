@@ -1,0 +1,13 @@
+name = "Create Iron's Spells Recipe"
+filename = "create_ironspell_recipe-1.2.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb9d0efa60310117e7468b1b5646d174b980dc17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8299197
+project-id = 1448906

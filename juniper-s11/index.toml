@@ -289,6 +289,70 @@ file = "datapacks/vt-crafting-tweaks.zip"
 hash = "34e7c34a11c38d44f7f57f3484f92fd15f186dac09700fc4a4b655284b05ad17"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "074d0711e4acb8ad4f0421127c8df1e8eb73c060bf0417bb159fc05239dbdcb8"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "391b3871de85e96ea20c55f5506c5c1f6b63674ae821dd4dfa5b375252df1b45"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "eb75f1a07b823370786620e6ce85513e51f262d3c78ef725ac2068bc4092f586"
+
+[[files]]
+file = "kubejs/package.json"
+hash = "3d04369a44dc75f6a70dfc51080beb357eb39b395a2db0b6557ce8b9900ceec4"
+
+[[files]]
+file = "kubejs/server_scripts/end_stone.js"
+hash = "7344deff270d67f7984947eb425b94574c1c91eb7b9c2cd5b1af28d6baa46c8f"
+
+[[files]]
+file = "kubejs/server_scripts/ignis_drop.js"
+hash = "55a3c296a797d465fc0bfc1041770a498a156a3ea615ea4c90a1c892496bcb83"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "42c92ad557857b1c4a99cf2ef009e6e65ef00615df0f9513b71312817e938f6f"
+
+[[files]]
+file = "kubejs/server_scripts/mobs_blocker.js"
+hash = "b449df3882d48e28b047658dfc897a35c6984dcc44a5a58316c04d5382c5d048"
+
+[[files]]
+file = "kubejs/server_scripts/red_sand.js"
+hash = "4b86b57470efb83d0db16e5025fff787c3c99e568130eb00f1add14b8f2e376c"
+
+[[files]]
+file = "kubejs/server_scripts/waystones.js"
+hash = "09fb0a0bf00823a39b232a80b7211e43ecd25ee59adfa7c76899809ec9897251"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -711,6 +775,11 @@ metafile = true
 [[files]]
 file = "mods/create-idlx.pw.toml"
 hash = "789e2c06dee3a587e93214bb982bfec882256fd8e331ffcd136eb0e709cc3c36"
+metafile = true
+
+[[files]]
+file = "mods/create-irons-spells-recipe.pw.toml"
+hash = "fa425a7b2711f506c641ee77d7d4a9a376f201440913772fcfea800a4a7acd8f"
 metafile = true
 
 [[files]]
