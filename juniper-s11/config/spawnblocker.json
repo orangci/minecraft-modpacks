@@ -1,3 +1,4 @@
 {
-	"naturalist:butterfly": ["natural"]
+	"naturalist:butterfly": ["!command"],
+	"naturalist:firefly": ["!command"]
 }
