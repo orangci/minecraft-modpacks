@@ -342,7 +342,7 @@ hash = "ff90e4a14c378fe38bfb8e85c3ef91abd6a5f4c9f78bdc3739d1587e073f058c"
 
 [[files]]
 file = "kubejs/server_scripts/waystones.js"
-hash = "09fb0a0bf00823a39b232a80b7211e43ecd25ee59adfa7c76899809ec9897251"
+hash = "08e45e7bbf5424bc5f7186e887d8e4af1e5e8c3e08a073e878cc38325916b3dd"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
