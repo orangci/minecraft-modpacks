@@ -9,6 +9,7 @@ ServerEvents.recipes(event => {
             CreateItem.of("minecraft:stick", 0.2),
             CreateItem.of("minecraft:dead_bush", 0.15),
             CreateItem.of("minecraft:gold_nugget", 0.1),
+            CreateItem.of("minecraft:bone", 0.15),
         ],
         "minecraft:red_sand",
         "createsifter:advanced_brass_mesh"
