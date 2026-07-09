@@ -321,6 +321,14 @@ file = "kubejs/package.json"
 hash = "3d04369a44dc75f6a70dfc51080beb357eb39b395a2db0b6557ce8b9900ceec4"
 
 [[files]]
+file = "kubejs/server_scripts/disabel_superheated_lava_bottomless_supply.js"
+hash = "081f376c70fa4920f2be97a84ab60c120040a7d3d940e941c8f860857563d3af"
+
+[[files]]
+file = "kubejs/server_scripts/disable_superheated_lava_bottomless_supply.js"
+hash = "081f376c70fa4920f2be97a84ab60c120040a7d3d940e941c8f860857563d3af"
+
+[[files]]
 file = "kubejs/server_scripts/end_stone.js"
 hash = "7344deff270d67f7984947eb425b94574c1c91eb7b9c2cd5b1af28d6baa46c8f"
 
@@ -333,12 +341,20 @@ file = "kubejs/server_scripts/jsconfig.json"
 hash = "42c92ad557857b1c4a99cf2ef009e6e65ef00615df0f9513b71312817e938f6f"
 
 [[files]]
+file = "kubejs/server_scripts/maledictus_drop.js"
+hash = "614619afdac21366985bb2220762daa88db00a879651c352254bab2732d398f1"
+
+[[files]]
 file = "kubejs/server_scripts/mobs_blocker.js"
 hash = "b449df3882d48e28b047658dfc897a35c6984dcc44a5a58316c04d5382c5d048"
 
 [[files]]
+file = "kubejs/server_scripts/raw_material_arc_furnace.js"
+hash = "8f808e3905dc80e17dd71f479c8d90a4f9ea6cbdd99eeb39268b2ce575c8bb52"
+
+[[files]]
 file = "kubejs/server_scripts/red_sand.js"
-hash = "ff90e4a14c378fe38bfb8e85c3ef91abd6a5f4c9f78bdc3739d1587e073f058c"
+hash = "73d6428ec1ae99fe27389dc7f5d3ab18abc35da2ad53390e8ee110edfb093aa0"
 
 [[files]]
 file = "kubejs/server_scripts/waystones.js"
@@ -575,6 +591,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
@@ -1395,11 +1416,6 @@ metafile = true
 [[files]]
 file = "mods/lukis-grand-capitals.pw.toml"
 hash = "2fe01d8046db2246c6df01eedd1fbc7837c08cc6d3b2a9017107ade989e86a28"
-metafile = true
-
-[[files]]
-file = "mods/ly-clumps.pw.toml"
-hash = "1cfd095fdcd19dcfab400e8b633b0da982656e784362ac4ae7a2e9054e190d5e"
 metafile = true
 
 [[files]]
