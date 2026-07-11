@@ -349,6 +349,10 @@ file = "kubejs/server_scripts/jsconfig.json"
 hash = "42c92ad557857b1c4a99cf2ef009e6e65ef00615df0f9513b71312817e938f6f"
 
 [[files]]
+file = "kubejs/server_scripts/make_steel_require_heat.js"
+hash = "2b4dd1ca26ba3a0bb834372c7245247ce0fff6a67b5f505c1b673d8c08b434e6"
+
+[[files]]
 file = "kubejs/server_scripts/maledictus_drop.js"
 hash = "614619afdac21366985bb2220762daa88db00a879651c352254bab2732d398f1"
 
@@ -834,6 +838,11 @@ metafile = true
 [[files]]
 file = "mods/create-more-package-couriers.pw.toml"
 hash = "9f6612c3600da90585aaac1020de82c7efaf8d6bfd07b59a56a4489b2e4dd81c"
+metafile = true
+
+[[files]]
+file = "mods/create-nuclear-radiation.pw.toml"
+hash = "ae127f28abbb9010cebb713b88c3b5d679426e0dcb1db9ec458645da32bc6a49"
 metafile = true
 
 [[files]]
