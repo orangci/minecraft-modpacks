@@ -325,8 +325,8 @@ file = "kubejs/package.json"
 hash = "3d04369a44dc75f6a70dfc51080beb357eb39b395a2db0b6557ce8b9900ceec4"
 
 [[files]]
-file = "kubejs/server_scripts/disabel_superheated_lava_bottomless_supply.js"
-hash = "081f376c70fa4920f2be97a84ab60c120040a7d3d940e941c8f860857563d3af"
+file = "kubejs/server_scripts/create_nuclear.js"
+hash = "2656cd4a49b96fba8cc2438ec7e21a686088c5eab85c19ec382ee10466f57da5"
 
 [[files]]
 file = "kubejs/server_scripts/disable_superheated_lava_bottomless_supply.js"
@@ -335,6 +335,10 @@ hash = "081f376c70fa4920f2be97a84ab60c120040a7d3d940e941c8f860857563d3af"
 [[files]]
 file = "kubejs/server_scripts/end_stone.js"
 hash = "7344deff270d67f7984947eb425b94574c1c91eb7b9c2cd5b1af28d6baa46c8f"
+
+[[files]]
+file = "kubejs/server_scripts/fix_create_nuclear_immersive_conflict.js"
+hash = "eda8d9e591f4cf4061f709571cc624e8b7949a5c1878c6fd7c7a2744d42d9e11"
 
 [[files]]
 file = "kubejs/server_scripts/fix_fishing_books.js"
@@ -347,10 +351,6 @@ hash = "55a3c296a797d465fc0bfc1041770a498a156a3ea615ea4c90a1c892496bcb83"
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
 hash = "42c92ad557857b1c4a99cf2ef009e6e65ef00615df0f9513b71312817e938f6f"
-
-[[files]]
-file = "kubejs/server_scripts/make_steel_require_heat.js"
-hash = "2b4dd1ca26ba3a0bb834372c7245247ce0fff6a67b5f505c1b673d8c08b434e6"
 
 [[files]]
 file = "kubejs/server_scripts/maledictus_drop.js"
