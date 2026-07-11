@@ -317,6 +317,10 @@ file = "kubejs/config/web_server.json"
 hash = "eb75f1a07b823370786620e6ce85513e51f262d3c78ef725ac2068bc4092f586"
 
 [[files]]
+file = "kubejs/data/minecraft/tags/enchantment/treasure.json"
+hash = "ec848da55a548b33c1a919e222689f00bb54fb53fc2a761a7873f44902f0aa43"
+
+[[files]]
 file = "kubejs/package.json"
 hash = "3d04369a44dc75f6a70dfc51080beb357eb39b395a2db0b6557ce8b9900ceec4"
 
@@ -331,6 +335,10 @@ hash = "081f376c70fa4920f2be97a84ab60c120040a7d3d940e941c8f860857563d3af"
 [[files]]
 file = "kubejs/server_scripts/end_stone.js"
 hash = "7344deff270d67f7984947eb425b94574c1c91eb7b9c2cd5b1af28d6baa46c8f"
+
+[[files]]
+file = "kubejs/server_scripts/fix_fishing_books.js"
+hash = "f86ece17a9f068b186e4685e54c1d66a94ebee88a44dc780e1167fb4cc188f8a"
 
 [[files]]
 file = "kubejs/server_scripts/ignis_drop.js"
@@ -926,6 +934,11 @@ metafile = true
 [[files]]
 file = "mods/createbetterfps.pw.toml"
 hash = "28e720db43464fe32b9ce591fb02b824ebf691c578fb694f87a98421d3207022"
+metafile = true
+
+[[files]]
+file = "mods/createnuclear.pw.toml"
+hash = "e7a6cda82ddd91e08e2fbadff97d4590861f0ca78d9fa12a8693de25f48a58ac"
 metafile = true
 
 [[files]]
