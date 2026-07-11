@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-nuclear-radiation.pw.toml"
-hash = "ae127f28abbb9010cebb713b88c3b5d679426e0dcb1db9ec458645da32bc6a49"
+hash = "6b7ee5263a34688acec8d5bd442367f4834df77086b9f08a446b0ed112af3d21"
 metafile = true
 
 [[files]]

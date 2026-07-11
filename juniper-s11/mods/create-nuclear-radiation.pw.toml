@@ -1,13 +1,13 @@
 name = "Create Nuclear Radiation"
-filename = "createnuclear_radiation-1.1.0r-neoforge.jar"
+filename = "createnuclear_radiation-1.0.9r-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hzb3i2z9/versions/MFfZguaN/createnuclear_radiation-1.1.0r-neoforge.jar"
+url = "https://cdn.modrinth.com/data/hzb3i2z9/versions/9hscjr1M/createnuclear_radiation-1.0.9r-neoforge.jar"
 hash-format = "sha512"
-hash = "2a0a03a83678b0f95ceb85fa24a06414a33e5437ab97ab217dfeb72df08e35e246044771f75c71b4bc09bf19d7c9d4356768bd3943e4238b37015ba28f8119ac"
+hash = "2d493f3f5cf052778f8858eb4e19ef2759af7ce47c2e7ec320a4b61548dccf2dd095851e9c8af085ec805491b3535cd4cb82346e5a6118dd036162f2ca7a23a6"
 
 [update]
 [update.modrinth]
 mod-id = "hzb3i2z9"
-version = "MFfZguaN"
+version = "9hscjr1M"
