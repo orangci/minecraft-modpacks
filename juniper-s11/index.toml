@@ -831,9 +831,8 @@ hash = "fa425a7b2711f506c641ee77d7d4a9a376f201440913772fcfea800a4a7acd8f"
 metafile = true
 
 [[files]]
-file = "mods/create-kinetic-waypoints.pw.toml"
-hash = "716662bf4e6380f8192fca2d13c50471c97d3ac1112c67293b7e92aaa3078d26"
-metafile = true
+file = "mods/create-kinetic-waypoints-0.1.1-neoforge-1.21.1.jar"
+hash = "d09175e2b503f5b9a4147af90f48191b50052ad5dc4cb2499b417556044008ea"
 
 [[files]]
 file = "mods/create-mechanical-spawner.pw.toml"
