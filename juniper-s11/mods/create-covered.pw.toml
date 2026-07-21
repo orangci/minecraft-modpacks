@@ -1,0 +1,13 @@
+name = "Create: Covered"
+filename = "createcovered-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HcNVSR4n/versions/Q8QAvvwl/createcovered-1.0.3.jar"
+hash-format = "sha512"
+hash = "996efbfe188b5611638e2e8fe1b334349e5322a30abd545f729dd075a9ad0d95037aa2cab198b13142a8d1266dd82f43741d5a0ba538dd4bee2e6302b5c021eb"
+
+[update]
+[update.modrinth]
+mod-id = "HcNVSR4n"
+version = "Q8QAvvwl"

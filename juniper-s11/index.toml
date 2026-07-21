@@ -766,6 +766,11 @@ hash = "e41e7072928f62015d3e92222df00daadfaf4081d3eab95d65ab1e0438bdb48d"
 metafile = true
 
 [[files]]
+file = "mods/create-covered.pw.toml"
+hash = "d3872da6238f748735d28a75e78e705303e27efb30566bd126fd60c0a45c193e"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
@@ -816,8 +821,18 @@ hash = "789e2c06dee3a587e93214bb982bfec882256fd8e331ffcd136eb0e709cc3c36"
 metafile = true
 
 [[files]]
+file = "mods/create-improve.pw.toml"
+hash = "b4d1f139320f54aedaa1cb39a90b35125adcf7400b567eb8ca7ce9b6229049c1"
+metafile = true
+
+[[files]]
 file = "mods/create-irons-spells-recipe.pw.toml"
 hash = "fa425a7b2711f506c641ee77d7d4a9a376f201440913772fcfea800a4a7acd8f"
+metafile = true
+
+[[files]]
+file = "mods/create-kinetic-waypoints.pw.toml"
+hash = "716662bf4e6380f8192fca2d13c50471c97d3ac1112c67293b7e92aaa3078d26"
 metafile = true
 
 [[files]]
@@ -968,6 +983,11 @@ metafile = true
 [[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "7dc4daef7f7fbd4f89aa502f54ec24049a60c016e47d2b37776f3905623e3578"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
 metafile = true
 
 [[files]]
@@ -1378,6 +1398,11 @@ metafile = true
 [[files]]
 file = "mods/lazy-engines.pw.toml"
 hash = "bccef76a1bb9fb6d8a7315bba6a675dce2975e68be47a4476e91323f43842187"
+metafile = true
+
+[[files]]
+file = "mods/leaky.pw.toml"
+hash = "d7fdd40f48a5314608ba2376cb04b115f179a9b137c250902724405835079cf6"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "⚙️Create: Kinetic Waypoints"
+filename = "create-kinetic-waypoints-0.1.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d9923b15e836f0b3fe5ea32aaae32ebdb8e6894"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8430578
+project-id = 1610005
