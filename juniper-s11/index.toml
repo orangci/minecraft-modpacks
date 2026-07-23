@@ -716,6 +716,11 @@ hash = "349b56aa9ea8284fb89e880941d319ce52e50e51d63084472ea93493cff105b7"
 metafile = true
 
 [[files]]
+file = "mods/create-advanced-optimization.pw.toml"
+hash = "33c1f5465583eacd4c68e4c42c6819620f7e0929c815c69b0f0049e8c2346bf4"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-climbable-rope.pw.toml"
 hash = "4826787724dabb396681358d97bce2e5649a4fbad2f210588231d8e7293740e8"
 metafile = true
@@ -748,6 +753,11 @@ metafile = true
 [[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "b79238bd1e524932445f1eadbb6d4944a0890189f8ffc9499662db98c14aac63"
+metafile = true
+
+[[files]]
+file = "mods/create-catalyst.pw.toml"
+hash = "c15b7c8bbddc293fc59c1472b32808ce9c744558b7e6083f186793f97b013e5a"
 metafile = true
 
 [[files]]
@@ -850,6 +860,11 @@ hash = "ad5c2fd3c28bd92617c104d5cfc32fc1fd9b16585af1f5631cc4c59954fa8eef"
 metafile = true
 
 [[files]]
+file = "mods/create-more-fluid-tanks.pw.toml"
+hash = "95b1f4dd3311bde1d03bd5a0682ea8141ae3dc666311660b60d9183ebd5e26b3"
+metafile = true
+
+[[files]]
 file = "mods/create-more-package-couriers.pw.toml"
 hash = "9f6612c3600da90585aaac1020de82c7efaf8d6bfd07b59a56a4489b2e4dd81c"
 metafile = true
@@ -885,6 +900,11 @@ hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
 metafile = true
 
 [[files]]
+file = "mods/create-shared-access.pw.toml"
+hash = "bf141e2d16cb1dc3277337d8c4afbbcf251e14913a11fad697453c56c683dd3e"
+metafile = true
+
+[[files]]
 file = "mods/create-shuffle-filter.pw.toml"
 hash = "e185fc33db449eb7681a844a1c2cbbee871d9d04ef15667af46a9a852db10312"
 metafile = true
@@ -892,6 +912,11 @@ metafile = true
 [[files]]
 file = "mods/create-sifting.pw.toml"
 hash = "a95282ba6853e9f107ff312ae3c353f711c13267ba54b0520c97d37358e9e640"
+metafile = true
+
+[[files]]
+file = "mods/create-signalworks.pw.toml"
+hash = "b5375f2bacc4896d0e3be055ee535561035492e3da5e606ed46fbb934b0e4b0b"
 metafile = true
 
 [[files]]
@@ -1756,6 +1781,11 @@ metafile = true
 [[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "3da8a9aa7208ef7593239ecd755f40a564fd6b1883737796ecf9aab3744140dd"
+metafile = true
+
+[[files]]
+file = "mods/sable-assembly-fix.pw.toml"
+hash = "a6c6563066d2b538b1db60742e53e62f1551069da8b7df8f5db3bda9614e5d29"
 metafile = true
 
 [[files]]

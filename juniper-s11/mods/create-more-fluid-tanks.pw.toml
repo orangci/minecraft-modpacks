@@ -1,0 +1,13 @@
+name = "Create more fluid tanks and pipes"
+filename = "create_more_fluid_tanks-1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BJd3hQKC/versions/OqBmdGrb/create_more_fluid_tanks-1.1.6.jar"
+hash-format = "sha512"
+hash = "fefa1cf16cbd411c8fac874c974d1bfd87853c58eb3342e1c7b26d36dd82f8e398295395aad77a90e1b33038d219a336076cf46a3438c8ad2bcfd4db2b60c198"
+
+[update]
+[update.modrinth]
+mod-id = "BJd3hQKC"
+version = "OqBmdGrb"

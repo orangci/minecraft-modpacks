@@ -1,0 +1,13 @@
+name = "Create: Shared Access"
+filename = "createsecure-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JHtX6Fqw/versions/Z6P7xZki/createsecure-1.21.1.jar"
+hash-format = "sha512"
+hash = "8e845cb4fe983bcde654c3504366ded5fa93abcc0a8deecc4545aed8e9192b15fa0891c81db403a5ae0db07295df9ecb732d548c026c6bcd1ee79b685b47698b"
+
+[update]
+[update.modrinth]
+mod-id = "JHtX6Fqw"
+version = "Z6P7xZki"

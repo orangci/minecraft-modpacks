@@ -1,0 +1,13 @@
+name = "Sable Assembly Fix"
+filename = "SableAssemblyFix-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e00082bf9152d5468ae1f51e93bf3d97af99ca19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8464969
+project-id = 1616700
